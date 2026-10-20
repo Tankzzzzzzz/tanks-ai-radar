@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T08:26:27+00:00",
+  "generated_at": "2026-10-20T08:27:06+00:00",
   "github": {
-    "fetched_at": "2026-10-20T08:26:31+00:00",
+    "fetched_at": "2026-10-20T08:27:07+00:00",
     "url": "https://github.com/trending?since=daily",
     "items": [
       {
@@ -10,7 +10,7 @@
         "url": "https://github.com/MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "stars_today": 3856,
-        "stars": 58509,
+        "stars": 58512,
         "forks": 18447,
         "language": "Python",
         "source": "trending",
@@ -24,7 +24,7 @@
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "stars_today": 1590,
-        "stars": 98787,
+        "stars": 98788,
         "forks": 6297,
         "language": "TypeScript",
         "source": "trending",
@@ -66,7 +66,7 @@
         "url": "https://github.com/akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "stars_today": 666,
-        "stars": 11620,
+        "stars": 11621,
         "forks": 822,
         "language": "Rust",
         "source": "trending",
@@ -136,7 +136,7 @@
         "url": "https://github.com/anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "stars_today": 167,
-        "stars": 152825,
+        "stars": 152826,
         "forks": 27153,
         "language": "TypeScript",
         "source": "trending",
@@ -148,7 +148,7 @@
     "note": "今日 Star 为 GitHub 官方趋势页面口径；搜索兜底为中 Star AI 项目。"
   },
   "openrouter": {
-    "fetched_at": "2026-10-20T08:26:33+00:00",
+    "fetched_at": "2026-10-20T08:27:08+00:00",
     "url": "https://openrouter.ai/rankings",
     "items": [
       {
@@ -170,9 +170,9 @@
         "requests_day": 14176947,
         "share_day": 22.72,
         "rank_week": 2,
-        "tokens_week": 10820014687356,
+        "tokens_week": 10866449823654,
         "rank_month": 2,
-        "tokens_month": 36446531464629,
+        "tokens_month": 36492364166136,
         "rank_delta_week": 0,
         "rank_delta_month": 0,
         "description_zh": "Claude Code 是 Anthropic 的智能体编码工具，可以读取整个代码库、计划和执行跨文件的更改、运行测试以及迭代故障，所有这些都来自自然语言提示。"
@@ -197,9 +197,9 @@
         "requests_day": 15711854,
         "share_day": 22.42,
         "rank_week": 3,
-        "tokens_week": 11825366660051,
+        "tokens_week": 11863373154623,
         "rank_month": 3,
-        "tokens_month": 52662298610968,
+        "tokens_month": 52700294742093,
         "rank_delta_week": 0,
         "rank_delta_month": 0,
         "description_zh": "Hermes Agent 是 Nous Research 开发的一款开源、自我改进的 AI 智能体，它可以跨会话持续运行内存，并根据经验构建可重用的技能。它配备了 40 多个内置工具，包括网络搜索、浏览器自动化和视觉，以及计划的自动化和子智能体。"
@@ -224,9 +224,9 @@
         "requests_day": 8577125,
         "share_day": 10.76,
         "rank_week": 5,
-        "tokens_week": 5397969833267,
+        "tokens_week": 5430504185418,
         "rank_month": 5,
-        "tokens_month": 24401576227911,
+        "tokens_month": 24434098784204,
         "rank_delta_week": 0,
         "rank_delta_month": 0,
         "description_zh": "Kilo Code 是一款开源 AI 编程智能体，可跨 VS Code、JetBrains 和 CLI 运行，帮助开发人员通过智能体工作流程更快地交付代码。"
@@ -250,9 +250,9 @@
         "requests_day": 5059195,
         "share_day": 6.79,
         "rank_week": 7,
-        "tokens_week": 3189489328148,
+        "tokens_week": 3203504755496,
         "rank_month": 8,
-        "tokens_month": 13133105917683,
+        "tokens_month": 13147115117805,
         "rank_delta_week": 1,
         "rank_delta_month": 2,
         "description_zh": "编程智能体有很多，但这一款是您的。"
@@ -277,9 +277,9 @@
         "requests_day": 5217155,
         "share_day": 5.51,
         "rank_week": 6,
-        "tokens_week": 3348800049427,
+        "tokens_week": 3358387239631,
         "rank_month": 6,
-        "tokens_month": 20230524365745,
+        "tokens_month": 20240107837339,
         "rank_delta_week": -1,
         "rank_delta_month": -1,
         "description_zh": "Cline 是一个开源 AI 编程智能体，位于您的 IDE 中，可以自主探索您的代码库、编辑文件、运行终端命令以及使用浏览器自动化。"
@@ -301,9 +301,9 @@
         "requests_day": 2103118,
         "share_day": 5.31,
         "rank_week": 12,
-        "tokens_week": 1821819745621,
+        "tokens_week": 1831434072475,
         "rank_month": 13,
-        "tokens_month": 6555767599432,
+        "tokens_month": 6565377579778,
         "rank_delta_week": 4,
         "rank_delta_month": 5
       },
@@ -326,9 +326,9 @@
         "requests_day": 2109389,
         "share_day": 4.68,
         "rank_week": 11,
-        "tokens_week": 1989768367176,
+        "tokens_week": 1997868822277,
         "rank_month": 11,
-        "tokens_month": 10510281333893,
+        "tokens_month": 10518379650647,
         "rank_delta_week": 1,
         "rank_delta_month": 1
       },
@@ -349,9 +349,9 @@
         "requests_day": 2652191,
         "share_day": 4.52,
         "rank_week": 9,
-        "tokens_week": 2542472552465,
+        "tokens_week": 2548090863805,
         "rank_month": 10,
-        "tokens_month": 10752157164997,
+        "tokens_month": 10757774912266,
         "rank_delta_week": -2,
         "rank_delta_month": -1,
         "description_zh": "强大的编码模型，由广告资助"
@@ -375,9 +375,9 @@
         "requests_day": 3313368,
         "share_day": 3.24,
         "rank_week": 13,
-        "tokens_week": 1268756389011,
+        "tokens_week": 1272933120996,
         "rank_month": 9,
-        "tokens_month": 11566497858769,
+        "tokens_month": 11570673569672,
         "rank_delta_week": 1,
         "rank_delta_month": -3,
         "description_zh": "帮助您构建和发布 AI 的编程智能体"
@@ -402,9 +402,9 @@
         "requests_day": 2660356,
         "share_day": 2.94,
         "rank_week": 10,
-        "tokens_week": 2097123743021,
+        "tokens_week": 2102010792023,
         "rank_month": 12,
-        "tokens_month": 7495875251650,
+        "tokens_month": 7500760168760,
         "rank_delta_week": -3,
         "rank_delta_month": -1,
         "description_zh": "OpenClaw 是一个开源AI 智能体，它连接到您的消息应用程序并代表您采取实际行动，从运行命令和浏览网页到管理文件和发送电子邮件。"
@@ -432,9 +432,9 @@
         "requests_day": 860145,
         "share_day": 2.3,
         "rank_week": 15,
-        "tokens_week": 1136306840140,
+        "tokens_week": 1143961998637,
         "rank_month": 21,
-        "tokens_month": 2150548452851,
+        "tokens_month": 2158200426891,
         "rank_delta_week": 1,
         "rank_delta_month": 7,
         "description_zh": "Proto 是您企业的个人智能体。"
@@ -458,9 +458,9 @@
         "requests_day": 951407,
         "share_day": 1.81,
         "rank_week": 16,
-        "tokens_week": 848368143633,
+        "tokens_week": 850870202410,
         "rank_month": 19,
-        "tokens_month": 2434865615967,
+        "tokens_month": 2437366715085,
         "rank_delta_week": 0,
         "rank_delta_month": 3
       },
@@ -485,16 +485,16 @@
         "requests_day": 942567,
         "share_day": 1.14,
         "rank_week": 18,
-        "tokens_week": 602615860779,
+        "tokens_week": 604360902295,
         "rank_month": 22,
-        "tokens_month": 1944035719959,
+        "tokens_month": 1945780132707,
         "rank_delta_week": -1,
         "rank_delta_month": 3
       },
       {
         "id": "4749832",
         "slug": "",
-        "title": "Aura.agent2.bp_agent",
+        "title": "Aura.agent2.python_agent",
         "description": "",
         "categories": [
           "ide-extension",
@@ -534,9 +534,9 @@
         "requests_day": 1190642,
         "share_day": 0.95,
         "rank_week": 19,
-        "tokens_week": 553748497913,
+        "tokens_week": 554931629365,
         "rank_month": 20,
-        "tokens_month": 2171751509492,
+        "tokens_month": 2172934574374,
         "rank_delta_week": -2,
         "rank_delta_month": -1,
         "description_zh": "AI冒险。与您最喜欢的角色一起旅行"
@@ -560,9 +560,9 @@
         "requests_day": 739972,
         "share_day": 0.89,
         "rank_week": 20,
-        "tokens_week": 505395093045,
+        "tokens_week": 508232953970,
         "rank_month": 15,
-        "tokens_month": 3467144713583,
+        "tokens_month": 3469981663278,
         "rank_delta_week": -2,
         "rank_delta_month": -7,
         "description_zh": "AI编程智能体，可以运行命令、浏览网页、调用APIs"
@@ -584,7 +584,7 @@
         "requests_day": 19005147,
         "share_day": 0.85,
         "rank_week": 23,
-        "tokens_week": 414693591661,
+        "tokens_week": 415283104538,
         "rank_month": null,
         "tokens_month": null,
         "rank_delta_week": 0
@@ -606,9 +606,9 @@
         "requests_day": 1134410,
         "share_day": 0.84,
         "rank_week": 22,
-        "tokens_week": 438096088148,
+        "tokens_week": 438931086266,
         "rank_month": 25,
-        "tokens_month": 1716319451833,
+        "tokens_month": 1717154112634,
         "rank_delta_week": -2,
         "rank_delta_month": 1
       },
@@ -633,9 +633,9 @@
         "requests_day": 288170,
         "share_day": 0.69,
         "rank_week": 26,
-        "tokens_week": 320529528555,
+        "tokens_week": 321494288011,
         "rank_month": 26,
-        "tokens_month": 1268484215656,
+        "tokens_month": 1269448916798,
         "rank_delta_week": 1,
         "rank_delta_month": 1
       },
@@ -658,9 +658,9 @@
         "requests_day": 870403,
         "share_day": 0.68,
         "rank_week": 24,
-        "tokens_week": 396959507736,
+        "tokens_week": 397523783275,
         "rank_month": 24,
-        "tokens_month": 1804164165319,
+        "tokens_month": 1804728279353,
         "rank_delta_week": -2,
         "rank_delta_month": -2,
         "description_zh": "Roblox 游戏的 AI 工具。"
@@ -670,7 +670,7 @@
     "note": "OpenRouter 应用调用量来自公开榜单页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。"
   },
   "producthunt": {
-    "fetched_at": "2026-10-20T08:26:34+00:00",
+    "fetched_at": "2026-10-20T08:27:08+00:00",
     "url": "https://www.producthunt.com/feed?category=artificial-intelligence",
     "items": [
       {
@@ -1127,7 +1127,7 @@
     "note": "Product Hunt 公共订阅源只提供发布信息，不提供票数；按发布时间排序。"
   },
   "huggingface": {
-    "fetched_at": "2026-10-20T08:26:35+00:00",
+    "fetched_at": "2026-10-20T08:27:08+00:00",
     "url": "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=24",
     "items": [
       {
@@ -1636,7 +1636,7 @@
     "note": "Hugging Face 热度分为平台热度信号，不等于商业收入。"
   },
   "lean": {
-    "fetched_at": "2026-10-20T08:26:38+00:00",
+    "fetched_at": "2026-10-20T08:27:08+00:00",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1vMlwTJ8_Lty161T73uwnMzVxb48XzHxz9aPNla5OgCjd2yJ0HMfxEHGSv1OsyGOarWUYDcsJZfmk/pub?gid=0&single=true&output=csv",
     "via": "google",
     "count": 70,
@@ -1644,7 +1644,7 @@
   },
   "lean_extra": {
     "opu": {
-      "fetched_at": "2026-10-20T08:26:39+00:00",
+      "fetched_at": "2026-10-20T08:27:08+00:00",
       "url": "https://www.onepersonunicorn.co/",
       "items": [
         {
@@ -1759,7 +1759,7 @@
       "note": "One Person Unicorn：团队 ≤10 人，ARR 主要为自报/创始人提交，非全部独立核实。"
     },
     "vv": {
-      "fetched_at": "2026-10-20T08:26:41+00:00",
+      "fetched_at": "2026-10-20T08:27:09+00:00",
       "url": "https://www.verticalvelocity.co/",
       "items": [
         {
