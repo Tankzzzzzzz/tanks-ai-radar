@@ -4,6 +4,10 @@
 
 Tank's AI Radar 是一个多源 AI 商业情报看板：每天采集 GitHub、OpenRouter、Product Hunt、Hugging Face 与 Lean AI 营收榜单，用「增长 / 赚钱 / 开源 / 模型 / 新品 / 数据源」六个镜头展示。默认镜头为**增长**。
 
+> **线上地址**：https://tankzzzzzzz.github.io/tanks-ai-radar/
+> **代码仓库**：https://github.com/Tankzzzzzzz/tanks-ai-radar
+> **Actions**：每日 08:00（Asia/Shanghai）采集 + 部署；周日 20:10 额外执行 Lean 源。
+
 - 在线形态：GitHub Actions 定时采集 → 生成静态站 → GitHub Pages 发布
 - 本地形态：`index.html` 单文件，直接双击打开
 - 无账号体系：关注列表与追踪数据保存在本机 `localStorage`
