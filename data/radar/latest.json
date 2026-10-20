@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T08:04:32+00:00",
+  "generated_at": "2026-10-20T08:26:27+00:00",
   "github": {
-    "fetched_at": "2026-10-20T08:04:33+00:00",
+    "fetched_at": "2026-10-20T08:26:31+00:00",
     "url": "https://github.com/trending?since=daily",
     "items": [
       {
@@ -10,12 +10,13 @@
         "url": "https://github.com/MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "stars_today": 3856,
-        "stars": 58448,
-        "forks": 18435,
+        "stars": 58509,
+        "forks": 18447,
         "language": "Python",
         "source": "trending",
         "trending_rank": 1,
-        "rank": 1
+        "rank": 1,
+        "description_zh": "在本地运行的职位搜索。基于 Claude Code 构建的AI 求职框架：评估职位、定制简历、撰写求职信、准备面试。Fork 并自主掌控。"
       },
       {
         "repo": "stablyai/orca",
@@ -23,12 +24,13 @@
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "stars_today": 1590,
-        "stars": 98755,
+        "stars": 98787,
         "forks": 6297,
         "language": "TypeScript",
         "source": "trending",
         "trending_rank": 6,
-        "rank": 2
+        "rank": 2,
+        "description_zh": "Orca 是与智能体团队（例如 Grok Bot、Claude Code）合作的地方。使用您自己的订阅运行任何编程智能体。可在桌面、移动和远程运行时使用。"
       },
       {
         "repo": "anomalyco/opencode",
@@ -36,12 +38,13 @@
         "url": "https://github.com/anomalyco/opencode",
         "description": "The open source coding agent.",
         "stars_today": 1311,
-        "stars": 218187,
+        "stars": 218211,
         "forks": 29149,
         "language": "TypeScript",
         "source": "trending",
         "trending_rank": 2,
-        "rank": 3
+        "rank": 3,
+        "description_zh": "开源编程智能体。"
       },
       {
         "repo": "Comfy-Org/ComfyUI",
@@ -49,12 +52,13 @@
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
         "stars_today": 1011,
-        "stars": 140130,
+        "stars": 140150,
         "forks": 16610,
         "language": "Python",
         "source": "trending",
         "trending_rank": 4,
-        "rank": 4
+        "rank": 4,
+        "description_zh": "最强大的模块化扩散模型 GUI、API 和带有图形/节点接口的后端。世界上最快的本地推理引擎。"
       },
       {
         "repo": "akitaonrails/ai-memory",
@@ -62,12 +66,13 @@
         "url": "https://github.com/akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "stars_today": 666,
-        "stars": 11602,
+        "stars": 11620,
         "forks": 822,
         "language": "Rust",
         "source": "trending",
         "trending_rank": 3,
-        "rank": 5
+        "rank": 5,
+        "description_zh": "用于智能体编码 CLI 的长期记忆解决方案，并促进不同智能体供应商之间的切换"
       },
       {
         "repo": "HKUDS/CLI-Anything",
@@ -75,12 +80,13 @@
         "url": "https://github.com/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "stars_today": 606,
-        "stars": 55453,
-        "forks": 4999,
+        "stars": 55462,
+        "forks": 5000,
         "language": "Python",
         "source": "trending",
         "trending_rank": 10,
-        "rank": 6
+        "rank": 6,
+        "description_zh": "“CLI-Anything：使所有软件智能体原生”--CLI-Hub：https://clianything.cc/"
       },
       {
         "repo": "ruvnet/ruflo",
@@ -88,12 +94,13 @@
         "url": "https://github.com/ruvnet/ruflo",
         "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
         "stars_today": 564,
-        "stars": 77406,
+        "stars": 77421,
         "forks": 9117,
         "language": "TypeScript",
         "source": "trending",
         "trending_rank": 5,
-        "rank": 7
+        "rank": 7,
+        "description_zh": "🌊 原始特工安全带。部署智能多人群体、协调自主工作流程并构建对话式AI系统。具有自适应内存、自学习智能、联邦、矢量 RAG 集成以及本机 Claude Code / Codex / Hermes 等集成功能"
       },
       {
         "repo": "shiyu-coder/Kronos",
@@ -101,12 +108,13 @@
         "url": "https://github.com/shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "stars_today": 363,
-        "stars": 41906,
-        "forks": 6949,
+        "stars": 41929,
+        "forks": 6953,
         "language": "Python",
         "source": "trending",
         "trending_rank": 12,
-        "rank": 8
+        "rank": 8,
+        "description_zh": "Kronos：金融市场语言的基础模型"
       },
       {
         "repo": "headroomlabs-ai/headroom",
@@ -114,12 +122,13 @@
         "url": "https://github.com/headroomlabs-ai/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
         "stars_today": 310,
-        "stars": 76427,
+        "stars": 76433,
         "forks": 5933,
         "language": "Python",
         "source": "trending",
         "trending_rank": 7,
-        "rank": 9
+        "rank": 9,
+        "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。编程智能体的标记减少了 20%，JSON 的标记减少了 60-95%，答案相同。库、智能体、MCP 服务器。"
       },
       {
         "repo": "anthropics/claude-code",
@@ -127,18 +136,19 @@
         "url": "https://github.com/anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "stars_today": 167,
-        "stars": 152813,
-        "forks": 27152,
+        "stars": 152825,
+        "forks": 27153,
         "language": "TypeScript",
         "source": "trending",
         "trending_rank": 11,
-        "rank": 10
+        "rank": 10,
+        "description_zh": "Claude Code 是一种智能体编码工具，位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理 git 工作流程来帮助您更快地编码 - 所有这些都通过自然语言命令进行。"
       }
     ],
-    "note": "Trending 的 stars today 为 GitHub 官方页面口径；搜索兜底为中 Star AI 项目。"
+    "note": "今日 Star 为 GitHub 官方趋势页面口径；搜索兜底为中 Star AI 项目。"
   },
   "openrouter": {
-    "fetched_at": "2026-10-20T08:04:33+00:00",
+    "fetched_at": "2026-10-20T08:26:33+00:00",
     "url": "https://openrouter.ai/rankings",
     "items": [
       {
@@ -164,7 +174,8 @@
         "rank_month": 2,
         "tokens_month": 36446531464629,
         "rank_delta_week": 0,
-        "rank_delta_month": 0
+        "rank_delta_month": 0,
+        "description_zh": "Claude Code 是 Anthropic 的智能体编码工具，可以读取整个代码库、计划和执行跨文件的更改、运行测试以及迭代故障，所有这些都来自自然语言提示。"
       },
       {
         "id": "3067167",
@@ -190,7 +201,8 @@
         "rank_month": 3,
         "tokens_month": 52662298610968,
         "rank_delta_week": 0,
-        "rank_delta_month": 0
+        "rank_delta_month": 0,
+        "description_zh": "Hermes Agent 是 Nous Research 开发的一款开源、自我改进的 AI 智能体，它可以跨会话持续运行内存，并根据经验构建可重用的技能。它配备了 40 多个内置工具，包括网络搜索、浏览器自动化和视觉，以及计划的自动化和子智能体。"
       },
       {
         "id": "2262242",
@@ -216,7 +228,8 @@
         "rank_month": 5,
         "tokens_month": 24401576227911,
         "rank_delta_week": 0,
-        "rank_delta_month": 0
+        "rank_delta_month": 0,
+        "description_zh": "Kilo Code 是一款开源 AI 编程智能体，可跨 VS Code、JetBrains 和 CLI 运行，帮助开发人员通过智能体工作流程更快地交付代码。"
       },
       {
         "id": "2853275",
@@ -241,7 +254,8 @@
         "rank_month": 8,
         "tokens_month": 13133105917683,
         "rank_delta_week": 1,
-        "rank_delta_month": 2
+        "rank_delta_month": 2,
+        "description_zh": "编程智能体有很多，但这一款是您的。"
       },
       {
         "id": "190604",
@@ -267,7 +281,8 @@
         "rank_month": 6,
         "tokens_month": 20230524365745,
         "rank_delta_week": -1,
-        "rank_delta_month": -1
+        "rank_delta_month": -1,
+        "description_zh": "Cline 是一个开源 AI 编程智能体，位于您的 IDE 中，可以自主探索您的代码库、编辑文件、运行终端命令以及使用浏览器自动化。"
       },
       {
         "id": "4706207",
@@ -338,7 +353,8 @@
         "rank_month": 10,
         "tokens_month": 10752157164997,
         "rank_delta_week": -2,
-        "rank_delta_month": -1
+        "rank_delta_month": -1,
+        "description_zh": "强大的编码模型，由广告资助"
       },
       {
         "id": "2668297",
@@ -363,7 +379,8 @@
         "rank_month": 9,
         "tokens_month": 11566497858769,
         "rank_delta_week": 1,
-        "rank_delta_month": -3
+        "rank_delta_month": -3,
+        "description_zh": "帮助您构建和发布 AI 的编程智能体"
       },
       {
         "id": "2725608",
@@ -389,7 +406,8 @@
         "rank_month": 12,
         "tokens_month": 7495875251650,
         "rank_delta_week": -3,
-        "rank_delta_month": -1
+        "rank_delta_month": -1,
+        "description_zh": "OpenClaw 是一个开源AI 智能体，它连接到您的消息应用程序并代表您采取实际行动，从运行命令和浏览网页到管理文件和发送电子邮件。"
       },
       {
         "id": "4725308",
@@ -418,7 +436,8 @@
         "rank_month": 21,
         "tokens_month": 2150548452851,
         "rank_delta_week": 1,
-        "rank_delta_month": 7
+        "rank_delta_month": 7,
+        "description_zh": "Proto 是您企业的个人智能体。"
       },
       {
         "id": "3003505",
@@ -519,7 +538,8 @@
         "rank_month": 20,
         "tokens_month": 2171751509492,
         "rank_delta_week": -2,
-        "rank_delta_month": -1
+        "rank_delta_month": -1,
+        "description_zh": "AI冒险。与您最喜欢的角色一起旅行"
       },
       {
         "id": "189563",
@@ -544,7 +564,8 @@
         "rank_month": 15,
         "tokens_month": 3467144713583,
         "rank_delta_week": -2,
-        "rank_delta_month": -7
+        "rank_delta_month": -7,
+        "description_zh": "AI编程智能体，可以运行命令、浏览网页、调用APIs"
       },
       {
         "id": "4940645",
@@ -641,14 +662,15 @@
         "rank_month": 24,
         "tokens_month": 1804164165319,
         "rank_delta_week": -2,
-        "rank_delta_month": -2
+        "rank_delta_month": -2,
+        "description_zh": "Roblox 游戏的 AI 工具。"
       }
     ],
     "total_tokens_day": 7423636337714,
-    "note": "OpenRouter 应用调用量来自公开 rankings 页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。"
+    "note": "OpenRouter 应用调用量来自公开榜单页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。"
   },
   "producthunt": {
-    "fetched_at": "2026-10-20T08:04:33+00:00",
+    "fetched_at": "2026-10-20T08:26:34+00:00",
     "url": "https://www.producthunt.com/feed?category=artificial-intelligence",
     "items": [
       {
@@ -657,7 +679,8 @@
         "tagline": "The video studio where AI agents edit with you",
         "url": "https://www.producthunt.com/products/lugh-xtudio",
         "published": "2026-10-19T20:08:40-07:00",
-        "author": "Arthur Polimeni"
+        "author": "Arthur Polimeni",
+        "tagline_zh": "AI 智能体与您一起编辑的视频工作室"
       },
       {
         "name": "Intel® GPU D-series",
@@ -665,7 +688,8 @@
         "tagline": "Memory-rich AI inference without HBM",
         "url": "https://www.producthunt.com/products/intel",
         "published": "2026-10-19T19:46:24-07:00",
-        "author": "Zac Zuo"
+        "author": "Zac Zuo",
+        "tagline_zh": "无需 HBM 即可进行丰富内存的 AI 推理"
       },
       {
         "name": "RunInfra",
@@ -673,7 +697,8 @@
         "tagline": "Open models, built for agents.",
         "url": "https://www.producthunt.com/products/runinfra",
         "published": "2026-10-19T16:12:51-07:00",
-        "author": "Jaber Jaber"
+        "author": "Jaber Jaber",
+        "tagline_zh": "开源模型，专为智能体打造。"
       },
       {
         "name": "Stage",
@@ -681,7 +706,8 @@
         "tagline": "Review, fix and sign off working prototypes and products",
         "url": "https://www.producthunt.com/products/stage-9",
         "published": "2026-10-19T14:29:47-07:00",
-        "author": "Utkarsh raj"
+        "author": "Utkarsh raj",
+        "tagline_zh": "审查、修复和签署工作原型和产品"
       },
       {
         "name": "Praex",
@@ -689,7 +715,8 @@
         "tagline": "The coding agent that runs on its own AI models",
         "url": "https://www.producthunt.com/products/praex",
         "published": "2026-10-19T14:26:11-07:00",
-        "author": "Davor Jerkovic"
+        "author": "Davor Jerkovic",
+        "tagline_zh": "在自己的AI模型上运行的编程智能体"
       },
       {
         "name": "Exa 3.0",
@@ -697,7 +724,8 @@
         "tagline": "Smarter search that gives AI agent richer data at lower cost",
         "url": "https://www.producthunt.com/products/exa-ai",
         "published": "2026-10-19T13:05:52-07:00",
-        "author": "Rohan Chaubey"
+        "author": "Rohan Chaubey",
+        "tagline_zh": "更智能的搜索，以更低的成本为AI 智能体提供更丰富的数据"
       },
       {
         "name": "Harness²",
@@ -705,7 +733,8 @@
         "tagline": "Harness the agent. Then harness its self-improvement.",
         "url": "https://www.producthunt.com/products/harness-104",
         "published": "2026-10-19T12:43:26-07:00",
-        "author": "Chris Messina"
+        "author": "Chris Messina",
+        "tagline_zh": "利用智能体。然后利用其自我完善。"
       },
       {
         "name": "call4me",
@@ -713,7 +742,8 @@
         "tagline": "Give your AI agent a phone that calls and answers",
         "url": "https://www.producthunt.com/products/call4me",
         "published": "2026-10-19T11:24:29-07:00",
-        "author": "Nick K"
+        "author": "Nick K",
+        "tagline_zh": "为您的AI 智能体提供一部可以拨打和接听电话的手机"
       },
       {
         "name": "Sorcerer",
@@ -721,7 +751,8 @@
         "tagline": "Simulate an AI agent community reacting to \"what if\"",
         "url": "https://www.producthunt.com/products/sorcerer",
         "published": "2026-10-19T11:20:54-07:00",
-        "author": "Guilherme Brasil"
+        "author": "Guilherme Brasil",
+        "tagline_zh": "模拟 AI 智能体社区对“假设”的反应"
       },
       {
         "name": "The New Beings",
@@ -729,7 +760,8 @@
         "tagline": "AI agents on their break, performing a live talk show",
         "url": "https://www.producthunt.com/products/the-new-beings",
         "published": "2026-10-19T11:03:58-07:00",
-        "author": "Yulia Sergeeva"
+        "author": "Yulia Sergeeva",
+        "tagline_zh": "AI 特工在休息时表演现场脱口秀"
       },
       {
         "name": "Kling 4.0",
@@ -737,7 +769,8 @@
         "tagline": "Fast and affordable AI video for high-frequency creators",
         "url": "https://www.producthunt.com/products/kling-4-0-4",
         "published": "2026-10-19T10:51:17-07:00",
-        "author": "Kate Ramakaieva"
+        "author": "Kate Ramakaieva",
+        "tagline_zh": "为高频创作者提供快速且经济实惠的 AI 视频"
       },
       {
         "name": "Stella",
@@ -745,7 +778,8 @@
         "tagline": "Your emotional wellness AI. A friend to figure it out with.",
         "url": "https://www.producthunt.com/products/stella-5",
         "published": "2026-10-18T20:42:11-07:00",
-        "author": "Max Drut"
+        "author": "Max Drut",
+        "tagline_zh": "您的情绪健康AI。一个朋友可以一起解决这个问题。"
       },
       {
         "name": "Rusteerio by Context.dev",
@@ -753,7 +787,8 @@
         "tagline": "Keep your Cheerio code. Make it faster.",
         "url": "https://www.producthunt.com/products/context-dev",
         "published": "2026-10-18T18:42:06-07:00",
-        "author": "Ely"
+        "author": "Ely",
+        "tagline_zh": "保留您的 Cheerio 代码。让它更快。"
       },
       {
         "name": "Quello",
@@ -761,7 +796,8 @@
         "tagline": "One place to ask, across everything you already use.",
         "url": "https://www.producthunt.com/products/quello",
         "published": "2026-10-18T13:04:48-07:00",
-        "author": "Faiz Jamadar"
+        "author": "Faiz Jamadar",
+        "tagline_zh": "一个可以询问的地方，涵盖您已使用的所有内容。"
       },
       {
         "name": "Beam.win",
@@ -769,7 +805,8 @@
         "tagline": "Run AI agents on one Mac and use its windows on another",
         "url": "https://www.producthunt.com/products/beam-win",
         "published": "2026-10-18T12:13:45-07:00",
-        "author": "Hiten Shah"
+        "author": "Hiten Shah",
+        "tagline_zh": "在一台 Mac 上运行 AI 智能体并在另一台 Mac 上使用其窗口"
       },
       {
         "name": "Own 1",
@@ -777,7 +814,8 @@
         "tagline": "Own your data. Own your AI. A mind of your own.",
         "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
         "published": "2026-10-18T01:46:56-07:00",
-        "author": "Ryan Taylor"
+        "author": "Ryan Taylor",
+        "tagline_zh": "拥有您的数据。拥有你的AI。有你自己的想法。"
       },
       {
         "name": "bonds",
@@ -785,7 +823,8 @@
         "tagline": "Every friends' chat gets an AI friend with superpowers",
         "url": "https://www.producthunt.com/products/bonds-2",
         "published": "2026-10-17T11:04:38-07:00",
-        "author": "Juandi Sanchez"
+        "author": "Juandi Sanchez",
+        "tagline_zh": "每个好友的聊天都会有一位拥有超能力的AI好友"
       },
       {
         "name": "Tomo for ChatGPT",
@@ -793,7 +832,8 @@
         "tagline": "Ask anything. Then play it, Duolingo-style.",
         "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
         "published": "2026-10-17T03:14:13-07:00",
-        "author": "Mohannad Ali"
+        "author": "Mohannad Ali",
+        "tagline_zh": "询问任何事情。然后玩 Duolingo 风格的游戏。"
       },
       {
         "name": "Salience",
@@ -801,7 +841,8 @@
         "tagline": "See every request to your website and how it responds.",
         "url": "https://www.producthunt.com/products/salience",
         "published": "2026-10-16T20:46:40-07:00",
-        "author": "Carl Hendy"
+        "author": "Carl Hendy",
+        "tagline_zh": "查看对您网站的每个请求及其响应方式。"
       },
       {
         "name": "GPU Terminal by Context.dev",
@@ -809,7 +850,8 @@
         "tagline": "Compare GPU rental prices across cloud providers",
         "url": "https://www.producthunt.com/products/context-dev",
         "published": "2026-10-16T18:32:08-07:00",
-        "author": "Ely"
+        "author": "Ely",
+        "tagline_zh": "比较各云提供商的 GPU 租赁价格"
       },
       {
         "name": "MyLens",
@@ -817,7 +859,8 @@
         "tagline": "1-1 Live Presentations at Scale with AI.",
         "url": "https://www.producthunt.com/products/mylens-ai",
         "published": "2026-10-16T14:46:17-07:00",
-        "author": "Ardalan Mirshani"
+        "author": "Ardalan Mirshani",
+        "tagline_zh": "利用 AI 进行大规模 1-1 现场演示。"
       },
       {
         "name": "Wally by Willow",
@@ -825,7 +868,8 @@
         "tagline": "Your Scribe agent that learns how you write",
         "url": "https://www.producthunt.com/products/willow-voice",
         "published": "2026-10-16T14:44:53-07:00",
-        "author": "Sharath Kuruganty"
+        "author": "Sharath Kuruganty",
+        "tagline_zh": "您的 Scribe 智能体会学习您的写作方式"
       },
       {
         "name": "Step 5 Preview",
@@ -833,7 +877,8 @@
         "tagline": "600B open weights, trained for long-running agents",
         "url": "https://www.producthunt.com/products/step-3-5-flash",
         "published": "2026-10-16T08:06:14-07:00",
-        "author": "Zac Zuo"
+        "author": "Zac Zuo",
+        "tagline_zh": "600B 开放式重量，针对长时间运行的智能体进行训练"
       },
       {
         "name": "Framefields",
@@ -841,7 +886,8 @@
         "tagline": "Open-source code-first video for AGI era",
         "url": "https://www.producthunt.com/products/framefields",
         "published": "2026-10-16T07:58:02-07:00",
-        "author": "Okan Aslankan"
+        "author": "Okan Aslankan",
+        "tagline_zh": "AGI时代的开源代码优先视频"
       },
       {
         "name": "3AM Super Intelligence",
@@ -849,7 +895,8 @@
         "tagline": "Production incidents: investigated, proven, fixed",
         "url": "https://www.producthunt.com/products/3am-super-intelligence",
         "published": "2026-10-16T07:08:51-07:00",
-        "author": "Siddhesh Kulthe"
+        "author": "Siddhesh Kulthe",
+        "tagline_zh": "生产事故：调查、证实、修复"
       },
       {
         "name": "Tori",
@@ -857,7 +904,8 @@
         "tagline": "The smartest AI support agent for customer success",
         "url": "https://www.producthunt.com/products/tori-3",
         "published": "2026-10-16T05:24:54-07:00",
-        "author": "Joshua Schoenaker"
+        "author": "Joshua Schoenaker",
+        "tagline_zh": "帮助客户取得成功的最智能AI支持智能体"
       },
       {
         "name": "Emochi",
@@ -865,7 +913,8 @@
         "tagline": "Voice journal to understand yourself through art and science",
         "url": "https://www.producthunt.com/products/emochi-2",
         "published": "2026-10-16T00:43:37-07:00",
-        "author": "Nick Zieber"
+        "author": "Nick Zieber",
+        "tagline_zh": "通过艺术和科学了解自己的语音日记"
       },
       {
         "name": "ToDo.is",
@@ -873,7 +922,8 @@
         "tagline": "Write a to-do and your AI agent gets it done",
         "url": "https://www.producthunt.com/products/todo-is",
         "published": "2026-10-15T17:10:20-07:00",
-        "author": "Zac Zuo"
+        "author": "Zac Zuo",
+        "tagline_zh": "写下待办事项，您的AI 智能体就会完成它"
       },
       {
         "name": "Krea 3",
@@ -881,7 +931,8 @@
         "tagline": "Krea's AI image model: 2K edits in under 8 seconds",
         "url": "https://www.producthunt.com/products/krea",
         "published": "2026-10-15T17:01:46-07:00",
-        "author": "Justin Jincaid"
+        "author": "Justin Jincaid",
+        "tagline_zh": "Krea 的 AI 图像模型：8 秒内完成 2K 次编辑"
       },
       {
         "name": "Toad",
@@ -889,7 +940,8 @@
         "tagline": "Point your agent at any machine you own.",
         "url": "https://www.producthunt.com/products/toad-4",
         "published": "2026-10-15T09:36:36-07:00",
-        "author": "Dawson Dominguez"
+        "author": "Dawson Dominguez",
+        "tagline_zh": "将您的智能体指向您拥有的任何机器。"
       },
       {
         "name": "Bee Frontier and Bee Eclipse",
@@ -897,7 +949,8 @@
         "tagline": "Amazon's personal AI memory, now on your wrist or phone",
         "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
         "published": "2026-10-15T08:11:11-07:00",
-        "author": "Justin Jincaid"
+        "author": "Justin Jincaid",
+        "tagline_zh": "亚马逊的个人AI记忆，现在在你的手腕或手机上"
       },
       {
         "name": "Craft Agents",
@@ -905,7 +958,8 @@
         "tagline": "The world's most powerful agents, with the UX they deserve",
         "url": "https://www.producthunt.com/products/craft-agents",
         "published": "2026-10-14T21:48:37-07:00",
-        "author": "Gyula Halmos"
+        "author": "Gyula Halmos",
+        "tagline_zh": "世界上最强大的智能体，拥有他们应得的用户体验"
       },
       {
         "name": "CrewTower Mod for Claude Code",
@@ -913,7 +967,8 @@
         "tagline": "Talk to Claude Code right from your MacBook notch",
         "url": "https://www.producthunt.com/products/crew-tower",
         "published": "2026-10-14T14:15:16-07:00",
-        "author": "Said Altan"
+        "author": "Said Altan",
+        "tagline_zh": "直接从 MacBook 缺口处与 Claude Code 通话"
       },
       {
         "name": "buddylist",
@@ -921,7 +976,8 @@
         "tagline": "Chat with your coding agents like it's 2005",
         "url": "https://www.producthunt.com/products/buddylist-2",
         "published": "2026-10-14T09:47:59-07:00",
-        "author": "Safa Elmali"
+        "author": "Safa Elmali",
+        "tagline_zh": "像 2005 年一样与您的编程智能体聊天"
       },
       {
         "name": "Notion: Context for your agents",
@@ -929,7 +985,8 @@
         "tagline": "Switch AI agents without re-explaining your work",
         "url": "https://www.producthunt.com/products/notion",
         "published": "2026-10-14T00:00:19-07:00",
-        "author": "Kate Ramakaieva"
+        "author": "Kate Ramakaieva",
+        "tagline_zh": "无需重新解释您的工作即可切换 AI 智能体"
       },
       {
         "name": "Train with Pasta",
@@ -937,7 +994,8 @@
         "tagline": "A personal trainer powered by Apple Intelligence",
         "url": "https://www.producthunt.com/products/train-with-pasta",
         "published": "2026-10-13T09:21:27-07:00",
-        "author": "Tim Shim"
+        "author": "Tim Shim",
+        "tagline_zh": "由 Apple Intelligence 提供支持的私人教练"
       },
       {
         "name": "readywhen",
@@ -945,7 +1003,8 @@
         "tagline": "The senior personal assistant that works inside WhatsApp",
         "url": "https://www.producthunt.com/products/readywhen",
         "published": "2026-10-13T02:05:46-07:00",
-        "author": "KP"
+        "author": "KP",
+        "tagline_zh": "WhatsApp 内部工作的高级私人助理"
       },
       {
         "name": "Openbroca",
@@ -953,7 +1012,8 @@
         "tagline": "Lightweight AI dictation for Mac that sounds like you",
         "url": "https://www.producthunt.com/products/openbroca",
         "published": "2026-10-12T10:32:18-07:00",
-        "author": "Timothy Lau"
+        "author": "Timothy Lau",
+        "tagline_zh": "适用于 Mac 的轻量级 AI 听写，听起来像你一样"
       },
       {
         "name": "yggy",
@@ -961,7 +1021,8 @@
         "tagline": "The AI knowledge graph that builds itself",
         "url": "https://www.producthunt.com/products/yggy",
         "published": "2026-10-12T07:56:55-07:00",
-        "author": "Dominik Müller"
+        "author": "Dominik Müller",
+        "tagline_zh": "自行构建的AI知识图谱"
       },
       {
         "name": "Jotform App Builder for ChatGPT & Claude",
@@ -969,7 +1030,8 @@
         "tagline": "Build and edit no-code apps inside ChatGPT & Claude",
         "url": "https://www.producthunt.com/products/jotform",
         "published": "2026-10-12T05:34:44-07:00",
-        "author": "Aytekin"
+        "author": "Aytekin",
+        "tagline_zh": "在 ChatGPT 和 Claude 内构建和编辑无代码应用程序"
       },
       {
         "name": "Kai Resolve by Gleap",
@@ -977,7 +1039,8 @@
         "tagline": "Support that does the digging for you.",
         "url": "https://www.producthunt.com/products/gleap",
         "published": "2026-10-12T02:37:41-07:00",
-        "author": "Thomas Schranz ⛄️"
+        "author": "Thomas Schranz ⛄️",
+        "tagline_zh": "支持为您进行挖掘。"
       },
       {
         "name": "CrawlForge MCP",
@@ -985,7 +1048,8 @@
         "tagline": "Give your AI agent 31 web tools in one MCP server",
         "url": "https://www.producthunt.com/products/crawlforge-mcp",
         "published": "2026-10-11T16:38:09-07:00",
-        "author": "Simon Lacey"
+        "author": "Simon Lacey",
+        "tagline_zh": "在一台 MCP 服务器中为您的 AI 智能体提供 31 个 Web 工具"
       },
       {
         "name": "Inbox Zero",
@@ -993,7 +1057,8 @@
         "tagline": "Open-source Superhuman alternative",
         "url": "https://www.producthunt.com/products/inbox-zero-2",
         "published": "2026-10-10T09:45:36-07:00",
-        "author": "Ben Lang"
+        "author": "Ben Lang",
+        "tagline_zh": "开源超人替代方案"
       },
       {
         "name": "NitroStack",
@@ -1001,7 +1066,8 @@
         "tagline": "Build, test, and deploy MCP servers in one place",
         "url": "https://www.producthunt.com/products/nitrostack",
         "published": "2026-10-08T08:53:30-07:00",
-        "author": "Ben Lang"
+        "author": "Ben Lang",
+        "tagline_zh": "在一处构建、测试和部署 MCP 服务器"
       },
       {
         "name": "Beam",
@@ -1009,7 +1075,8 @@
         "tagline": "Highly efficient agentic 501B parameter open model",
         "url": "https://www.producthunt.com/products/beam-13",
         "published": "2026-10-05T17:17:47-07:00",
-        "author": "Chris Messina"
+        "author": "Chris Messina",
+        "tagline_zh": "高效agentic 501B参数开源模型"
       },
       {
         "name": "Composio Instant",
@@ -1017,7 +1084,8 @@
         "tagline": "The easiest way for AI agents to pay for their own tools",
         "url": "https://www.producthunt.com/products/composio",
         "published": "2026-09-30T07:02:39-07:00",
-        "author": "fmerian"
+        "author": "fmerian",
+        "tagline_zh": "AI 智能体为自己的工具付费的最简单方式"
       },
       {
         "name": "Popcraft",
@@ -1025,7 +1093,8 @@
         "tagline": "Generate video, images & audio from any AI agent",
         "url": "https://www.producthunt.com/products/popcraft",
         "published": "2026-09-29T01:31:33-07:00",
-        "author": "Eric"
+        "author": "Eric",
+        "tagline_zh": "从任何 AI 智能体生成视频、图像和音频"
       },
       {
         "name": "Parrot",
@@ -1033,7 +1102,8 @@
         "tagline": "Smart Meeting Assistant for Mac that helps during the call",
         "url": "https://www.producthunt.com/products/parrot-10",
         "published": "2026-09-24T11:02:58-07:00",
-        "author": "Uygar Turantekin"
+        "author": "Uygar Turantekin",
+        "tagline_zh": "适用于 Mac 的智能会议助手可在通话过程中提供帮助"
       },
       {
         "name": "Lancetta",
@@ -1041,7 +1111,8 @@
         "tagline": "Know when to push your coding agents, and when to ease off",
         "url": "https://www.producthunt.com/products/lancetta",
         "published": "2026-09-18T06:40:37-07:00",
-        "author": "Giovambattista Fazioli"
+        "author": "Giovambattista Fazioli",
+        "tagline_zh": "知道何时推动你的编程智能体，何时放松"
       },
       {
         "name": "ESP-Mosaico",
@@ -1049,13 +1120,14 @@
         "tagline": "A modular development board built for agents",
         "url": "https://www.producthunt.com/products/esp-mosaico",
         "published": "2026-09-14T19:00:38-07:00",
-        "author": "Ethan Lin"
+        "author": "Ethan Lin",
+        "tagline_zh": "专为智能体打造的模块化开发板"
       }
     ],
-    "note": "Product Hunt 公共 Atom feed 只提供发布信息，不提供票数；按发布时间排序。"
+    "note": "Product Hunt 公共订阅源只提供发布信息，不提供票数；按发布时间排序。"
   },
   "huggingface": {
-    "fetched_at": "2026-10-20T08:04:33+00:00",
+    "fetched_at": "2026-10-20T08:26:35+00:00",
     "url": "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=24",
     "items": [
       {
@@ -1063,8 +1135,8 @@
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "downloads": 17924,
-        "likes": 1770,
-        "trending_score": 1599,
+        "likes": 1775,
+        "trending_score": 1604,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1084,7 +1156,7 @@
         "name": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
         "downloads": 393062,
-        "likes": 1007,
+        "likes": 1009,
         "trending_score": 775,
         "pipeline": "image-to-image",
         "library": "diffusion-single-file",
@@ -1127,7 +1199,7 @@
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
         "downloads": 76410,
         "likes": 1072,
-        "trending_score": 684,
+        "trending_score": 679,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1147,8 +1219,8 @@
         "name": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "downloads": 167750,
-        "likes": 2735,
-        "trending_score": 592,
+        "likes": 2736,
+        "trending_score": 585,
         "pipeline": "feature-extraction",
         "library": "transformers",
         "tags": [
@@ -1169,7 +1241,7 @@
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "downloads": 109937,
         "likes": 2006,
-        "trending_score": 579,
+        "trending_score": 572,
         "pipeline": "text-generation",
         "library": "gguf",
         "tags": [
@@ -1189,8 +1261,8 @@
         "name": "meta-models/Muse-Spark-Open-816B-A42B",
         "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
         "downloads": 2109,
-        "likes": 588,
-        "trending_score": 539,
+        "likes": 590,
+        "trending_score": 541,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1231,8 +1303,8 @@
         "name": "black-forest-labs/flux-3-image-klein",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
         "downloads": 62006,
-        "likes": 535,
-        "trending_score": 485,
+        "likes": 536,
+        "trending_score": 486,
         "pipeline": "image-to-image",
         "library": "diffusers",
         "tags": [
@@ -1253,7 +1325,7 @@
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "downloads": 2019834,
         "likes": 8523,
-        "trending_score": 440,
+        "trending_score": 439,
         "pipeline": "image-to-video",
         "library": "diffusion-single-file",
         "tags": [
@@ -1294,8 +1366,8 @@
         "name": "OpenMOSS-Team/MOSS-Image-Base",
         "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
         "downloads": 2774,
-        "likes": 401,
-        "trending_score": 380,
+        "likes": 402,
+        "trending_score": 381,
         "pipeline": "text-to-image",
         "library": "diffusers",
         "tags": [
@@ -1316,7 +1388,7 @@
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "downloads": 2739572,
         "likes": 4658,
-        "trending_score": 371,
+        "trending_score": 369,
         "pipeline": "text-to-image",
         "library": "gguf",
         "tags": [
@@ -1357,8 +1429,8 @@
         "name": "datalab-to/indra-ocr",
         "url": "https://huggingface.co/datalab-to/indra-ocr",
         "downloads": 2433,
-        "likes": 252,
-        "trending_score": 248,
+        "likes": 253,
+        "trending_score": 249,
         "pipeline": "image-to-text",
         "library": "onnx",
         "tags": [
@@ -1374,12 +1446,31 @@
         "created_at": "2026-10-10T14:12:33.000Z"
       },
       {
+        "id": "Comfy-Org/MOSS-Image",
+        "name": "Comfy-Org/MOSS-Image",
+        "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+        "downloads": 673110,
+        "likes": 251,
+        "trending_score": 245,
+        "pipeline": null,
+        "library": "diffusion-single-file",
+        "tags": [
+          "diffusion-single-file",
+          "comfyui",
+          "base_model:OpenMOSS-Team/MOSS-Image-Base",
+          "base_model:finetune:OpenMOSS-Team/MOSS-Image-Base",
+          "license:apache-2.0",
+          "region:us"
+        ],
+        "created_at": "2026-10-16T12:42:32.000Z"
+      },
+      {
         "id": "baidu/Unlimited-OCR",
         "name": "baidu/Unlimited-OCR",
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "downloads": 1799825,
         "likes": 4828,
-        "trending_score": 245,
+        "trending_score": 243,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1395,31 +1486,12 @@
         "created_at": "2026-06-19T09:40:33.000Z"
       },
       {
-        "id": "Comfy-Org/MOSS-Image",
-        "name": "Comfy-Org/MOSS-Image",
-        "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
-        "downloads": 673110,
-        "likes": 250,
-        "trending_score": 244,
-        "pipeline": null,
-        "library": "diffusion-single-file",
-        "tags": [
-          "diffusion-single-file",
-          "comfyui",
-          "base_model:OpenMOSS-Team/MOSS-Image-Base",
-          "base_model:finetune:OpenMOSS-Team/MOSS-Image-Base",
-          "license:apache-2.0",
-          "region:us"
-        ],
-        "created_at": "2026-10-16T12:42:32.000Z"
-      },
-      {
         "id": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
         "name": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
         "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
         "downloads": 6047,
-        "likes": 242,
-        "trending_score": 238,
+        "likes": 243,
+        "trending_score": 239,
         "pipeline": "image-text-to-text",
         "library": "Model Optimizer",
         "tags": [
@@ -1440,7 +1512,7 @@
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
         "downloads": 25033,
         "likes": 1001,
-        "trending_score": 234,
+        "trending_score": 231,
         "pipeline": "text-to-image",
         "library": "diffusers",
         "tags": [
@@ -1460,8 +1532,8 @@
         "name": "tencent/Hy-Memory-30B-A3B",
         "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
         "downloads": 1571,
-        "likes": 224,
-        "trending_score": 221,
+        "likes": 225,
+        "trending_score": 222,
         "pipeline": "text-generation",
         "library": "transformers",
         "tags": [
@@ -1481,8 +1553,8 @@
         "name": "facebook/sam3",
         "url": "https://huggingface.co/facebook/sam3",
         "downloads": 1902371,
-        "likes": 4715,
-        "trending_score": 212,
+        "likes": 4717,
+        "trending_score": 213,
         "pipeline": "mask-generation",
         "library": "transformers",
         "tags": [
@@ -1523,8 +1595,8 @@
         "name": "mistralai/Timestral-209M",
         "url": "https://huggingface.co/mistralai/Timestral-209M",
         "downloads": 2601,
-        "likes": 207,
-        "trending_score": 199,
+        "likes": 208,
+        "trending_score": 200,
         "pipeline": "time-series-forecasting",
         "library": "timestral",
         "tags": [
@@ -1545,7 +1617,7 @@
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
         "downloads": 33388,
         "likes": 395,
-        "trending_score": 182,
+        "trending_score": 180,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1561,10 +1633,10 @@
         "created_at": "2026-10-06T17:40:13.000Z"
       }
     ],
-    "note": "Hugging Face trendingScore 为平台热度信号，不等于商业收入。"
+    "note": "Hugging Face 热度分为平台热度信号，不等于商业收入。"
   },
   "lean": {
-    "fetched_at": "2026-10-20T08:04:34+00:00",
+    "fetched_at": "2026-10-20T08:26:38+00:00",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1vMlwTJ8_Lty161T73uwnMzVxb48XzHxz9aPNla5OgCjd2yJ0HMfxEHGSv1OsyGOarWUYDcsJZfmk/pub?gid=0&single=true&output=csv",
     "via": "google",
     "count": 70,
@@ -1572,7 +1644,7 @@
   },
   "lean_extra": {
     "opu": {
-      "fetched_at": "2026-10-20T08:04:34+00:00",
+      "fetched_at": "2026-10-20T08:26:39+00:00",
       "url": "https://www.onepersonunicorn.co/",
       "items": [
         {
@@ -1687,7 +1759,7 @@
       "note": "One Person Unicorn：团队 ≤10 人，ARR 主要为自报/创始人提交，非全部独立核实。"
     },
     "vv": {
-      "fetched_at": "2026-10-20T08:04:34+00:00",
+      "fetched_at": "2026-10-20T08:26:41+00:00",
       "url": "https://www.verticalvelocity.co/",
       "items": [
         {

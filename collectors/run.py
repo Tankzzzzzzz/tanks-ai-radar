@@ -7,43 +7,43 @@ from datetime import datetime, timezone
 
 if __package__ in (None, ""):
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    from collectors import github_trending, huggingface, lean_boards, openrouter_apps, producthunt
+    from collectors import github_trending, huggingface, lean_boards, openrouter_apps, producthunt, translate
     from collectors.common import RADAR_DIR, load_previous, now_iso, save_json
 else:
-    from . import github_trending, huggingface, lean_boards, openrouter_apps, producthunt
+    from . import github_trending, huggingface, lean_boards, openrouter_apps, producthunt, translate
     from .common import RADAR_DIR, load_previous, now_iso, save_json
 
 SOURCES = [
     {
         "key": "github",
-        "name": "GitHub Trending",
+        "name": "GitHub 趋势",
         "url": "https://github.com/trending?since=daily",
         "frequency": "每日",
-        "method": "公开页面解析 + GitHub Search API 兜底",
+        "method": "公开页面解析 + GitHub 搜索 API 兜底",
         "confidence": "高",
-        "note": "stars today 为 GitHub Trending 口径；非 AI 项目会被过滤。",
+        "note": "今日 Star 为 GitHub 趋势口径；非 AI 项目会被过滤。",
     },
     {
         "key": "openrouter",
-        "name": "OpenRouter Rankings",
+        "name": "OpenRouter 应用榜",
         "url": "https://openrouter.ai/rankings",
         "frequency": "每日",
-        "method": "公开 rankings 页面内嵌数据",
+        "method": "公开榜单页面内嵌数据",
         "confidence": "中高",
         "note": "只覆盖通过 OpenRouter 路由的调用，不等于公司总营收。",
     },
     {
         "key": "producthunt",
-        "name": "Product Hunt · AI",
+        "name": "Product Hunt · AI 新品",
         "url": "https://www.producthunt.com/topics/artificial-intelligence",
         "frequency": "每日",
-        "method": "公开 Atom Feed",
+        "method": "公开订阅源",
         "confidence": "中",
-        "note": "Feed 不含票数，按发布时间排序；用于发现新品。",
+        "note": "订阅源不含票数，按发布时间排序；用于发现新品。",
     },
     {
         "key": "huggingface",
-        "name": "Hugging Face Trending",
+        "name": "Hugging Face 趋势",
         "url": "https://huggingface.co/models?sort=trending",
         "frequency": "每日",
         "method": "官方公开 API",
@@ -52,7 +52,7 @@ SOURCES = [
     },
     {
         "key": "lean",
-        "name": "Lean AI Leaderboard",
+        "name": "Lean AI 榜单",
         "url": "https://leanaileaderboard.com/",
         "frequency": "每周日 20:00（源站）",
         "method": "官方公开表格 + Jina 镜像兜底",
@@ -61,7 +61,7 @@ SOURCES = [
     },
     {
         "key": "opu",
-        "name": "One Person Unicorn",
+        "name": "一人公司榜 · OPU",
         "url": "https://www.onepersonunicorn.co/",
         "frequency": "随提交（不定期）",
         "method": "公开页面表格",
@@ -70,7 +70,7 @@ SOURCES = [
     },
     {
         "key": "vv",
-        "name": "Vertical Velocity",
+        "name": "垂直 AI 人均 ARR",
         "url": "https://www.verticalvelocity.co/",
         "frequency": "不定期（2026-09 快照）",
         "method": "公开页面表格",
@@ -79,7 +79,7 @@ SOURCES = [
     },
     {
         "key": "a16z",
-        "name": "a16z Top 100 Gen AI Apps",
+        "name": "a16z 消费级 AI Top 100",
         "url": "https://a16z.com/100-gen-ai-apps-7/",
         "frequency": "报告型（2026-10-05 第 7 版）",
         "method": "人工结构化导入（待接入）",
@@ -90,7 +90,7 @@ SOURCES = [
     },
     {
         "key": "rankai",
-        "name": "Rank.ai · Companies",
+        "name": "Rank.ai 公司榜",
         "url": "https://www.rank.ai/rankings/families/companies",
         "frequency": "快照型（2026-10-18）",
         "method": "人工结构化导入（待接入）",
@@ -191,6 +191,13 @@ def main():
             else:
                 latest[key] = {"fetched_at": None, "items": [], "error": str(exc)}
                 record(src, "error", 0, str(exc))
+
+    try:
+        translate.translate_items((latest.get("github") or {}).get("items", []), "description")
+        translate.translate_items((latest.get("openrouter") or {}).get("items", []), "description")
+        translate.translate_items((latest.get("producthunt") or {}).get("items", []), "tagline")
+    except Exception as exc:  # noqa: BLE001 - translation must never block collection
+        print("translation failed:", exc)
 
     save_json(os.path.join(RADAR_DIR, "latest.json"), latest)
     save_json(os.path.join(RADAR_DIR, "status.json"), {"generated_at": latest["generated_at"], "sources": status})

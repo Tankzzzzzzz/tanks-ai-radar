@@ -28,5 +28,5 @@ def collect():
         "fetched_at": now_iso(),
         "url": URL,
         "items": items,
-        "note": "Hugging Face trendingScore 为平台热度信号，不等于商业收入。",
+        "note": "Hugging Face 热度分为平台热度信号，不等于商业收入。",
     }

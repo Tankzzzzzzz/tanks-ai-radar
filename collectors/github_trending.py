@@ -109,5 +109,5 @@ def collect():
         "fetched_at": now_iso(),
         "url": TRENDING_URL,
         "items": items[:30],
-        "note": "Trending 的 stars today 为 GitHub 官方页面口径；搜索兜底为中 Star AI 项目。",
+        "note": "今日 Star 为 GitHub 官方趋势页面口径；搜索兜底为中 Star AI 项目。",
     }

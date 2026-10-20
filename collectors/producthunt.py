@@ -35,5 +35,5 @@ def collect():
         "fetched_at": now_iso(),
         "url": URL,
         "items": items[:60],
-        "note": "Product Hunt 公共 Atom feed 只提供发布信息，不提供票数；按发布时间排序。",
+        "note": "Product Hunt 公共订阅源只提供发布信息，不提供票数；按发布时间排序。",
     }

@@ -319,6 +319,39 @@ async function refreshRepo(id) {
 const SOURCE_BY_KEY = Object.fromEntries((SOURCES || []).map(x => [x.key, x]));
 const LENS_KEYS = ["growth", "lean", "github", "models", "launches", "sources"];
 
+const PIPELINE_ZH = {
+  "text-generation": "文本生成", "image-text-to-text": "图文理解 / 生成",
+  "text-to-speech": "语音合成", "image-to-image": "图像生成 / 编辑",
+  "feature-extraction": "特征提取", "text-to-image": "文生图",
+  "text-to-video": "文生视频", "image-to-video": "图生视频",
+  "automatic-speech-recognition": "语音识别", "text-to-audio": "音频生成",
+  "audio-classification": "音频分类", "text-classification": "文本分类",
+  "question-answering": "问答", "summarization": "摘要",
+  "translation": "翻译", "object-detection": "目标检测",
+  "image-segmentation": "图像分割", "depth-estimation": "深度估计",
+  "video-classification": "视频分类", "zero-shot-image-classification": "零样本图像分类",
+};
+const CATEGORY_ZH = {
+  "cli-agent": "CLI 智能体", "personal-agent": "个人智能体", "ide-extension": "IDE 插件",
+  "coding-agent": "编程智能体", "chat": "对话", "image": "图像", "video": "视频",
+  "audio": "音频", "productivity": "生产力", "writing": "写作",
+  "search": "搜索", "data": "数据", "developer-tools": "开发工具",
+};
+const SECTOR_ZH = {
+  "Healthcare": "医疗健康", "Defense": "国防", "Other": "其他", "Finance": "金融",
+  "Home Services": "家庭服务", "Real Estate": "房地产", "Insurance": "保险",
+  "Legal": "法律", "Construction": "建筑", "Enterprise": "企业服务", "Sales": "销售",
+  "Education": "教育", "Retail": "零售", "Manufacturing": "制造",
+};
+const PROFIT_ZH = { "yes": "是", "no": "否", "unknown": "未知", "": "—" };
+
+function pipelineZh(p) { return PIPELINE_ZH[p] || p || "—"; }
+function categoriesZh(cats) {
+  return (cats || []).map(c => CATEGORY_ZH[c] || c).join(" / ") || "应用";
+}
+function sectorZh(s) { return SECTOR_ZH[s] || s || "—"; }
+function profitZh(p) { return PROFIT_ZH[String(p || "").toLowerCase()] || p || "—"; }
+
 function compact(n, digits = 1) {
   if (n == null) return "—";
   const v = Number(n);
@@ -356,19 +389,19 @@ function signalUrl(source, item) {
 function signalSummary(source, item) {
   if (source === "github") {
     const bits = [];
-    if (item.stars_today != null) bits.push(`+${fmtNum(item.stars_today)} stars today`);
-    if (item.stars != null) bits.push(`${compact(item.stars)} total`);
+    if (item.stars_today != null) bits.push(`今日 +${fmtNum(item.stars_today)} Star`);
+    if (item.stars != null) bits.push(`总 ${compact(item.stars)} Star`);
     if (item.language) bits.push(item.language);
     return bits.join(" · ");
   }
   if (source === "openrouter") {
-    const bits = [`源榜 #${item.rank_day || item.rank || "—"}`, `${compact(item.tokens_day)} tokens/day`];
+    const bits = [`源榜 #${item.rank_day || item.rank || "—"}`, `${compact(item.tokens_day)} tokens/日`];
     if (item.share_day != null) bits.push(`${item.share_day}% share`);
     return bits.join(" · ");
   }
   if (source === "producthunt") return item.tagline || "New launch";
   if (source === "huggingface") {
-    const bits = [`score ${fmtNum(item.trending_score)}`, `${compact(item.downloads)} downloads`, `${fmtNum(item.likes)} likes`];
+    const bits = [`热度 ${fmtNum(item.trending_score)}`, `${compact(item.downloads)} 下载`, `${fmtNum(item.likes)} 点赞`];
     return bits.join(" · ");
   }
   return "";
@@ -398,9 +431,9 @@ function signalMetricRows(source, item) {
   if (source === "github") {
     rows.push(["今日 Star", item.stars_today != null ? "+" + fmtNum(item.stars_today) : "—"]);
     rows.push(["总 Star", fmtNum(item.stars)]);
-    rows.push(["Forks", fmtNum(item.forks)]);
+    rows.push(["Fork 数", fmtNum(item.forks)]);
     rows.push(["语言", item.language || "—"]);
-    rows.push(["Trending 排名", "#" + (item.trending_rank || item.rank || "—")]);
+    rows.push(["趋势排名", "#" + (item.trending_rank || item.rank || "—")]);
     rows.push(["最近采集", metaFetched(source)]);
   } else if (source === "openrouter") {
     rows.push(["日榜", "#" + (item.rank_day || "—")]);
@@ -409,7 +442,7 @@ function signalMetricRows(source, item) {
     rows.push(["日 Tokens", compact(item.tokens_day)]);
     rows.push(["日请求", fmtNum(item.requests_day)]);
     rows.push(["日份额", item.share_day != null ? item.share_day + "%" : "—"]);
-    rows.push(["类别", (item.categories || []).join(" / ") || "—"]);
+    rows.push(["类别", categoriesZh(item.categories)]);
     rows.push(["应用 ID", item.id || "—"]);
     rows.push(["最近采集", metaFetched(source)]);
   } else if (source === "producthunt") {
@@ -417,11 +450,11 @@ function signalMetricRows(source, item) {
     rows.push(["作者", item.author || "—"]);
     rows.push(["最近采集", metaFetched(source)]);
   } else if (source === "huggingface") {
-    rows.push(["Trending", fmtNum(item.trending_score)]);
-    rows.push(["Likes", fmtNum(item.likes)]);
-    rows.push(["Downloads", fmtNum(item.downloads)]);
-    rows.push(["Pipeline", item.pipeline || "—"]);
-    rows.push(["Created", item.created_at ? item.created_at.slice(0, 10) : "—"]);
+    rows.push(["热度", fmtNum(item.trending_score)]);
+    rows.push(["点赞", fmtNum(item.likes)]);
+    rows.push(["下载", fmtNum(item.downloads)]);
+    rows.push(["类型", pipelineZh(item.pipeline)]);
+    rows.push(["创建", item.created_at ? item.created_at.slice(0, 10) : "—"]);
     rows.push(["最近采集", metaFetched(source)]);
   }
   return rows;
@@ -437,7 +470,7 @@ function openSignal(source, id) {
     <div class="signal-detail-head">
       <div class="drawer-cat">${esc(meta.name || source)} · ${esc(meta.confidence || "—")}</div>
       <h2 id="signalTitle">${esc(signalName(source, item))}</h2>
-      <p class="signal-desc">${esc(item.description || item.tagline || "—")}</p>
+      <p class="signal-desc">${esc(item.description_zh || item.tagline_zh || item.description || item.tagline || "—")}</p>
     </div>
     <div class="signal-metrics">${rows}</div>
     <div class="signal-links">
@@ -463,11 +496,11 @@ function githubCardHTML(item) {
   return `<article class="signal-card" data-open-signal="github|${esc(id)}">
     <div class="signal-card-top">
       <span class="source-badge">GITHUB</span>
-      <span class="signal-hot">+${fmtNum(item.stars_today || 0)} ★ today</span>
+      <span class="signal-hot">+${fmtNum(item.stars_today || 0)} ★ 今日</span>
     </div>
     <h3>${esc(item.repo)}</h3>
-    <p>${esc(item.description || "—")}</p>
-    <div class="signal-card-meta"><span>${esc(item.language || "—")}</span><span>${compact(item.stars)} total stars</span><span>#${item.trending_rank || item.rank || "—"}</span></div>
+    <p>${esc(item.description_zh || item.description || "—")}</p>
+    <div class="signal-card-meta"><span>${esc(item.language || "—")}</span><span>总 Star ${compact(item.stars)}</span><span>#${item.trending_rank || item.rank || "—"}</span></div>
     <div class="signal-card-foot">
       <button type="button" class="signal-watch ${watched ? "on" : ""}" data-watch-signal="github|${esc(id)}" aria-pressed="${watched}">${watched ? "★" : "☆"}</button>
       <span class="text-link">详情 →</span>
@@ -481,7 +514,7 @@ function openrouterRowHTML(item, index) {
     <span class="radar-rank">${index + 1}</span>
     <div class="radar-main">
       <div class="radar-title">${esc(item.title)} <span class="source-badge small">OPENROUTER</span></div>
-      <div class="radar-meta">源榜 #${item.rank_day || "—"} · ${esc((item.categories || []).join(" / ") || "app")} · ${compact(item.tokens_day)} tokens/day · ${fmtNum(item.requests_day)} requests · ${item.share_day != null ? item.share_day + "% 份额" : ""}</div>
+      <div class="radar-meta">源榜 #${item.rank_day || "—"} · ${esc(categoriesZh(item.categories))} · ${compact(item.tokens_day)} tokens/日 · ${fmtNum(item.requests_day)} 请求 · ${item.share_day != null ? item.share_day + "% 份额" : ""}</div>
     </div>
     <div class="radar-delta">${item.rank_delta_month > 0 ? "↑" + item.rank_delta_month : item.rank_delta_month < 0 ? "↓" + Math.abs(item.rank_delta_month) : "—"}<span>vs 月榜</span></div>
     <button type="button" class="signal-watch ${watched ? "on" : ""}" data-watch-signal="openrouter|${esc(id)}" aria-pressed="${watched}">${watched ? "★" : "☆"}</button>
@@ -491,7 +524,7 @@ function launchRowHTML(item) {
   const id = signalKey("producthunt", item);
   const watched = isSignalWatched("producthunt", id);
   return `<div class="launch-item" data-open-signal="producthunt|${esc(id)}">
-    <div class="launch-main"><div class="launch-title">${esc(item.title)} <span class="source-badge small">PH</span></div><p>${esc(item.tagline || "—")}</p></div>
+    <div class="launch-main"><div class="launch-title">${esc(item.title)} <span class="source-badge small">PH</span></div><p>${esc(item.tagline_zh || item.tagline || "—")}</p></div>
     <div class="launch-meta"><span>${esc(item.author || "")}</span><span>${relTime(item.published)}</span></div>
     <button type="button" class="signal-watch ${watched ? "on" : ""}" data-watch-signal="producthunt|${esc(id)}" aria-pressed="${watched}">${watched ? "★" : "☆"}</button>
   </div>`;
@@ -500,8 +533,8 @@ function modelRowHTML(item) {
   const id = signalKey("huggingface", item);
   const watched = isSignalWatched("huggingface", id);
   return `<div class="model-item" data-open-signal="huggingface|${esc(id)}">
-    <div class="model-main"><div class="model-title">${esc(item.id)} <span class="source-badge small">HF</span></div><p>${esc(item.pipeline || "")}</p></div>
-    <div class="model-metrics"><span>score <b>${fmtNum(item.trending_score)}</b></span><span>${compact(item.downloads)} downloads</span><span>${fmtNum(item.likes)} likes</span></div>
+    <div class="model-main"><div class="model-title">${esc(item.id)} <span class="source-badge small">HF</span></div><p>${esc(pipelineZh(item.pipeline))}</p></div>
+    <div class="model-metrics"><span>热度 <b>${fmtNum(item.trending_score)}</b></span><span>${compact(item.downloads)} 下载</span><span>${fmtNum(item.likes)} 点赞</span></div>
     <button type="button" class="signal-watch ${watched ? "on" : ""}" data-watch-signal="huggingface|${esc(id)}" aria-pressed="${watched}">${watched ? "★" : "☆"}</button>
   </div>`;
 }
@@ -520,8 +553,8 @@ function renderGithubPage() {
   const items = radarItems("github");
   $("#githubList").innerHTML = items.length ? items.map((item, i) => `<div class="entity-row" data-open-signal="github|${esc(signalKey("github", item))}">
     <span class="entity-rank">${String(i + 1).padStart(2, "0")}</span>
-    <div class="entity-main"><div class="entity-title">${esc(item.repo)}</div><p>${esc(item.description || "—")}</p></div>
-    <div class="entity-metrics"><span>+${fmtNum(item.stars_today || 0)} ★ today</span><span>${compact(item.stars)} total</span><span>${esc(item.language || "—")}</span></div>
+    <div class="entity-main"><div class="entity-title">${esc(item.repo)}</div><p>${esc(item.description_zh || item.description || "—")}</p></div>
+    <div class="entity-metrics"><span>+${fmtNum(item.stars_today || 0)} ★ 今日</span><span>总 ${compact(item.stars)} Star</span><span>${esc(item.language || "—")}</span></div>
     <button type="button" class="signal-watch ${isSignalWatched("github", signalKey("github", item)) ? "on" : ""}" data-watch-signal="github|${esc(signalKey("github", item))}">${isSignalWatched("github", signalKey("github", item)) ? "★" : "☆"}</button>
   </div>`).join("") : '<div class="empty-inline">暂无数据</div>';
 }
@@ -529,8 +562,8 @@ function renderModelsPage() {
   const items = radarItems("huggingface");
   $("#modelList").innerHTML = items.length ? items.map((item, i) => `<div class="entity-row" data-open-signal="huggingface|${esc(signalKey("huggingface", item))}">
     <span class="entity-rank">${String(i + 1).padStart(2, "0")}</span>
-    <div class="entity-main"><div class="entity-title">${esc(item.id)}</div><p>${esc(item.pipeline || "")}</p></div>
-    <div class="entity-metrics"><span>score ${fmtNum(item.trending_score)}</span><span>${compact(item.downloads)} downloads</span><span>${fmtNum(item.likes)} likes</span></div>
+    <div class="entity-main"><div class="entity-title">${esc(item.id)}</div><p>${esc(pipelineZh(item.pipeline))}</p></div>
+    <div class="entity-metrics"><span>热度 ${fmtNum(item.trending_score)}</span><span>${compact(item.downloads)} 下载</span><span>${fmtNum(item.likes)} 点赞</span></div>
     <button type="button" class="signal-watch ${isSignalWatched("huggingface", item.id) ? "on" : ""}" data-watch-signal="huggingface|${esc(item.id)}">${isSignalWatched("huggingface", item.id) ? "★" : "☆"}</button>
   </div>`).join("") : '<div class="empty-inline">暂无数据</div>';
 }
@@ -538,7 +571,7 @@ function renderLaunchesPage() {
   const items = radarItems("producthunt");
   $("#launchList").innerHTML = items.length ? items.map(item => `<div class="entity-row" data-open-signal="producthunt|${esc(signalKey("producthunt", item))}">
     <span class="entity-rank">${relTime(item.published).replace("前", "")}</span>
-    <div class="entity-main"><div class="entity-title">${esc(item.title)}</div><p>${esc(item.tagline || "")}</p></div>
+    <div class="entity-main"><div class="entity-title">${esc(item.title)}</div><p>${esc(item.tagline_zh || item.tagline || "")}</p></div>
     <div class="entity-metrics"><span>${esc(item.author || "")}</span><span>${fmtDateTime(item.published)}</span></div>
     <button type="button" class="signal-watch ${isSignalWatched("producthunt", signalKey("producthunt", item)) ? "on" : ""}" data-watch-signal="producthunt|${esc(signalKey("producthunt", item))}">${isSignalWatched("producthunt", signalKey("producthunt", item)) ? "★" : "☆"}</button>
   </div>`).join("") : '<div class="empty-inline">暂无数据</div>';
@@ -602,7 +635,7 @@ function updateTicker() {
   const parts = [];
   gh.forEach(x => parts.push(`<span class="ticker-item"><b>GH</b> ${esc(x.repo)} <span class="t-accent">+${fmtNum(x.stars_today || 0)}★</span></span>`));
   or.forEach(x => parts.push(`<span class="ticker-item"><b>OR</b> ${esc(x.title)} <span class="t-accent">${compact(x.tokens_day)} tok/d</span></span>`));
-  ph.forEach(x => parts.push(`<span class="ticker-item"><b>PH</b> ${esc(x.title)} <span class="t-accent">NEW</span></span>`));
+  ph.forEach(x => parts.push(`<span class="ticker-item"><b>PH</b> ${esc(x.title)} <span class="t-accent">新品</span></span>`));
   hf.forEach(x => parts.push(`<span class="ticker-item"><b>HF</b> ${esc(x.id)} <span class="t-accent">score ${fmtNum(x.trending_score)}</span></span>`));
   const html = parts.join("") || '<span class="ticker-item">等待数据采集…</span>';
   $$(".ticker-seq").forEach(el => { el.innerHTML = html; });
@@ -616,15 +649,15 @@ function renderLeanExtra(kind) {
   const data = kind === "opu" ? (LEAN_EXTRA.opu || {}) : (LEAN_EXTRA.vv || {});
   const items = data.items || [];
   if (kind === "opu") {
-    box.innerHTML = `<div class="lean-extra-head"><div><span class="eyebrow">ONE PERSON UNICORN</span><h3>一人公司 · 团队 ≤10 人</h3></div><span class="source-badge">SELF-REPORTED</span></div>
+    box.innerHTML = `<div class="lean-extra-head"><div><span class="eyebrow">一人公司 · OPU</span><h3>一人公司 · 团队 ≤10 人</h3></div><span class="source-badge">自报数据</span></div>
       ${items.length ? `<div class="lean-table-wrap"><table class="lean-table"><thead><tr><th>#</th><th>公司</th><th>类别</th><th>ARR</th><th>团队</th><th>人均 ARR</th><th>成立</th><th>盈利</th><th>工具</th></tr></thead><tbody>
-      ${items.map(x => `<tr><td>${x.rank}</td><td><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a></td><td>${esc(x.category)}</td><td>${esc(x.arr)}</td><td>${esc(x.team)}</td><td>${esc(x.rpe)}</td><td>${esc(x.founded)}</td><td>${esc(x.profitable)}</td><td class="lean-tools">${esc(x.tools || "—")}</td></tr>`).join("")}
+      ${items.map(x => `<tr><td>${x.rank}</td><td><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a></td><td>${esc(x.category === "AI Tools" ? "AI 工具" : x.category === "SaaS" ? "SaaS" : x.category)}</td><td>${esc(x.arr)}</td><td>${esc(x.team)}</td><td>${esc(x.rpe)}</td><td>${esc(x.founded)}</td><td>${esc(profitZh(x.profitable))}</td><td class="lean-tools">${esc(x.tools || "—")}</td></tr>`).join("")}
       </tbody></table></div>` : '<div class="empty-inline">暂无数据</div>'}
       <p class="lean-note">${esc(data.note || "")}</p>`;
   } else {
-    box.innerHTML = `<div class="lean-extra-head"><div><span class="eyebrow">VERTICAL VELOCITY</span><h3>垂直 AI · 人均 ARR</h3></div><span class="source-badge">PERIODIC</span></div>
+    box.innerHTML = `<div class="lean-extra-head"><div><span class="eyebrow">垂直 AI · VV</span><h3>垂直 AI · 人均 ARR</h3></div><span class="source-badge">定期更新</span></div>
       ${items.length ? `<div class="lean-table-wrap"><table class="lean-table"><thead><tr><th>#</th><th>公司</th><th>行业</th><th>人均 ARR</th><th>ARR</th></tr></thead><tbody>
-      ${items.map(x => `<tr><td>${x.rank}</td><td><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a></td><td>${esc(x.sector)}</td><td>${esc(x.arr_per_employee)}</td><td>${esc(x.arr)}</td></tr>`).join("")}
+      ${items.map(x => `<tr><td>${x.rank}</td><td><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a></td><td>${esc(sectorZh(x.sector))}</td><td>${esc(x.arr_per_employee)}</td><td>${esc(x.arr)}</td></tr>`).join("")}
       </tbody></table></div>` : '<div class="empty-inline">暂无数据</div>'}
       <p class="lean-note">${esc(data.note || "")}</p>`;
   }
@@ -691,12 +724,12 @@ function renderNewsShell(target) {
   $("#newsTitle").textContent = target.name;
   $("#newsBody").innerHTML = `
     <div class="news-head">
-      <div class="drawer-cat">SENTIMENT · LATEST SIGNALS</div>
+      <div class="drawer-cat">舆情 · 最新资讯</div>
       <h2 id="newsTitleInner">${esc(target.name)} <span class="news-q">检索词：${esc(q)}</span></h2>
       <div class="news-links">${links.map(([label, url]) => `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)} ↗</a>`).join("")}</div>
     </div>
     <div class="news-section">
-      <div class="news-section-head"><span>HACKER NEWS · 最新讨论</span><span class="mono">近 365 天</span></div>
+      <div class="news-section-head"><span>Hacker News · 最新讨论（英文）</span><span class="mono">近 365 天</span></div>
       <div id="newsFeed" class="news-feed"><div class="news-loading">正在检索最新资讯…</div></div>
     </div>
     ${target.github && normalizeRepo(target.github) ? `<div class="news-section" id="newsReleases"><div class="news-section-head"><span>GITHUB · 最新发布</span></div><div class="news-loading">正在读取 Releases…</div></div>` : ""}
@@ -967,7 +1000,7 @@ function syncCardHtml() {
 function trackItemHtml(w) {
   if (w.type === "signal") {
     const due = dueState(w);
-    const metaLabel = { github: "GitHub", openrouter: "OpenRouter", producthunt: "Product Hunt", huggingface: "Hugging Face" }[w.source] || w.source;
+    const metaLabel = { github: "GitHub", openrouter: "OpenRouter 应用", producthunt: "Product Hunt 新品", huggingface: "Hugging Face 模型" }[w.source] || w.source;
     return `<div class="track-item ${due.due ? "is-due" : ""}" data-id="${esc(w.id)}">
       <div class="track-head">
         <span class="type-badge signal">${esc(metaLabel)}</span>
@@ -1187,7 +1220,7 @@ function card(c, i) {
 }
 function ctaCard() {
   return `<a class="cta-card" href="https://forms.gle/ceEFvWH9nPiD2bMT8" target="_blank" rel="noopener">
-    <div class="cta-top"><span class="rank">MISSING</span><span class="cat">OPEN CALL</span></div>
+    <div class="cta-top"><span class="rank">待收录</span><span class="cat">开放征集</span></div>
     <div>
       <h2>还知道更 lean 的公司？</h2>
       <p>ARR &gt; $5M、员工 &lt; 50、成立 &lt; 5 年，或人均 ARR &gt; $1M。<br>推荐给官方榜单，下一版就可能出现在这里。</p>
@@ -1274,7 +1307,7 @@ function openDrawer(rank, push = true) {
 
   $("#drawerIdx").textContent = `NO.${String(c.rank).padStart(2, "0")} / ${COMPANIES.length}`;
   $("#drawerBody").innerHTML = `
-    <div class="drawer-cat">${esc(c.category)} · ${esc(c.desc)}</div>
+    <div class="drawer-cat">${esc(c.category)} · ${esc(c.descZh || c.desc)}</div>
     <h2 id="drawerTitle">${esc(c.name)}</h2>
     <div class="drawer-sub">
       <span>${esc(c.loc)}</span>
@@ -1311,17 +1344,17 @@ function openDrawer(rank, push = true) {
     <div class="section">
       <div class="section-head"><span class="section-num">01</span><h3>商业模式</h3></div>
       <p>${esc(c.model)}</p>
-      <div class="tagline">Customer · Product · Revenue model</div>
+      <div class="tagline">客户 · 产品 · 收入模型</div>
     </div>
     <div class="section">
       <div class="section-head"><span class="section-num">02</span><h3>护城河</h3></div>
       <p>${esc(c.moat)}</p>
-      <div class="tagline">Data · Distribution · Switching cost</div>
+      <div class="tagline">数据 · 分发 · 切换成本</div>
     </div>
     <div class="section">
       <div class="section-head"><span class="section-num">03</span><h3>最新进展</h3></div>
       <p>${esc(c.progress)}</p>
-      <div class="tagline">Latest signals · ${esc(c.snap)} snapshot</div>
+      <div class="tagline">最新信号 · ${esc(c.snap)} 快照</div>
     </div>
     ${srcs.length ? `<div class="drawer-sources"><div class="src-label">参考来源</div>${srcs.map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\/(www\.)?/, "").split("?")[0])} ↗</a>`).join("")}</div>` : ""}
     <div class="drawer-foot">

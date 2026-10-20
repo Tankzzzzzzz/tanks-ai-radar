@@ -80,5 +80,5 @@ def collect():
         "url": URL,
         "items": items[:30],
         "total_tokens_day": total_day,
-        "note": "OpenRouter 应用调用量来自公开 rankings 页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。",
+        "note": "OpenRouter 应用调用量来自公开榜单页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。",
     }

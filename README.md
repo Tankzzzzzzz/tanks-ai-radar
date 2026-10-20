@@ -122,6 +122,7 @@ open index.html
 | `preview*.png` | 页面预览 |
 | `data/radar/latest.json` | 最新雷达数据 |
 | `data/radar/status.json` | 数据源健康状态 |
+| `data/radar/i18n_cache.json` | 中文翻译缓存（避免重复翻译） |
 | `data/companies.json` | Lean 公司结构化数据 |
 | `build.py` / `src/` | 构建脚本与前端源码 |
 
