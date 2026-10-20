@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T07:20:50+00:00",
+  "generated_at": "2026-10-20T08:04:32+00:00",
   "github": {
-    "fetched_at": "2026-10-20T07:20:52+00:00",
+    "fetched_at": "2026-10-20T08:04:33+00:00",
     "url": "https://github.com/trending?since=daily",
     "items": [
       {
@@ -10,8 +10,8 @@
         "url": "https://github.com/MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "stars_today": 3856,
-        "stars": 58313,
-        "forks": 18421,
+        "stars": 58448,
+        "forks": 18435,
         "language": "Python",
         "source": "trending",
         "trending_rank": 1,
@@ -23,7 +23,7 @@
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "stars_today": 1590,
-        "stars": 98704,
+        "stars": 98755,
         "forks": 6297,
         "language": "TypeScript",
         "source": "trending",
@@ -36,8 +36,8 @@
         "url": "https://github.com/anomalyco/opencode",
         "description": "The open source coding agent.",
         "stars_today": 1311,
-        "stars": 218144,
-        "forks": 29146,
+        "stars": 218187,
+        "forks": 29149,
         "language": "TypeScript",
         "source": "trending",
         "trending_rank": 2,
@@ -49,8 +49,8 @@
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
         "stars_today": 1011,
-        "stars": 140076,
-        "forks": 16607,
+        "stars": 140130,
+        "forks": 16610,
         "language": "Python",
         "source": "trending",
         "trending_rank": 4,
@@ -62,8 +62,8 @@
         "url": "https://github.com/akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "stars_today": 666,
-        "stars": 11578,
-        "forks": 820,
+        "stars": 11602,
+        "forks": 822,
         "language": "Rust",
         "source": "trending",
         "trending_rank": 3,
@@ -75,8 +75,8 @@
         "url": "https://github.com/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "stars_today": 606,
-        "stars": 55433,
-        "forks": 4998,
+        "stars": 55453,
+        "forks": 4999,
         "language": "Python",
         "source": "trending",
         "trending_rank": 10,
@@ -88,7 +88,7 @@
         "url": "https://github.com/ruvnet/ruflo",
         "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
         "stars_today": 564,
-        "stars": 77389,
+        "stars": 77406,
         "forks": 9117,
         "language": "TypeScript",
         "source": "trending",
@@ -101,7 +101,7 @@
         "url": "https://github.com/shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "stars_today": 363,
-        "stars": 41886,
+        "stars": 41906,
         "forks": 6949,
         "language": "Python",
         "source": "trending",
@@ -114,8 +114,8 @@
         "url": "https://github.com/headroomlabs-ai/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
         "stars_today": 310,
-        "stars": 76406,
-        "forks": 5931,
+        "stars": 76427,
+        "forks": 5933,
         "language": "Python",
         "source": "trending",
         "trending_rank": 7,
@@ -127,8 +127,8 @@
         "url": "https://github.com/anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "stars_today": 167,
-        "stars": 152800,
-        "forks": 27149,
+        "stars": 152813,
+        "forks": 27152,
         "language": "TypeScript",
         "source": "trending",
         "trending_rank": 11,
@@ -138,7 +138,7 @@
     "note": "Trending 的 stars today 为 GitHub 官方页面口径；搜索兜底为中 Star AI 项目。"
   },
   "openrouter": {
-    "fetched_at": "2026-10-20T07:20:54+00:00",
+    "fetched_at": "2026-10-20T08:04:33+00:00",
     "url": "https://openrouter.ai/rankings",
     "items": [
       {
@@ -160,9 +160,9 @@
         "requests_day": 14176947,
         "share_day": 22.72,
         "rank_week": 2,
-        "tokens_week": 10723178683912,
+        "tokens_week": 10820014687356,
         "rank_month": 2,
-        "tokens_month": 36350715093510,
+        "tokens_month": 36446531464629,
         "rank_delta_week": 0,
         "rank_delta_month": 0
       },
@@ -186,9 +186,9 @@
         "requests_day": 15711854,
         "share_day": 22.42,
         "rank_week": 3,
-        "tokens_week": 11748002934392,
+        "tokens_week": 11825366660051,
         "rank_month": 3,
-        "tokens_month": 52584926491732,
+        "tokens_month": 52662298610968,
         "rank_delta_week": 0,
         "rank_delta_month": 0
       },
@@ -212,9 +212,9 @@
         "requests_day": 8577125,
         "share_day": 10.76,
         "rank_week": 5,
-        "tokens_week": 5336953763439,
+        "tokens_week": 5397969833267,
         "rank_month": 5,
-        "tokens_month": 24340551140125,
+        "tokens_month": 24401576227911,
         "rank_delta_week": 0,
         "rank_delta_month": 0
       },
@@ -237,9 +237,9 @@
         "requests_day": 5059195,
         "share_day": 6.79,
         "rank_week": 7,
-        "tokens_week": 3161126204854,
+        "tokens_week": 3189489328148,
         "rank_month": 8,
-        "tokens_month": 13104738034278,
+        "tokens_month": 13133105917683,
         "rank_delta_week": 1,
         "rank_delta_month": 2
       },
@@ -263,9 +263,9 @@
         "requests_day": 5217155,
         "share_day": 5.51,
         "rank_week": 6,
-        "tokens_week": 3329684273633,
+        "tokens_week": 3348800049427,
         "rank_month": 6,
-        "tokens_month": 20211405811924,
+        "tokens_month": 20230524365745,
         "rank_delta_week": -1,
         "rank_delta_month": -1
       },
@@ -286,9 +286,9 @@
         "requests_day": 2103118,
         "share_day": 5.31,
         "rank_week": 12,
-        "tokens_week": 1801873762467,
+        "tokens_week": 1821819745621,
         "rank_month": 13,
-        "tokens_month": 6535817526990,
+        "tokens_month": 6555767599432,
         "rank_delta_week": 4,
         "rank_delta_month": 5
       },
@@ -311,9 +311,9 @@
         "requests_day": 2109389,
         "share_day": 4.68,
         "rank_week": 11,
-        "tokens_week": 1972019693615,
+        "tokens_week": 1989768367176,
         "rank_month": 11,
-        "tokens_month": 10492531447441,
+        "tokens_month": 10510281333893,
         "rank_delta_week": 1,
         "rank_delta_month": 1
       },
@@ -334,9 +334,9 @@
         "requests_day": 2652191,
         "share_day": 4.52,
         "rank_week": 9,
-        "tokens_week": 2530844413511,
+        "tokens_week": 2542472552465,
         "rank_month": 10,
-        "tokens_month": 10740528543027,
+        "tokens_month": 10752157164997,
         "rank_delta_week": -2,
         "rank_delta_month": -1
       },
@@ -359,9 +359,9 @@
         "requests_day": 3313368,
         "share_day": 3.24,
         "rank_week": 13,
-        "tokens_week": 1260526507099,
+        "tokens_week": 1268756389011,
         "rank_month": 9,
-        "tokens_month": 11558267094560,
+        "tokens_month": 11566497858769,
         "rank_delta_week": 1,
         "rank_delta_month": -3
       },
@@ -385,9 +385,9 @@
         "requests_day": 2660356,
         "share_day": 2.94,
         "rank_week": 10,
-        "tokens_week": 2085950648536,
+        "tokens_week": 2097123743021,
         "rank_month": 12,
-        "tokens_month": 7484701050932,
+        "tokens_month": 7495875251650,
         "rank_delta_week": -3,
         "rank_delta_month": -1
       },
@@ -414,9 +414,9 @@
         "requests_day": 860145,
         "share_day": 2.3,
         "rank_week": 15,
-        "tokens_week": 1117084148054,
+        "tokens_week": 1136306840140,
         "rank_month": 21,
-        "tokens_month": 2131323077752,
+        "tokens_month": 2150548452851,
         "rank_delta_week": 1,
         "rank_delta_month": 7
       },
@@ -439,9 +439,9 @@
         "requests_day": 951407,
         "share_day": 1.81,
         "rank_week": 16,
-        "tokens_week": 844795092591,
+        "tokens_week": 848368143633,
         "rank_month": 19,
-        "tokens_month": 2431291732227,
+        "tokens_month": 2434865615967,
         "rank_delta_week": 0,
         "rank_delta_month": 3
       },
@@ -466,16 +466,16 @@
         "requests_day": 942567,
         "share_day": 1.14,
         "rank_week": 18,
-        "tokens_week": 598878798960,
+        "tokens_week": 602615860779,
         "rank_month": 22,
-        "tokens_month": 1940298029372,
+        "tokens_month": 1944035719959,
         "rank_delta_week": -1,
         "rank_delta_month": 3
       },
       {
         "id": "4749832",
         "slug": "",
-        "title": "Aura.agent2.level_design_agent",
+        "title": "Aura.agent2.bp_agent",
         "description": "",
         "categories": [
           "ide-extension",
@@ -515,9 +515,9 @@
         "requests_day": 1190642,
         "share_day": 0.95,
         "rank_week": 19,
-        "tokens_week": 551090384191,
+        "tokens_week": 553748497913,
         "rank_month": 20,
-        "tokens_month": 2169093329200,
+        "tokens_month": 2171751509492,
         "rank_delta_week": -2,
         "rank_delta_month": -1
       },
@@ -540,9 +540,9 @@
         "requests_day": 739972,
         "share_day": 0.89,
         "rank_week": 20,
-        "tokens_week": 501161035731,
+        "tokens_week": 505395093045,
         "rank_month": 15,
-        "tokens_month": 3462909745039,
+        "tokens_month": 3467144713583,
         "rank_delta_week": -2,
         "rank_delta_month": -7
       },
@@ -563,7 +563,7 @@
         "requests_day": 19005147,
         "share_day": 0.85,
         "rank_week": 23,
-        "tokens_week": 413144434160,
+        "tokens_week": 414693591661,
         "rank_month": null,
         "tokens_month": null,
         "rank_delta_week": 0
@@ -585,9 +585,9 @@
         "requests_day": 1134410,
         "share_day": 0.84,
         "rank_week": 22,
-        "tokens_week": 436397463774,
+        "tokens_week": 438096088148,
         "rank_month": 25,
-        "tokens_month": 1714620575248,
+        "tokens_month": 1716319451833,
         "rank_delta_week": -2,
         "rank_delta_month": 1
       },
@@ -612,9 +612,9 @@
         "requests_day": 288170,
         "share_day": 0.69,
         "rank_week": 26,
-        "tokens_week": 318879829184,
+        "tokens_week": 320529528555,
         "rank_month": 26,
-        "tokens_month": 1266834457971,
+        "tokens_month": 1268484215656,
         "rank_delta_week": 1,
         "rank_delta_month": 1
       },
@@ -637,9 +637,9 @@
         "requests_day": 870403,
         "share_day": 0.68,
         "rank_week": 24,
-        "tokens_week": 395763391814,
+        "tokens_week": 396959507736,
         "rank_month": 24,
-        "tokens_month": 1802968014617,
+        "tokens_month": 1804164165319,
         "rank_delta_week": -2,
         "rank_delta_month": -2
       }
@@ -648,7 +648,7 @@
     "note": "OpenRouter 应用调用量来自公开 rankings 页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。"
   },
   "producthunt": {
-    "fetched_at": "2026-10-20T07:20:55+00:00",
+    "fetched_at": "2026-10-20T08:04:33+00:00",
     "url": "https://www.producthunt.com/feed?category=artificial-intelligence",
     "items": [
       {
@@ -1055,7 +1055,7 @@
     "note": "Product Hunt 公共 Atom feed 只提供发布信息，不提供票数；按发布时间排序。"
   },
   "huggingface": {
-    "fetched_at": "2026-10-20T07:20:56+00:00",
+    "fetched_at": "2026-10-20T08:04:33+00:00",
     "url": "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=24",
     "items": [
       {
@@ -1063,8 +1063,8 @@
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "downloads": 17924,
-        "likes": 1760,
-        "trending_score": 1594,
+        "likes": 1770,
+        "trending_score": 1599,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1084,8 +1084,8 @@
         "name": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
         "downloads": 393062,
-        "likes": 1004,
-        "trending_score": 773,
+        "likes": 1007,
+        "trending_score": 775,
         "pipeline": "image-to-image",
         "library": "diffusion-single-file",
         "tags": [
@@ -1127,7 +1127,7 @@
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
         "downloads": 76410,
         "likes": 1072,
-        "trending_score": 693,
+        "trending_score": 684,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1147,8 +1147,8 @@
         "name": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "downloads": 167750,
-        "likes": 2734,
-        "trending_score": 597,
+        "likes": 2735,
+        "trending_score": 592,
         "pipeline": "feature-extraction",
         "library": "transformers",
         "tags": [
@@ -1168,8 +1168,8 @@
         "name": "jialinyyzz/humanizer",
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "downloads": 109937,
-        "likes": 2001,
-        "trending_score": 577,
+        "likes": 2006,
+        "trending_score": 579,
         "pipeline": "text-generation",
         "library": "gguf",
         "tags": [
@@ -1189,8 +1189,8 @@
         "name": "meta-models/Muse-Spark-Open-816B-A42B",
         "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
         "downloads": 2109,
-        "likes": 587,
-        "trending_score": 538,
+        "likes": 588,
+        "trending_score": 539,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1231,8 +1231,8 @@
         "name": "black-forest-labs/flux-3-image-klein",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
         "downloads": 62006,
-        "likes": 533,
-        "trending_score": 484,
+        "likes": 535,
+        "trending_score": 485,
         "pipeline": "image-to-image",
         "library": "diffusers",
         "tags": [
@@ -1252,8 +1252,8 @@
         "name": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "downloads": 2019834,
-        "likes": 8516,
-        "trending_score": 438,
+        "likes": 8523,
+        "trending_score": 440,
         "pipeline": "image-to-video",
         "library": "diffusion-single-file",
         "tags": [
@@ -1273,8 +1273,8 @@
         "name": "OpenMOSS-Team/MOSS-Image-SFT",
         "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
         "downloads": 3336,
-        "likes": 448,
-        "trending_score": 425,
+        "likes": 457,
+        "trending_score": 432,
         "pipeline": "text-to-image",
         "library": "diffusers",
         "tags": [
@@ -1294,8 +1294,8 @@
         "name": "OpenMOSS-Team/MOSS-Image-Base",
         "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
         "downloads": 2774,
-        "likes": 394,
-        "trending_score": 375,
+        "likes": 401,
+        "trending_score": 380,
         "pipeline": "text-to-image",
         "library": "diffusers",
         "tags": [
@@ -1315,7 +1315,7 @@
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "downloads": 2739572,
-        "likes": 4656,
+        "likes": 4658,
         "trending_score": 371,
         "pipeline": "text-to-image",
         "library": "gguf",
@@ -1336,8 +1336,8 @@
         "name": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "downloads": 7458401,
-        "likes": 18024,
-        "trending_score": 288,
+        "likes": 18026,
+        "trending_score": 289,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1353,33 +1353,12 @@
         "created_at": "2026-08-05T08:22:59.000Z"
       },
       {
-        "id": "baidu/Unlimited-OCR",
-        "name": "baidu/Unlimited-OCR",
-        "url": "https://huggingface.co/baidu/Unlimited-OCR",
-        "downloads": 1799825,
-        "likes": 4827,
-        "trending_score": 251,
-        "pipeline": "image-text-to-text",
-        "library": "transformers",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "unlimited_ocr",
-          "feature-extraction",
-          "baidu",
-          "vision-language",
-          "ocr",
-          "custom_code"
-        ],
-        "created_at": "2026-06-19T09:40:33.000Z"
-      },
-      {
         "id": "datalab-to/indra-ocr",
         "name": "datalab-to/indra-ocr",
         "url": "https://huggingface.co/datalab-to/indra-ocr",
         "downloads": 2433,
-        "likes": 250,
-        "trending_score": 246,
+        "likes": 252,
+        "trending_score": 248,
         "pipeline": "image-to-text",
         "library": "onnx",
         "tags": [
@@ -1393,6 +1372,27 @@
           "layout"
         ],
         "created_at": "2026-10-10T14:12:33.000Z"
+      },
+      {
+        "id": "baidu/Unlimited-OCR",
+        "name": "baidu/Unlimited-OCR",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "downloads": 1799825,
+        "likes": 4828,
+        "trending_score": 245,
+        "pipeline": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "unlimited_ocr",
+          "feature-extraction",
+          "baidu",
+          "vision-language",
+          "ocr",
+          "custom_code"
+        ],
+        "created_at": "2026-06-19T09:40:33.000Z"
       },
       {
         "id": "Comfy-Org/MOSS-Image",
@@ -1440,7 +1440,7 @@
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
         "downloads": 25033,
         "likes": 1001,
-        "trending_score": 235,
+        "trending_score": 234,
         "pipeline": "text-to-image",
         "library": "diffusers",
         "tags": [
@@ -1460,8 +1460,8 @@
         "name": "tencent/Hy-Memory-30B-A3B",
         "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
         "downloads": 1571,
-        "likes": 223,
-        "trending_score": 220,
+        "likes": 224,
+        "trending_score": 221,
         "pipeline": "text-generation",
         "library": "transformers",
         "tags": [
@@ -1481,8 +1481,8 @@
         "name": "facebook/sam3",
         "url": "https://huggingface.co/facebook/sam3",
         "downloads": 1902371,
-        "likes": 4712,
-        "trending_score": 213,
+        "likes": 4715,
+        "trending_score": 212,
         "pipeline": "mask-generation",
         "library": "transformers",
         "tags": [
@@ -1502,8 +1502,8 @@
         "name": "LiquidAI/LFM2.5-24B-A2B-GGUF",
         "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF",
         "downloads": 120509,
-        "likes": 217,
-        "trending_score": 211,
+        "likes": 218,
+        "trending_score": 212,
         "pipeline": "text-generation",
         "library": "gguf",
         "tags": [
@@ -1523,8 +1523,8 @@
         "name": "mistralai/Timestral-209M",
         "url": "https://huggingface.co/mistralai/Timestral-209M",
         "downloads": 2601,
-        "likes": 205,
-        "trending_score": 197,
+        "likes": 207,
+        "trending_score": 199,
         "pipeline": "time-series-forecasting",
         "library": "timestral",
         "tags": [
@@ -1544,8 +1544,8 @@
         "name": "openbmb/MiniCPM-V-4.7-1B",
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
         "downloads": 33388,
-        "likes": 394,
-        "trending_score": 188,
+        "likes": 395,
+        "trending_score": 182,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1564,7 +1564,7 @@
     "note": "Hugging Face trendingScore 为平台热度信号，不等于商业收入。"
   },
   "lean": {
-    "fetched_at": "2026-10-20T07:20:59+00:00",
+    "fetched_at": "2026-10-20T08:04:34+00:00",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1vMlwTJ8_Lty161T73uwnMzVxb48XzHxz9aPNla5OgCjd2yJ0HMfxEHGSv1OsyGOarWUYDcsJZfmk/pub?gid=0&single=true&output=csv",
     "via": "google",
     "count": 70,
@@ -1572,7 +1572,7 @@
   },
   "lean_extra": {
     "opu": {
-      "fetched_at": "2026-10-20T07:21:00+00:00",
+      "fetched_at": "2026-10-20T08:04:34+00:00",
       "url": "https://www.onepersonunicorn.co/",
       "items": [
         {
@@ -1687,7 +1687,7 @@
       "note": "One Person Unicorn：团队 ≤10 人，ARR 主要为自报/创始人提交，非全部独立核实。"
     },
     "vv": {
-      "fetched_at": "2026-10-20T07:21:01+00:00",
+      "fetched_at": "2026-10-20T08:04:34+00:00",
       "url": "https://www.verticalvelocity.co/",
       "items": [
         {
