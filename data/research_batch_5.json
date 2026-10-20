@@ -1,0 +1,171 @@
+{
+  "companies": [
+    {
+      "name": "SubMagic",
+      "value": "为短视频创作者把长视频一键剪成带字幕、B-roll 的竖屏短片，替代繁琐手工剪辑。",
+      "model": "面向 TikTok、Reels、Shorts 创作者与小型营销团队的 B2C 订阅 SaaS，月付或年付，全程自助、不设销售团队；靠 SEO 对比页、联盟与创作者口碑获客，巴黎远程团队长期只有十人。",
+      "moat": "壁垒在于极致的自助转化与定价实验能力，以及字幕、剪辑模板的规模化复用，形成极低人力成本结构；但剪辑层功能易被 CapCut、Opus Clip 复制，真正黏性只是模板库与操作习惯，护城河偏浅。",
+      "progress": "创始人 2025 年 11 月受访称营收超 800 万美元、团队约 10 人且持续盈利，几乎不融资；此后上线视频剪辑 API 与 AI Actors 等能力，并向体育媒体等企业客户延伸，公开最新营收未更新。",
+      "confidence": "high",
+      "sources": [
+        "https://baremetrics.com/founder-chats/david-zitoun",
+        "https://www.submagic.co/"
+      ]
+    },
+    {
+      "name": "Jobright",
+      "value": "帮美国求职者筛出真正匹配、且愿意办 H-1B 的岗位，并自动填表、找内推。",
+      "model": "B2C 免费加订阅（Turbo 约 39.99 美元/月），同时向招聘方收费；靠 H-1B 担保查询工具和创始人 LinkedIn 内容冷启动，叠加 TikTok、校园社群自传播，9 人做到数百万美元 ARR。",
+      "moat": "数据钩子（基于 USCIS 的 H-1B 担保库）与内推人脉网络形成差异化，先发占据国际求职者心智；但自动投递技术门槛不高，涨价与扣费投诉损伤口碑，LinkedIn 一旦下探该功能壁垒即失效。",
+      "progress": "据 2026 年报道 ARR 从 500 万升至 700 万美元并盈利，月访问超 500 万、注册用户约 300 万；2025 年 6 月完成 320 万美元天使轮，Translink 领投、Indeed 旗下基金参与。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.jobright.ai/",
+        "https://bbs.fcgvisa.com/t/jobright-ai-500/56872"
+      ]
+    },
+    {
+      "name": "GrowthX",
+      "value": "把营销专家打法封装成 AI 工作流，替企业批量产出能带来 pipeline 的内容。",
+      "model": "面向 B2B 市场团队的「服务加平台」混合体，按项目或订阅收费：AI 生产内容、专家把关交付，不卖纯软件；靠 CMO 人脉与口碑获客，13 人做到约 700 万美元营收与盈利。",
+      "moat": "护城河是创始人 CMO 圈层信任与沉淀的行业内容方法论，而非模型本身；交付仍依赖人，规模化取决于工作流复用率。弱点是与 AI 内容工具、传统代理商双向挤压，客户也可内建。",
+      "progress": "2025 年 1 月完成 1200 万美元 A 轮（Madrona 领投），称不足一年做到 700 万美元 run rate 且盈利，客户含 Ramp、Reddit；2026 年扩为 GrowthOS 平台。",
+      "confidence": "medium",
+      "sources": [
+        "https://growthx.ai/blog/series-a",
+        "https://growthx.ai/blog/annoucing-growthx-ai"
+      ]
+    },
+    {
+      "name": "Chatbase",
+      "value": "让企业在几分钟内用自有文档搭出客服 AI 智能体，替代工单与外包客服。",
+      "model": "B2B SaaS 订阅加按量计费，客户从独立开发者到 IHG、Miele 等大型企业；完全自助 PLG 起量、零外部融资，2026 年才开始补企业销售团队，26 人做到 1000 万美元 ARR。",
+      "moat": "真护城河是 bootstrap 带来的成本与定价自由，以及上万客户沉淀的问答数据与集成深度；但客服智能体赛道被 Sierra、Decagon、Fin 重兵压境，产品层差异有限，主要靠价格与部署速度守份额。",
+      "progress": "2026 年 6 月宣布 ARR 达 1000 万美元、累计服务超 1 万家企业且持续盈利；2026 年 5 月推出 Chatbase Voice，把同一知识库扩展到电话渠道，并开始组建企业销售团队。",
+      "confidence": "high",
+      "sources": [
+        "https://investor.wedbush.com/wedbush/article/getnews-2026-6-17-chatbase-reaches-10m-arr-as-a-profitable-challenger-to-sierra-decagon-and-fin",
+        "https://www.aibase.com/news/23287"
+      ]
+    },
+    {
+      "name": "Jenni.ai",
+      "value": "给写论文的学生学者一个能读文献、写作并逐句溯源引用的 AI 工作台。",
+      "model": "面向大学生的 B2C 订阅，免费额度加付费档；靠 TikTok、Reels 学习类短视频、学生大使与 SEO 规模化获客，23 人团队做到约 1000 万美元 ARR，几乎不依赖销售。",
+      "moat": "护城河是学术场景的引用与溯源工程，以及六年积累的 SEO、短视频分发，获客成本远低于通用大模型；但底层能力可被 ChatGPT、Elicit 覆盖，学科深度与学术诚信争议是薄弱点。",
+      "progress": "创始人 2025 年底披露 ARR 达 1000 万美元、用户约 1000 万，此前在 800 万至 900 万美元区间停留一年多，下一目标 1500 万；产品已转为可溯源的研究工作台。",
+      "confidence": "high",
+      "sources": [
+        "https://startupfounderstories.com/stories/david-park-jenni-ai-10m-arr",
+        "https://jenni.ai/"
+      ]
+    },
+    {
+      "name": "Hedra",
+      "value": "用一张照片加一段音频生成有表情、会说话的角色视频，并把这套视觉模型做成 API。",
+      "model": "双轮驱动：创作者订阅 Studio，开发者按量调用 API；2026 年转向卖推理、微调与 GPU 沙箱等基础设施，客户含品牌营销与体育娱乐企业，23 人做到约千万美元 ARR。",
+      "moat": "角色表演（唇形、微表情）的模型手感与自研 World Model Runtime 推理栈是真壁垒，转向基础设施后切换成本上升；但 Sora、Veo、Kling 等通用视频模型迭代更快，单点效果优势窗口短。",
+      "progress": "2025 年 5 月完成 3200 万美元 A 轮（a16z 领投），当时累计近 300 万用户、生成超 1000 万条视频；2026 年密集发布开发者 API、MCP 与 GPU 沙箱，转向推理基础设施。",
+      "confidence": "high",
+      "sources": [
+        "https://a16z.com/announcement/investing-in-hedra/",
+        "https://www.hedra.com/",
+        "https://www.hedra.com/blog"
+      ]
+    },
+    {
+      "name": "Conversion",
+      "value": "给 B2B 营销团队一个 AI 原生的营销自动化平台，替代又贵又难用的 Marketo。",
+      "model": "B2B SaaS 年订阅，按联系人与用量分档，主攻中大型企业营销运营团队；用迁移工具抢 Marketo、Pardot 存量客户，产品驱动加销售混合增长，15 人做到近八位数 ARR。",
+      "moat": "护城河来自与 Salesforce 双向同步的数据模型和高迁移成本，一旦承接 campaign 与归因就很难换掉；但面对 HubSpot 的生态捆绑仍处弱势，AI 功能本身可被快速复制。",
+      "progress": "2025 年 10 月完成 2800 万美元 A 轮（Abstract Ventures 领投），称两年内做到近八位数 ARR、服务超 4000 家公司；2026 年推出归因产品 Mosaic。",
+      "confidence": "high",
+      "sources": [
+        "https://conversion.ai/blog/series-a/"
+      ]
+    },
+    {
+      "name": "Pump.co",
+      "value": "把上千家初创的云账单拼成团购，用承诺折扣把 AWS、GCP 支出砍掉一半以上。",
+      "model": "对客户完全免费的云成本平台，不收平台费，靠作为云 reseller 从聚合采购的折扣差价获利；以 YC 与创投圈口碑获客，35 人做到八位数美元收入，并向安全与可视化延伸。",
+      "moat": "护城河是采购规模本身：客户越多、承诺量越大，拿到的折扣越深，形成成本飞轮；但本质是云厂商渠道生意，毛利受制于 AWS，对 Azure、GCP 的覆盖和更大 reseller 的竞争是明显短板。",
+      "progress": "2025–2026 年从省云费扩为 Save、View、Secure 三条产品线，覆盖 1000 多家初创、22 个国家；Sacra 估算其 2025 年收入约 2500 万美元，远高于 2024 年底约 700 万。",
+      "confidence": "medium",
+      "sources": [
+        "https://sacra.com/c/pump/",
+        "https://www.pump.co/lp"
+      ]
+    },
+    {
+      "name": "FyxerAI",
+      "value": "替专业人士整理收件箱、按本人语气起草回信，把每天两小时邮件活压到几分钟。",
+      "model": "面向房产经纪、招聘顾问等非技术专业人士的订阅制工具，按席位月付、14 天试用，以 Gmail、Outlook 插件分发；靠创始人前虚拟助理公司的客户基础与转介绍增长，25 人做到千万美元级 run rate。",
+      "moat": "护城河是越用越懂你的写作风格与上下文记忆，加上从英国最大虚拟助理代理继承的行业客户与作业流程；但底层是通用模型套壳，微软 Copilot 的免费捆绑是最大威胁，定价空间会被压缩。",
+      "progress": "2025 年 9 月完成 3000 万美元 B 轮（Madrona 领投），run rate 从 2025 年 1 月的 100 万美元升至 8 月的 1700 万，三个月留存 90%。",
+      "confidence": "high",
+      "sources": [
+        "https://www.fyxer.ai/blog/series-b-statement",
+        "https://www.fyxer.com/"
+      ]
+    },
+    {
+      "name": "Vapi",
+      "value": "给企业一套低延迟语音智能体编排层，几周内把客服电话换成能对话的 AI。",
+      "model": "以开发者按分钟计费的 API 起家，再向上卖企业级编排与合规；自助平台百万开发者做入口，销售转化亚马逊 Ring、Intuit 等大客户，100 人团队、ARR 达八位数中段。",
+      "moat": "真壁垒是自建的低延迟语音栈与让模型可控的编排、评测层，加上大客户上线后的深度集成；但 ElevenLabs、Retell、Bland 与云厂商同类能力快速逼近，价格战风险高。",
+      "progress": "2026 年 5 月完成 5000 万美元 B 轮（Peak XV 领投），投后估值约 5 亿美元；亚马逊 Ring 已把全部呼入电话交给 Vapi，平台累计处理超 10 亿通、日处理百万级。",
+      "confidence": "high",
+      "sources": [
+        "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
+      ]
+    },
+    {
+      "name": "Recall.ai",
+      "value": "一个 API 让开发者几天内接入 Zoom、Meet、Teams 的会议录制与转录。",
+      "model": "面向 AI 产品团队的开发者 API，按录制时长与机器人分钟计费，自助与企业合同并行；靠文档、教程和云市场分发，25 人服务 2000 多家公司，年收入约千万美元。",
+      "moat": "护城河是跨平台兼容的脏活累活（反爬、桌面 SDK、SOC2 与 HIPAA 合规）与规模化可靠性，客户一旦嵌入产品即高切换成本；但平台方收紧接口或自建 API 是结构性风险。",
+      "progress": "2025 年 9 月完成 3800 万美元 B 轮（Bessemer 领投，HubSpot、Salesforce 风投跟投），同期推出无机器人入会的桌面录制 SDK；2026 年与 Zoom 达成实时数据合作。",
+      "confidence": "high",
+      "sources": [
+        "https://www.recall.ai/blog/recall-ai-series-b-the-api-for-meeting-recording"
+      ]
+    },
+    {
+      "name": "Haven",
+      "value": "给初创和中小企业打包簿记、报税、税务抵免与 CFO 服务，替代零散外包会计。",
+      "model": "订阅加按服务的 B2B 财务外包：簿记、报税、税务抵免、账单支付打包，客户在专属 Slack 频道对接 CPA；靠创投圈口碑与转介绍获客，15 人做到约 500 万美元收入。",
+      "moat": "护城河是会计流程产品化后的响应速度（平均约 4 分钟）与跨州多主体的合规经验，客户换所成本高；但本质仍是人力密集的服务业，AI 只是提效工具，规模化受 CPA 供给约束。",
+      "progress": "2026 年 3 月宣布客户突破 1000 家，累计追踪创业公司支出超 24 亿美元、为客户识别逾 3000 万美元税收抵免；榜单快照为 2025 年 4 月约 500 万美元营收、15 人。",
+      "confidence": "medium",
+      "sources": [
+        "https://markets.businessinsider.com/news/currencies/haven-surpasses-1-000-customers-across-its-accounting-finance-and-tax-platform-1035925076",
+        "https://www.usehaven.com/"
+      ]
+    },
+    {
+      "name": "Icon",
+      "value": "帮 DTC 品牌以固定价格批量产出可投放的短视频广告，并从 AI 生成转向真人 UGC。",
+      "model": "按交付计费：6 条真人 UGC 广告 1000 美元起，另有 Admaker 订阅做脚本、审片与投放分析；客户含 IM8、immi 等 288 个消费品牌，16 人做到约 500 万美元收入。",
+      "moat": "护城河是 1200 多名真人创作者网络与按条交付、不满意退款的履约能力，以及广告数据反哺的脚本库；但转向真人意味着毛利更薄、更像代理公司，AI 工具本身并无壁垒。",
+      "progress": "官网称累计融资超 3000 万美元，投资方含 Founders Fund 与 OpenAI、DeepMind 高管；2025 年 2 月以 AI 广告工具起步，此后转向六条真人 UGC 一千美元的代理模式。",
+      "confidence": "medium",
+      "sources": [
+        "https://icon.com/investors",
+        "https://icon.me/careers",
+        "https://vc.ru/ai/1796380-startap-icon-predstavil-servis-dlya-sozdaniya-reklamy-s-pomoshyu-ii"
+      ]
+    },
+    {
+      "name": "Gumloop",
+      "value": "让非技术员工用拖拽与自然语言搭 AI 智能体，把跨 SaaS 的重复流程自动化。",
+      "model": "B2B SaaS 按席位与额度订阅，从个人自助渗透到企业全员铺开；客户含 Shopify、Ramp、Gusto、Instacart，靠社区模板与 Slack 支持驱动采用，团队仅个位数到十人。",
+      "moat": "护城河是人人都能上手的产品完成度，以及企业管控层 Gumstack（跨 Claude Code、Cursor 的数据审计），一旦成为全员工具就难替换；但 Zapier、n8n 与模型厂商的 Agent 平台正面对撞。",
+      "progress": "2026 年 3 月完成 5000 万美元 B 轮（Benchmark 领投，Nexus、First Round、YC 参投）；此前拿过 1700 万美元 A 轮，目标是以约十人团队做到十亿美元估值。",
+      "confidence": "high",
+      "sources": [
+        "https://www.gumloop.com/blog/series-b",
+        "https://pitchbook.com/news/articles/gumloop-1b-startup-ai-10-employees"
+      ]
+    }
+  ]
+}

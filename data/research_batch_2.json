@@ -1,0 +1,178 @@
+{
+  "companies": [
+    {
+      "name": "micro1",
+      "value": "用 AI 面试从百万候选人中筛专家，为前沿模型供给训练、评测与 RL 环境数据",
+      "model": "客户是 OpenAI、Anthropic 等前沿实验室，以及微软、亚马逊、1X 等需要专家与机器人数据的公司。用 AI 面试把工程师、医生、律师纳入专家网络，按项目工时结算，并售卖强化学习训练场，靠创始人直销增长。",
+      "moat": "真壁垒是专家网络的筛选与调度：五百万候选人库加 AI 面试形成供给规模效应，客户切换成本来自数据连续性与合规审查。但本质是人力密集型生意，毛利被专家分成挤压，Mercor、Surge 在同一个池子里抢人。",
+      "progress": "2026 年 9 月以 40 亿美元估值融资超 1 亿美元，一年估值涨 8 倍；年化收入从 2025 年初约 700 万美元升至 2026 年秋约 10 亿美元。同期从专家数据扩到 RL 训练场与机器人数据。",
+      "confidence": "high",
+      "sources": [
+        "https://www.forbeschina.com/business/72247",
+        "https://www.arr.club/micro1",
+        "https://www.forbesmiddleeast.com/innovation/startups/this-25-year-old-raised-over-%24100-million-for-his-ai-data-startup-at-a-%244-billion-valuation"
+      ]
+    },
+    {
+      "name": "Cal AI",
+      "value": "拍一张餐盘照片就自动算出热量与营养，把饮食记录的门槛降到一次快门",
+      "model": "面向欧美减脂人群的 C 端订阅应用：免费下载，周付或年付订阅解锁拍照识别与营养分析，靠 TikTok 达人素材与商店优化冷启动。2026 年 3 月被 MyFitnessPal 收购，成为其矩阵中的独立应用。",
+      "moat": "几乎没有技术护城河：多模态模型是现成的，拍照记账被大厂与同类应用快速复制。它赢在极致投放与转化运营——批量测试短视频素材、高频迭代付费墙，这是营销能力而非产品壁垒，被老牌平台收购是合理归宿。",
+      "progress": "2026 年 3 月被 MyFitnessPal 收购，两年下载超 1500 万、年收入数千万美元。4 月苹果以绕过内购、误导性计费（周价大字、隐藏续订）为由将其下架整改，整改后重新上架，暴露订阅模式的合规风险。",
+      "confidence": "high",
+      "sources": [
+        "https://thenextweb.com/news/myfitnesspal-acquires-cal-ai-the-viral-calorie-tracking-app-built-by-teens",
+        "https://www.macrumors.com/2026/04/21/apple-cal-ai-app-store-removal/",
+        "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/"
+      ]
+    },
+    {
+      "name": "RB2B",
+      "value": "把匿名访问官网的企业访客还原成具体个人，让冷邮件与销售外呼有的放矢",
+      "model": "面向北美 B2B 销售与市场团队的 PLG 订阅工具，按 Pro 与 Pro+ 分档月费计价，识别额度与精度越高越贵。不投销售、不融资，靠创始人 newsletter 分发，一名全职加 AI 客服支撑全部客户。",
+      "moat": "护城河是数据覆盖与价格锚：自建身份图谱，2026 年联合 Demandbase 把个人级识别率从约 35% 提到 65%，同时把价格压到竞品获客成本以下。但底层依赖第三方数据源，覆盖率与合规随时可能被收紧。",
+      "progress": "2026 年 10 月年化收入破 1000 万美元，团队仅 1 名全职，2025 年 11 月为 700 万美元。年内与 Demandbase 打通提升个人级识别率，并把公司级识别对所有付费套餐免费开放。",
+      "confidence": "high",
+      "sources": [
+        "https://www.arr.club/signal/rb2b-hit-10m-arr-with-1-full-time-employee",
+        "https://newsletter.rb2b.com/p/rb2b-x-demandbase-de-anonymize-up-to-65-of-your-website-visitors-c886"
+      ]
+    },
+    {
+      "name": "Turbopuffer",
+      "value": "把向量与全文检索建在对象存储上，让 AI 应用以极低成本搜索海量数据",
+      "model": "面向 AI 产品与开发者的托管搜索服务，按存储量加查询量计费，替代内存型向量库。客户含 Cursor、Anthropic、Notion、Harvey，靠工程博客、创始人推特与口碑传播获客，几乎没有销售团队。",
+      "moat": "真护城河是架构级成本优势：冷热分层放在对象存储上，把单位检索成本压到内存方案的一个零头，客户数据量越大越难迁走，Cursor 称搜索成本降九成。风险是云厂商与 Postgres 扩展方案追上来。",
+      "progress": "2026 年 3 月年化收入达 1 亿美元，创业初期融资不足 100 万美元且已盈利，团队约 22 人。客户覆盖 Cursor、Anthropic、Notion、Cognition、Harvey、Atlassian。",
+      "confidence": "high",
+      "sources": [
+        "https://www.arr.club/turbopuffer",
+        "https://www.arr.club/signal/turbopuffer-arr-hit-100m-in-19-months-with-less-than-1m-raised",
+        "https://betakit.com/ex-shopify-engineers-raise-fresh-financing-to-scale-turbopuffers-ai-search/"
+      ]
+    },
+    {
+      "name": "Mercor",
+      "value": "用 AI 面试把全球专家匹配给 AI 实验室，做模型训练与评测的人力供应链",
+      "model": "双边市场：一边是 OpenAI、Anthropic、Meta、Google 的标注与评测需求，一边是约三万名签约专家。按工时计费并抽成，承包商拿走六到七成，因此 20 亿美元年化流水对应的净收入只有六到八亿。",
+      "moat": "护城河是供需规模与评测品牌 APEX，加上自建面试系统的筛选效率。但抽成模式下净收入仅流水三成多，客户是少数几家实验室、议价权极强；数据安全一旦失守客户立刻停单，2026 年泄露已印证。",
+      "progress": "2026 年 7 月年化流水达 20 亿美元，传以 200 亿美元估值融资，并收购训练环境公司 Deeptune。同年 3 月 LiteLLM 供应链攻击泄露约 4TB 数据，Meta 暂停合作并引发集体诉讼。",
+      "confidence": "high",
+      "sources": [
+        "https://techfundingnews.com/mercor-20b-valuation-talks-deeptune-acquisition/",
+        "https://www.arr.club/mercor"
+      ]
+    },
+    {
+      "name": "Chai Research",
+      "value": "让用户自建并分享 AI 角色，把 AI 陪伴做成有创作者生态的社交平台",
+      "model": "C 端订阅为主：免费额度加月费解锁无限对话与更强模型，用户创建角色、被他人调用可分账。主力市场在欧美年轻用户，靠商店自然流量与社区传播，几乎不做品牌广告，团队约二十名工程师。",
+      "moat": "护城河是创作者生态与角色库，切换成本来自关注的 AI 与聊天记录。但模型靠外部 API、算力绑定 AMD 与 CoreWeave，产品同质化；真正脆弱点是平台合规，多次被苹果下架，年龄验证是悬顶之剑。",
+      "progress": "2026 年 7 月创始人称年化收入超 1 亿美元、估值约 24 亿美元；但 7 月 8 日应用在 166 个地区被苹果下架，8 月才恢复，此前已多次因内容与年龄验证问题被下架。",
+      "confidence": "high",
+      "sources": [
+        "https://www.tmcnet.com/usubmit/-chai-ai-backed-coreweave-amd-hits-80m-arr-/2026/04/30/10375193.htm",
+        "https://eu.36kr.com/en/p/3947903735037061",
+        "https://www.welch.senate.gov/welch-padilla-probe-ai-chatbot-apps-on-safeguards-for-children/"
+      ]
+    },
+    {
+      "name": "Poetic",
+      "value": "把企业最复杂的高风险流程写成可确定性执行的程序，准确率反超人工",
+      "model": "面向银行、保险等财富五百强的流程自动化，按项目与产出收费，吃的是外包与人力预算，而非按 token 计费的 agent。靠四人团队加前 Palantir、UiPath 背景的交付班底，以试点转生产的口碑获客。",
+      "moat": "护城河是用自然语言编程、编译成确定性执行的那套领域语言与规则库：跑起来几乎不烧 token，边际成本远低于 agent 方案，流程越复杂越难被通用模型替代。薄弱点是项目制交付重，客户集中。",
+      "progress": "2026 年 6 月以 5 亿美元估值完成 5000 万美元 A 轮，Kleiner Perkins 领投；2025 年以 4 人做到八位数年化收入，SoFi 与 AIG 的欺诈调查流程准确率超 99%。",
+      "confidence": "high",
+      "sources": [
+        "https://www.tmcnet.com/usubmit/2026/06/10/10397841.htm",
+        "https://www.arr.club/signal/poetic-surpasses-10m-arr-with-4-people-in-first-year-of-operations"
+      ]
+    },
+    {
+      "name": "Fal.ai",
+      "value": "为开发者提供最快最全的生成式图像与视频推理接口，按秒计费用完即走",
+      "model": "面向开发者与创意工具的 API 平台：聚合数百个图像、视频、音频模型，按推理时长计费，另有企业专属部署。靠模型上新速度与推理速度积累口碑，成为 AI 视频类创业公司的默认后端。",
+      "moat": "护城河是推理工程：自研调度与 GPU 内核优化让同一模型跑得更快更便宜，调用量越大单位成本越低，形成规模飞轮。但上游模型方随时可能自建 API，下游客户会被云厂商用捆绑价挖走，中间层并不稳固。",
+      "progress": "2025 年 12 月完成 1.4 亿美元 D 轮，Sequoia 领投、Nvidia 参投，估值约 45 亿美元；2026 年 3 月年化收入达 4 亿美元，较 2025 年 8 月的 1 亿翻了两番。",
+      "confidence": "high",
+      "sources": [
+        "https://www.arr.club/fal",
+        "https://fintechgate.net/2025/12/13/%d8%b4%d8%b1%d9%83%d8%a9-fal-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d8%ac%d9%85%d8%b9-140-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%81%d9%8a/"
+      ]
+    },
+    {
+      "name": "Eleven Labs",
+      "value": "把文字变成任何语言、任何情绪的人声，并让企业用它跑电话客服",
+      "model": "双轮驱动：开发者与创作者按字符时长订阅 API，企业按席位与通话量采购 ElevenAgents 语音代理。2026 年企业收入占 55%，增长主要来自保险、电信、银行把客服与催收电话交给语音代理。",
+      "moat": "护城河是模型、产品、交付三层叠加：语音模型自然度长期领先，ElevenAgents 把能力封装成可落地流程，换掉要重做集成与调音。风险是 OpenAI、Google 的原生语音逼近，差距抹平后只能打价格战。",
+      "progress": "2026 年 2 月完成 5 亿美元 D 轮、估值 110 亿美元；9 月底以 3 亿美元员工老股转让把估值推到 220 亿美元。企业收入占比 55%，每周处理超 1500 万通对话，团队扩张到 800 人。",
+      "confidence": "high",
+      "sources": [
+        "https://elevenlabs.io/blog/series-d",
+        "https://elevenlabs.io/blog/tender-22bn",
+        "https://dealroom.co/news/158002-elevenlabs-hits-22b-valuation-in-employee-tender-doubling-in-months/"
+      ]
+    },
+    {
+      "name": "Stackblitz (Bolt.new)",
+      "value": "在浏览器里用一句话生成并直接运行全栈应用，不用配置任何开发环境",
+      "model": "面向开发者与技术型创始人的订阅工具：免费额度、每月 25 美元 Pro、按席位收费的 Teams，按 token 计量，企业版可部署进自有 Azure 或 AWS 租户。增长靠社交传播与开发者社区，销售很薄。",
+      "moat": "真护城河是 WebContainers：七年投入把 Node.js 跑进浏览器，让 agent 能真实执行、观察、纠错，对手短期难复制。但体验被 Lovable 在设计易用性上压制，token 计费又让重度用户抱怨。",
+      "progress": "公开可查的年化收入仍停留在 2025 年 3 月的 4000 万美元，增速明显落后于 Lovable；2026 年 5 月与微软 Azure 合作切入企业采购，9 月 29 日完成首次收购 agent 公司 Dokai。",
+      "confidence": "medium",
+      "sources": [
+        "https://aiunpacking.com/review/bolt-new/",
+        "https://bolt.new/blog/bolt-acquires-dokai"
+      ]
+    },
+    {
+      "name": "Gamma",
+      "value": "一句话生成能直接讲的演示文稿、文档与网页，替代做 PPT 的重复劳动",
+      "model": "C 端订阅为主、企业版为辅：免费额度加月费解锁无限生成与去水印，团队版按席位收费。靠产品自传播与创作者口碑增长，几乎没有销售团队，五十人撑起上亿美元年化收入，是效率型组织的样本。",
+      "moat": "护城河是分发与品牌：过亿用户形成事实标准，模板与审美调校带来「看起来专业」的体感，价格门槛又低。但底层依赖第三方模型，微软 Copilot 与 Canva 随时向下压；收购设计团队，恰说明要重筑护城河。",
+      "progress": "2025 年 11 月以 21 亿美元估值融资 6800 万美元，年化收入破 1 亿美元、用户超 1 亿；2026 年 8 月收购 Accel 投资的设计初创 Lica，组建研究部门，从幻灯片向多模态沟通扩张。",
+      "confidence": "high",
+      "sources": [
+        "https://www.arr.club/gamma",
+        "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
+      ]
+    },
+    {
+      "name": "Lovable",
+      "value": "让不会写代码的人用对话做出可上线的全栈应用，从想法直达产品",
+      "model": "面向非技术创始人、产品经理与中小企业的订阅工具：免费额度加每月 25 美元起的分档订阅，按 credit 计量，另售团队版与企业版。增长几乎全靠社交传播与模板生态，六千万项目自带流量。",
+      "moat": "护城河是分发与品牌而非模型：它不做基座模型，靠路由多家模型压成本，如今试图自训小模型、签多年算力换毛利。真正软肋是单位经济——每次生成都要付推理费，访问者却不付费，流失率从未公开。",
+      "progress": "2026 年 8 月完成 4 亿美元 C 轮、估值 133 亿美元，年化收入约 5 亿、指引 6 亿；2 月曾以 146 人做到 4 亿年化收入，如今计划扩到 450 人自建模型与算力，等于承认租模型有洞。",
+      "confidence": "high",
+      "sources": [
+        "https://businessmodelanalyst.com/lovable-series-c-cost-of-goods-capital/",
+        "https://www.arr.club/lovable"
+      ]
+    },
+    {
+      "name": "Retell AI",
+      "value": "给开发者一个能真打电话的语音代理接口，替代外包客服与电话销售",
+      "model": "面向开发者与中小企业的按分钟计费平台：语音引擎、模型、电信三段分别计价，另有百美元级月费档，企业按量签年框。靠自助注册、免费额度与 YC 网络增长，客户集中在医疗、金融、保险、物流。",
+      "moat": "护城河是实时语音工程：自研打断感知与轮次切换让对话像人，配合「比离岸外包便宜九成」的算账逻辑，客户接入业务流程后难替换。但语音与语言模型都是外采，上游自建 agent 平台时会上下夹击。",
+      "progress": "2026 年 8 月年化收入约 8000 万美元、估值超 15 亿美元，团队约 50 人；累计融资仅约 460 万美元，2024 年 Alt Capital 领投种子轮，2025 年初年化收入只有 500 万美元。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.arr.club/retell",
+        "https://bbs.fcgvisa.com/t/retell-ai-5-460-8000-arr-15/57116"
+      ]
+    },
+    {
+      "name": "Genspark",
+      "value": "把搜索、做表、做 PPT、跑流程收进一个通用 AI 工作台，按任务交付",
+      "model": "C 端订阅加企业版双线：个人按月买 credits，企业按席位采购 Genspark for Business，半年签下超六千家企业。把多家模型与八十多个工具封装成「AI 员工」，靠结果导向的演示在社交平台获客。",
+      "moat": "护城河最薄：不训模型，只做编排层，而供应商同时是竞争者。它靠亚太渠道与企业集成抢时间窗口，但用户投诉 credits 消耗过快、失败输出照扣费，说明交付可靠性才是真正门槛。",
+      "progress": "2026 年 10 月 B 轮总额扩至 4.85 亿美元、估值 26 亿美元；年化收入从 2025 年 4 月的零到 2026 年 4 月的 2.5 亿美元，单季曾新增 1.5 亿。同期应用口碑极差，增速与信任度背离。",
+      "confidence": "high",
+      "sources": [
+        "https://agentmarketcap.ai/blog/2026/04/16/genspark-385m-series-b-horizontal-agent-platform-bet",
+        "https://www.schwab.wallst.com/schwab/Prospect/research/stocks/news.asp?symbol=MSFT&doc=3200-nL4N42P10Y-5",
+        "https://www.arr.club/genspark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "companies": [
+    {
+      "name": "Gamma",
+      "website": "https://gamma.app",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Gamma | Best AI Presentation Maker & Website Builder\"，内容为 AI 演示文稿/文档生成，与 AI for Presentations 一致（Cloudflare 拦截 curl，经渲染代理取回正文确认）。"
+    },
+    {
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"App & Website Builder | Build Software in Minutes | Lovable\"，为 AI 建站/应用生成产品，与 AI Code Gen 一致。"
+    },
+    {
+      "name": "Retell AI",
+      "website": "https://www.retellai.com",
+      "github": "https://github.com/RetellAI",
+      "verified": true,
+      "notes": "首页标题 \"AI Voice Agents Platform to Automate Phone Calls | Retell AI\"，HTTP 200；GitHub 组织 RetellAI 官方维护 retell-python-sdk / typescript-sdk 等。"
+    },
+    {
+      "name": "Genspark",
+      "website": "https://www.genspark.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Genspark - Your All-in-One AI Workspace\"，含 Skills/Agent 功能，与 AI Super Agent 一致。"
+    },
+    {
+      "name": "OpenCode",
+      "website": "https://opencode.ai",
+      "github": "https://github.com/anomalyco/opencode",
+      "verified": true,
+      "notes": "首页标题 \"OpenCode | The open source AI coding agent\"；官方仓库原为 sst/opencode，现已迁移至 anomalyco/opencode（GitHub 自动跳转）。"
+    },
+    {
+      "name": "Markable AI",
+      "website": "https://www.markable.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Markable - The AI Platform where Creators Earn More.\"，主打创作者带货/内容 AI 工具与 creator fund，与 AI Creator Marketing 一致（markable.com 为待售域名，非本公司）。"
+    },
+    {
+      "name": "Aragon AI",
+      "website": "https://www.aragon.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"The Leading AI Headshot Generator | Aragon.ai\"，与 AI Avatar Generation 一致。"
+    },
+    {
+      "name": "Solvely.ai",
+      "website": "https://solvely.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"AI Study Tools for Students | Solvely\"，作业答疑与学习工具，与 AI for Homework 一致。"
+    },
+    {
+      "name": "Oleve",
+      "website": "https://oleve.co",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Oleve | Home\"，自述为 NYC 小型团队打造消费级软件产品家族（Quizard AI、Unstuck AI），与 AI Consumer Portfolio 一致；oleve.com 为挂牌出售域名，非官网。"
+    },
+    {
+      "name": "BoldVoice",
+      "website": "https://boldvoice.com",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"BoldVoice | American Accent Training App\"，面向非母语者的口音/表达训练，与 AI Communication Feedback 一致。"
+    },
+    {
+      "name": "Arcads",
+      "website": "https://www.arcads.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Arcads - Create winning ads with AI\"，AI 演员生成视频广告，与 AI Video Ads Generator 一致。"
+    },
+    {
+      "name": "Higgsfield",
+      "website": "https://higgsfield.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Higgsfield AI — AI-native creative suite\"，图像/视频/语音生成与编辑，与 AI Video Generation 一致。"
+    },
+    {
+      "name": "Develop Health",
+      "website": "https://www.develophealth.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Develop Health - Insurance AI for Prescribers\"，面向开处方者的保险/事前授权 AI，与 AI for Prescribers 一致。"
+    },
+    {
+      "name": "Halluminate",
+      "website": "https://halluminate.ai",
+      "github": "https://github.com/Halluminate",
+      "verified": true,
+      "notes": "首页标题 \"Halluminate - RL Environments for Financial Services\"，自述为构建 benchmark 与 RL 环境的数据研究实验室，与 AI Training Data & Evaluation 一致；GitHub 组织 Halluminate 维护 westworld / browserbench 等官方评测仓库。"
+    },
+    {
+      "name": "Phinity Labs",
+      "website": "https://www.phinity.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Phinity Labs | Autonomous Tapeout\"，面向芯片设计的 AI Agent，与 AI Chip Design Agents 一致（与 X 账号 phinity_ai 同名）。"
+    },
+    {
+      "name": "Super.com",
+      "website": "https://super.com",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Super.com: Save, Earn, Travel\"，现金返还/省钱一站式 App，与 All-in-one App 一致（站点对 curl 有真人校验，经渲染代理确认标题与正文）。"
+    },
+    {
+      "name": "Photoroom",
+      "website": "https://www.photoroom.com",
+      "github": "https://github.com/Photoroom",
+      "verified": true,
+      "notes": "首页标题 \"AI-Powered Photo Editor and Listing Studio for Product Photography | Photoroom\"，与 Image Editing 一致；GitHub 组织 Photoroom 为官方 API 示例仓库（api-code-samples 等）。"
+    },
+    {
+      "name": "Stan",
+      "website": "https://stan.store",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Stan - Your Creator Store\"，创作者开店/变现工具，与 Creator Storefront 一致。"
+    },
+    {
+      "name": "Fish Audio",
+      "website": "https://fish.audio",
+      "github": "https://github.com/fishaudio",
+      "verified": true,
+      "notes": "首页标题 \"Best AI Text To Speech & Free Voice Cloning | Fish Audio\"，与 AI Voice / TTS 一致；GitHub 组织 fishaudio 为官方开源组织（fish-speech 等）。"
+    },
+    {
+      "name": "Tolan (Portola)",
+      "website": "https://tolan.ai",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Tolan: Friendly Guide Through Life\"，自述 25 万+ 活跃用户、App Store 4.8 星，为 AI 陪伴角色应用，与 AI Companion App 一致（tolan.ai 正常跳转至官方站点）。"
+    },
+    {
+      "name": "Wafer",
+      "website": "https://www.wafer.ai",
+      "github": "https://github.com/wafer-ai",
+      "verified": true,
+      "notes": "首页标题 \"Wafer | Continual Inference\"，推理优化方向一致，官网页面直接外链 github.com/wafer-ai 为官方组织。"
+    },
+    {
+      "name": "Viktor",
+      "website": "https://viktor.com",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Viktor: the AI employee for your team. Not a tool. A hire.\"，站内 blog 载有 7500 万美元 A 轮（Accel），与 AI Coworker for Slack & Teams 一致；viktor.tech 为同名个人博客，非官网。"
+    },
+    {
+      "name": "AKOOL",
+      "website": "https://akool.com",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Premium AI Video Suite | AKOOL\"，生成式 AI 视频/数字人平台，与 AI Video Generation 一致。"
+    },
+    {
+      "name": "Clipto",
+      "website": "https://clipto.com",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题 \"Fully local, natural language search over terabytes of media\"，本地/端侧 AI 媒体搜索，与 On-device AI Media Search 一致（clipto.ai 跳转至此）。"
+    }
+  ]
+}

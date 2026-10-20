@@ -1,0 +1,179 @@
+{
+  "companies": [
+    {
+      "name": "OpenCode",
+      "value": "给不想被单一模型锁定的开发者一个开源、终端优先的编程代理，免费起步、按用量付费。",
+      "model": "两条收入线：OpenCode Zen 统一推理入口按 token 计费，2025 年 10 月上线，年化约 4000 万美元；2026 年 3 月推出月订阅，16 万付费用户、年化约 1800 万美元；企业控制台按席位收费。增长靠开源社区与各家模型厂商的官方支持，免费 token 即获客成本。",
+      "moat": "真护城河是「中立」定位与开源生态：同时兼容七十多家模型商，任何两家互斗都利好它，社区替它适配长尾模型；切换成本来自企业控制台与工作流。弱点是产品本身可被复制，上游实验室随时能收紧订阅授权，这更像渠道位而非技术壁垒。",
+      "progress": "2026 年 6 月月活约 1300 万、周活 460 万，日处理 7 万亿 token，超过 OpenRouter 全平台的六万亿；年化收入 7 月约 4000 万美元，9 月称已接近 6000 万美元。1 月 Anthropic 封禁 Claude 订阅在 OpenCode 上调用，反而成了最大增长拐点，此后多家模型厂商转为官方支持。",
+      "confidence": "high",
+      "sources": [
+        "https://www.ycrootaccess.com/p/how-opencode-became-the-worlds-most",
+        "https://www.sohu.com/a/1081910517_413980",
+        "https://www.altis.vc/research/company/anomaly-anoma-ly"
+      ]
+    },
+    {
+      "name": "Markable AI",
+      "value": "帮中腰部带货创作者把选品、深链、AI 素材和投流合成一套工具，让流量变成可结算的销售额。",
+      "model": "面向北美带货创作者，深链、AutoDM、AI 拼图与视频、bio 链接等核心功能大多免费，靠一亿美元创作者基金做投流放大，并向头部创作者提供高客单价服务；免费层做规模、付费与广告分成做收入。团队约 25 人且已盈利。",
+      "moat": "壁垒是「转化率工程」：深链把点击直接落到零售商 App 的已登录环境，转化约为普通链接三倍；叠加自投广告与创作者基金，形成资金与转化数据的闭环。弱点是对 TikTok、Instagram 与联盟佣金政策高度依赖，工具层随时可能被平台原生功能吞并。",
+      "progress": "2026 年 9 月称平台带动的创作者销售额超过 17 亿美元、同比增长 260%，同步更换品牌视觉；上半年把多项 AI 功能免费开放后，创作者数量翻倍，免费层成为主要拉新入口。创始人 Joy Tang 表示过去 12 个月平台促成逾 10 亿美元商品销售。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.martech360.com/news/stack-platforms/markable-surpasses-17-billion-in-creator-driven-sales-and-unveils-new-brand-identity",
+        "https://www.netinfluencer.com/the-high-frequency-trader-who-decided-creators-were-a-better-bet-than-stocks/"
+      ]
+    },
+    {
+      "name": "Aragon AI",
+      "value": "让求职者用手机自拍在几十分钟内拿到能用的职业头像，价格只有线下摄影的十分之一。",
+      "model": "以 B2C 一次性付费为主：上传十余张自拍、约 30 至 40 美元生成上百张职业头像，另有团队批量采购；几乎不投广告，靠 SEO 与联盟博客获客，单篇关键词排名第一的文章曾贡献过半早期收入。全自助、无销售团队。",
+      "moat": "真优势是极低获客成本与高毛利的一次性现金流，十人团队做到千万美元 ARR 且盈利；但产品是单点功能，LinkedIn、Canva 或手机相机随时可内置同类能力。用户一生只买一两次，复购天然缺失，护城河更像 SEO 位与先发窗口。",
+      "progress": "2025 年 2 月 ARR 达 1000 万美元，团队约 10 人、持续盈利、未拿机构融资；2025 年 8 月用户突破 200 万，2026 年 1 月称 B2B ARR 增长 300%。榜单快照（2025 年 2 月）列营收 1200 万美元、8 人、累计融资仅 90 万美元，与独立报道基本吻合；面向企业的团队头像批量采购正成为第二增长点。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.arr.club/aragon-ai",
+        "https://www.pmf.show/blog/aragon-ai-headshots-zero-to-10m-arr-wesley-tian",
+        "https://startuply.vc/article/aragon-ai-sells-a-million-ai-headshots-to-the-linkedin-crowd-1bdap0"
+      ]
+    },
+    {
+      "name": "Solvely.ai",
+      "value": "给大学生拍照解题并给出分步讲解的 AI 学习工具，把一对一辅导的价格压到每月十几美元。",
+      "model": "B2C 订阅：免费额度加每月约 13 至 20 美元、年付更低，用户覆盖 150 多国、主打美国大学生，并向 NCLEX、TEAS、CDL 等职业资格考试延伸。增长靠应用商店搜索优化、Reddit 讨论与上百名校园大使，几乎不投放广告，团队维持在极小规模。",
+      "moat": "用多模型交叉验证把难题准确率拉到约九成，形成「敢收费」的口碑；与 Canvas、Blackboard、Moodle 等教学系统整合提高粘性。弱点是没有专有模型、边际成本高于同行，而 Chegg 式的搜题需求正被通用大模型免费侵蚀，价格战难打。",
+      "progress": "2024 年 5 月完成 500 万美元种子轮，Emerge 领投，当时下载破百万、付费用户约 1.2 万、年收入七位数；2024 年底 ARR 约 600 万美元、同比增长 6 倍。2026 年 4 月入选 Notable Capital 与纳斯达克的首届 Prosumer AI 40，用户规模已破千万，并把预算投向护理、驾照等付费意愿更高的考证场景。",
+      "confidence": "medium",
+      "sources": [
+        "https://emergecapital.vc/solvely-raises-5m-to-build-an-ai-tutor-that-can-actually-do-the-maths/",
+        "https://www.arr.club/solvely",
+        "https://solvely.ai/blog/prosumer-ai-40"
+      ]
+    },
+    {
+      "name": "Oleve",
+      "value": "四人「AI 应用工厂」，靠 TikTok 病毒内容批量孵化学习类 App，用极低成本换高利润现金流。",
+      "model": "纯 B2C 订阅：Quizard、Unstuck 等学习工具采用免费加周订阅（约 9.99 美元/周），先降低首单门槛再提高续订率；内部 Agent 全天抓取热点、自动生成并测试投放素材，把获客流程产品化，新 App 三周可上线并当月盈利。",
+      "moat": "壁垒是「增长中台」而非单款产品：拆解爆款、复用素材与投放 SOP，让每次冷启动成本递减，20% 至 30% 的利润率支撑自筹扩张。弱点极明显——产品同质、平台算法一变即失速，且没有模型或数据层面的壁垒。",
+      "progress": "2025 年 9 月披露年收入约 600 万美元、两年累计用户超 500 万、TikTok 播放超 5 亿，团队从 4 人扩到 6 人并持续盈利，利润率两到三成；据榜单快照，公司 2024 年成立、9 个月做到 600 万美元年收入、估值约 1000 万美元，另有一款非教育类产品在孵化中。",
+      "confidence": "medium",
+      "sources": [
+        "http://m.cjcn.com.cn/news/show-103721.html",
+        "https://www.linkedin.com/feed/update/urn:li:activity:7295539504382128129/"
+      ]
+    },
+    {
+      "name": "BoldVoice",
+      "value": "用音素级 AI 反馈帮非英语母语者改掉口音、在职场讲清楚，成本远低于真人教练。",
+      "model": "B2C 订阅（月付/年付），客户是印度、拉美、东亚的职场人士与留学生；产品是自研语音模型加真人教练视频课的混合课程，主打每天十分钟练习。增长靠应用商店与内容营销，团队仅 7 人，无企业销售团队。",
+      "moat": "自研模型专为带口音语音训练调优，音素级评分与纠音数据是第一层壁垒；课程库与教练内容构成第二层资产。但底层语音识别正被大厂商品化，用户练到目标水平后会自然流失，续订是结构性难题。",
+      "progress": "2026 年 1 月完成 2100 万美元 A 轮，Matrix 领投，Flybridge、Xfund、Corazon Capital 参投；累计下载超 500 万、覆盖 150 多个国家、ARR 突破 1000 万美元，团队仅 7 人且仍保持盈利。榜单快照（2026 年 1 月）列营收 1000 万美元、累计融资 2710 万美元，新钱将投向语音模型与全球扩张。",
+      "confidence": "high",
+      "sources": [
+        "https://www.pingwest.com/w/311144",
+        "https://www.prnewswire.com/news-releases/boldvoice-raises-21m-series-a-to-give-a-billion-non-native-english-speakers-their-own-ai-voice-coach-302671777.html"
+      ]
+    },
+    {
+      "name": "Arcads",
+      "value": "让品牌方用 AI 演员批量生成「素人感」短视频广告，替代真人达人与拍摄团队。",
+      "model": "B2B 订阅，按生成量与席位收费，客户是 DTC 品牌与效果投放团队；卖点是脚本进、成片出，可日产数十条素材做 A/B 测试。增长靠冷启动外呼、创始人个人品牌与联盟分销，长期自筹，直到 2025 年底才拿第一轮机构钱。",
+      "moat": "优势在「广告素材」这一垂直场景的成片质量与速度，以及 6000 家客户沉淀的投放反馈；但底层依赖第三方视频模型，HeyGen、Synthesia 与 Creatify 都能向下压。真护城河尚未形成，目前只是速度与价格窗口。",
+      "progress": "2025 年 12 月完成 1600 万美元种子轮，Eurazeo 领投，此前一直自筹且保持盈利；2026 年 4 月年收入约 1500 万美元、员工 8 人、客户约 6000 家。2025 年 5 月时还是 1000 万美元 ARR、5 人团队，一年增长约五成；对照 HeyGen 年收入约 2 亿美元、两百人规模，它仍是小体量的挑战者。",
+      "confidence": "high",
+      "sources": [
+        "https://getlatka.com/companies/arcads.ai",
+        "https://arcads.ai"
+      ]
+    },
+    {
+      "name": "Higgsfield",
+      "value": "给社交媒体营销团队按天批量生产带一致人物与品牌的 AI 视频，替代传统拍摄与外包。",
+      "model": "订阅加积分制，先在 C 端起量、再向 B 端变现；客户从个人创作者转向品牌与代理商，2026 年企业客户已贡献多数收入，覆盖 390 家财富 500 强。增长靠病毒式模板与社交传播，再把流量卖给企业席位与算力包。",
+      "moat": "护城河是「一致性」工程：自研推理引擎串联多个第三方视频模型，保证角色与品牌在多条片子间统一，比自研基座更快也更省算力；模板库与创作者社区形成内容飞轮。弱点是不掌握基座模型，上游降价或断供即压缩其套利空间。",
+      "progress": "2026 年 8 月完成 4 亿美元 B 轮、估值 54 亿美元，DST、高盛、Intel、Liberty Global 等参投；同月年化收入达 7 亿美元，一年前仅 2000 万美元，用户超 3000 万、覆盖 238 个国家和地区。此前 2026 年 1 月刚以 13 亿美元估值融资 8000 万美元，公司称算力是当前最大瓶颈，新钱主要用于锁定 GPU 产能。",
+      "confidence": "high",
+      "sources": [
+        "http://app003.ftchinese.com/interactive/291079/en",
+        "https://qazinform.com/news/natalia-vodianova-invests-in-kazakh-founded-ai-unicorn-higgsfield-40b047",
+        "https://economictimes.indiatimes.com/tech/funding/ai-video-startup-higgsfield-hits-1-3-billion-valuation-with-80-million-funding/articleshow/126546764.cms"
+      ]
+    },
+    {
+      "name": "Develop Health",
+      "value": "把处方前的医保覆盖查询、事前授权与拒付申诉自动化，让诊所和药房少打电话、多开出药。",
+      "model": "B2B SaaS，按诊所/药房席位或授权单量收费，客户包括独立药房、处方医生、药企与支付方；产品是嵌入 EHR 的实时福利核查、自动提交事前授权与申诉起草。增长靠行业协会（如 NCPA）网络研讨与渠道合作。",
+      "moat": "壁垒在支付方规则库与表单、申诉语料的长期积累，以及嵌入临床工作流后的高切换成本；宣称减少九成人工、审批从一周压到一天，ROI 可验证。弱点是对支付方规则变动敏感，同赛道还有 CoverMyMeds 等成熟玩家。",
+      "progress": "2025 年 8 月完成 1430 万美元融资（含 A 轮），此前累计仅约 320 万美元；第三方数据记录 2026 年 4 月 ARR 达 1000 万美元，较榜单快照的 600 万继续上行。2026 年 7 月通过 NCPA 面向独立药房做产品推广，显示其正从处方端扩到药房端。",
+      "confidence": "medium",
+      "sources": [
+        "https://develophealth.ai/",
+        "https://ncpa.org/newsroom/qam/2026/07/14/today-boost-your-prior-auth-resolution-speed-ai-tool",
+        "https://www.arr.club/develop-health"
+      ]
+    },
+    {
+      "name": "Halluminate",
+      "value": "为前沿实验室搭建金融尽职调查等高仿真强化学习环境，把投行经验变成可训练的评分数据。",
+      "model": "B2B 项目制加环境授权，客户是五家美国闭源前沿实验室中的四家；按已交付并付款的季度收入计费，环境按复杂度与专家工时定价。刻意不做泛行业，只深耕金融，靠口碑与实验室复购扩张，九人团队已盈利。",
+      "moat": "壁垒是专家网络与评分函数：签约投行、PE 从业者撰写并复核任务，供给端难复制；真正稀缺的是每六到八个月把环境复杂度翻倍的交付能力，这才是实验室持续付费的理由。弱点是客户高度集中，实验室终会自建部分能力。",
+      "progress": "2026 年 10 月完成 3000 万美元 A 轮，Oak HC/FT 领投，累计融资 3850 万美元；九人团队、已盈利，年化收入达中八位数，公司预计年底突破九位数。8 月发布 Westworld 尽调基准，七个前沿模型最高平均分仅五成一；客户为五家美国闭源实验室中的四家，按环境复杂度与专家工时定价。",
+      "confidence": "high",
+      "sources": [
+        "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/",
+        "https://www.oakhcft.com/blog-post/the-internet-has-run-out-of-things-to-teach-why-we-led-halluminates-30-million-series-a"
+      ]
+    },
+    {
+      "name": "Phinity Labs",
+      "value": "用 AI 智能体自动完成芯片架构探索、RTL 编写与验证，把「提示词到流片」的周期大幅压缩。",
+      "model": "B2B 项目制：为前沿实验室与芯片公司跑具体设计任务，围绕功耗、性能、面积做优化，按项目或算力加席位收费；同时自建面向 Agent 的 EDA 工具链。九人团队，靠创始人学术网络与 PearX 圈子拿到首批客户。",
+      "moat": "壁垒是环境、评分器与失败数据的闭环：智能体每跑一次流片流程就多一份可学习信号，芯片越复杂越难被通用编码 Agent 替代；能拿到未发布模型是短期优势。弱点是成立仅一年、客户集中于少数实验室，收入可持续性未验证。",
+      "progress": "2026 年 10 月完成 520 万美元种子轮，Uncork 领投，Pear、Moxxie 与 Jeff Dean 参投；产品上线数月即从零做到八位数年化收入并盈利，某 AI 推理芯片任务上面积优化约为人类最佳结果的两倍。团队来自斯坦福、英伟达与英特尔。",
+      "confidence": "medium",
+      "sources": [
+        "https://uncorkcapital.com/blog/reinventing-chip-design-ai-era-phinity-labs",
+        "https://www.finsmes.com/2026/10/phinity-labs-raises-5-2m-in-seed-funding.html"
+      ]
+    },
+    {
+      "name": "Super.com",
+      "value": "用 15 美元月费的会员制，为年收入十万美元以下的美国人打包旅行折扣、返现、处方优惠与信用建设。",
+      "model": "订阅制 Super+（约 15 美元/月）叠加交易佣金：酒店与旅行返佣、品牌返现分成、处方折扣与现金垫付。获客靠效果投放、NASCAR 等大众体育赞助与口碑转介，会员数接近百万，客群是月光族与低信用人群。",
+      "moat": "壁垒是低线人群的便宜获客加多品类变现：同一批流量在旅游、金融、健康三条线反复变现，单客经济模型比单一折扣站更厚；NASCAR 等大众赞助买的是别人买不到的注意力。弱点是与 Rakuten、Capital One Shopping、Chime 正面竞争，留存靠持续补贴。",
+      "progress": "2026 年 7 月完成 6500 万美元 D 轮，TPG 领投，估值 12 亿美元；净收入超 2 亿美元、同比增长逾五成并实现盈利，员工约 300 人。2026 年 3 月成为 NASCAR 官方省钱合作伙伴，前 Bird 首席产品官加盟负责产品；Super+ 会员接近一百万，累计为用户省下逾 10 亿美元。",
+      "confidence": "high",
+      "sources": [
+        "https://fortune.com/2026/07/07/the-1-2-billion-startup-become-amazon-prime-for-savings/",
+        "https://www.prnewswire.com/news-releases/supercom-raises-65m-series-d-led-by-tpg-at-1-2b-valuation-to-scale-the-savings-super-app-for-everyday-americans-302493120.html"
+      ]
+    },
+    {
+      "name": "Photoroom",
+      "value": "让电商卖家在手机上把随手拍的商品图变成可直接上架的干净主图与场景图。",
+      "model": "B2C 与 B2B 订阅并行：个人版约 13 美元/月，企业版按席位与 API 调用量收费；客户从小卖家延伸到 Decathlon、DoorDash 等零售与外卖平台。增长靠应用商店自然量与 API 渠道，几乎不投广告，早期靠自助付费实现正现金流。",
+      "moat": "壁垒是「商品保真」：自建模型专注抠图、阴影、虚拟模特与产品一致性校验，2026 年 6 月推出不合规不计费的保真承诺，把软件变成对结果负责的服务。弱点是与 Canva、Adobe 及通用图像模型正面相撞，单点功能容易被吸收。",
+      "progress": "2026 年仍在 5 亿美元估值区间、累计融资约 6200 万美元，团队扩至约 150 人（巴黎与纽约），年生成图像超 70 亿张、应用下载超 3 亿次；第三方估算 2026 年 10 月 ARR 约 1.5 亿美元。创始人称账上资金充足，暂无新融资计划。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.beaboss.fr/start-up-1271/licorne-2366/photoroom-veut-devenir-le-photoshop-du-commerce-55999/amp",
+        "https://www.arr.club/photoroom",
+        "https://sacra.com/chat/h/2869c11c-a4a5-4665-be44-a03c46e4e5e9/"
+      ]
+    },
+    {
+      "name": "Stan",
+      "value": "给中腰部创作者一个链接即开的店铺，卖课程、会员和一对一咨询，平台不抽交易佣金。",
+      "model": "订阅制：Creator 29 美元/月、Creator Pro 99 美元/月，交易零佣金，客户是卖课程、会员与咨询的中腰部创作者；2025 年新增独立订阅的 AI 内容工具 Stanley（Instagram 版 45 美元/月）。增长几乎不投广告，靠创作者利润分成与口碑转介，约 30 人做到三千万美元年收入。",
+      "moat": "壁垒是「创作者即分销」：把用户变成联盟推广者，获客成本接近零，四成 EBITDA 利润率支撑不融资扩张。弱点是月流失率曾高达 13%、两层定价封住扩张收入，Linktree 与 Kajabi 正补齐同类功能，增长已明显放缓。",
+      "progress": "ARR 自 2025 年 5 月的 3000 万美元后再未更新，2026 年 8 月联合创始人仍称年收入 3000 万美元、约 30 人、8.5 万活跃创作者；Stanley 面向 LinkedIn 的版本 2026 年 7 月 ARR 破 100 万美元。创作者累计在平台卖出逾 6 亿美元，但两年未突破的 ARR 是最大隐忧。",
+      "confidence": "high",
+      "sources": [
+        "https://research.contrary.com/report/stan",
+        "https://www.forerunnerventures.com/perspectives/how-stan-scaled-to-33m-in-arr-within-two-years-while-building-in-public",
+        "https://runtimewire.com/article/stan-stanley-ai-arr-john-hu-vibe-coding"
+      ]
+    }
+  ]
+}

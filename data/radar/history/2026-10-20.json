@@ -1,0 +1,1857 @@
+{
+  "generated_at": "2026-10-20T07:20:50+00:00",
+  "github": {
+    "fetched_at": "2026-10-20T07:20:52+00:00",
+    "url": "https://github.com/trending?since=daily",
+    "items": [
+      {
+        "repo": "MadsLorentzen/ai-job-search",
+        "name": "ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "stars_today": 3856,
+        "stars": 58313,
+        "forks": 18421,
+        "language": "Python",
+        "source": "trending",
+        "trending_rank": 1,
+        "rank": 1
+      },
+      {
+        "repo": "stablyai/orca",
+        "name": "orca",
+        "url": "https://github.com/stablyai/orca",
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "stars_today": 1590,
+        "stars": 98704,
+        "forks": 6297,
+        "language": "TypeScript",
+        "source": "trending",
+        "trending_rank": 6,
+        "rank": 2
+      },
+      {
+        "repo": "anomalyco/opencode",
+        "name": "opencode",
+        "url": "https://github.com/anomalyco/opencode",
+        "description": "The open source coding agent.",
+        "stars_today": 1311,
+        "stars": 218144,
+        "forks": 29146,
+        "language": "TypeScript",
+        "source": "trending",
+        "trending_rank": 2,
+        "rank": 3
+      },
+      {
+        "repo": "Comfy-Org/ComfyUI",
+        "name": "ComfyUI",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "stars_today": 1011,
+        "stars": 140076,
+        "forks": 16607,
+        "language": "Python",
+        "source": "trending",
+        "trending_rank": 4,
+        "rank": 4
+      },
+      {
+        "repo": "akitaonrails/ai-memory",
+        "name": "ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "stars_today": 666,
+        "stars": 11578,
+        "forks": 820,
+        "language": "Rust",
+        "source": "trending",
+        "trending_rank": 3,
+        "rank": 5
+      },
+      {
+        "repo": "HKUDS/CLI-Anything",
+        "name": "CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "stars_today": 606,
+        "stars": 55433,
+        "forks": 4998,
+        "language": "Python",
+        "source": "trending",
+        "trending_rank": 10,
+        "rank": 6
+      },
+      {
+        "repo": "ruvnet/ruflo",
+        "name": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "stars_today": 564,
+        "stars": 77389,
+        "forks": 9117,
+        "language": "TypeScript",
+        "source": "trending",
+        "trending_rank": 5,
+        "rank": 7
+      },
+      {
+        "repo": "shiyu-coder/Kronos",
+        "name": "Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "stars_today": 363,
+        "stars": 41886,
+        "forks": 6949,
+        "language": "Python",
+        "source": "trending",
+        "trending_rank": 12,
+        "rank": 8
+      },
+      {
+        "repo": "headroomlabs-ai/headroom",
+        "name": "headroom",
+        "url": "https://github.com/headroomlabs-ai/headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "stars_today": 310,
+        "stars": 76406,
+        "forks": 5931,
+        "language": "Python",
+        "source": "trending",
+        "trending_rank": 7,
+        "rank": 9
+      },
+      {
+        "repo": "anthropics/claude-code",
+        "name": "claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars_today": 167,
+        "stars": 152800,
+        "forks": 27149,
+        "language": "TypeScript",
+        "source": "trending",
+        "trending_rank": 11,
+        "rank": 10
+      }
+    ],
+    "note": "Trending 的 stars today 为 GitHub 官方页面口径；搜索兜底为中 Star AI 项目。"
+  },
+  "openrouter": {
+    "fetched_at": "2026-10-20T07:20:54+00:00",
+    "url": "https://openrouter.ai/rankings",
+    "items": [
+      {
+        "id": "2627404",
+        "slug": "claude-code",
+        "title": "Claude Code",
+        "description": "Claude Code is Anthropic's agentic coding tool that reads your entire codebase, plans and executes changes across files, runs tests, and iterates on failures, all from natural language prompts.",
+        "categories": [
+          "cli-agent"
+        ],
+        "url": "https://claude.ai/code",
+        "source_code_url": "",
+        "created_at": "2025-12-23T22:23:47.378Z",
+        "rank": 2,
+        "total_tokens": 1686675440226,
+        "total_requests": 14176947,
+        "rank_day": 2,
+        "tokens_day": 1686675440226,
+        "requests_day": 14176947,
+        "share_day": 22.72,
+        "rank_week": 2,
+        "tokens_week": 10723178683912,
+        "rank_month": 2,
+        "tokens_month": 36350715093510,
+        "rank_delta_week": 0,
+        "rank_delta_month": 0
+      },
+      {
+        "id": "3067167",
+        "slug": "hermes-agent",
+        "title": "Hermes Agent",
+        "description": "Hermes Agent is an open-source, self-improving AI agent by Nous Research that runs persistently with memory across sessions, and builds reusable skills from experience. It comes with 40+ built-in tools, including web search, browser automation, and vision, plus scheduled automations and subagents.",
+        "categories": [
+          "personal-agent",
+          "cli-agent"
+        ],
+        "url": "https://hermes-agent.nousresearch.com/",
+        "source_code_url": "",
+        "created_at": "2026-03-12T23:26:33.624Z",
+        "rank": 3,
+        "total_tokens": 1664230043230,
+        "total_requests": 15711854,
+        "rank_day": 3,
+        "tokens_day": 1664230043230,
+        "requests_day": 15711854,
+        "share_day": 22.42,
+        "rank_week": 3,
+        "tokens_week": 11748002934392,
+        "rank_month": 3,
+        "tokens_month": 52584926491732,
+        "rank_delta_week": 0,
+        "rank_delta_month": 0
+      },
+      {
+        "id": "2262242",
+        "slug": "kilo-code",
+        "title": "Kilo Code",
+        "description": "Kilo Code is an open-source AI coding agent that works across VS Code, JetBrains, and CLI to help developers ship code faster with agentic workflows.",
+        "categories": [
+          "cli-agent",
+          "ide-extension"
+        ],
+        "url": "https://kilocode.ai/",
+        "source_code_url": "",
+        "created_at": "2025-04-09T15:16:20.620Z",
+        "rank": 5,
+        "total_tokens": 798873897349,
+        "total_requests": 8577125,
+        "rank_day": 5,
+        "tokens_day": 798873897349,
+        "requests_day": 8577125,
+        "share_day": 10.76,
+        "rank_week": 5,
+        "tokens_week": 5336953763439,
+        "rank_month": 5,
+        "tokens_month": 24340551140125,
+        "rank_delta_week": 0,
+        "rank_delta_month": 0
+      },
+      {
+        "id": "2853275",
+        "slug": "pi",
+        "title": "pi",
+        "description": "There are many coding agents, but this one is yours.",
+        "categories": [
+          "cli-agent"
+        ],
+        "url": "https://pi.dev/",
+        "source_code_url": "",
+        "created_at": "2026-02-15T08:18:07.110Z",
+        "rank": 6,
+        "total_tokens": 503822180214,
+        "total_requests": 5059195,
+        "rank_day": 6,
+        "tokens_day": 503822180214,
+        "requests_day": 5059195,
+        "share_day": 6.79,
+        "rank_week": 7,
+        "tokens_week": 3161126204854,
+        "rank_month": 8,
+        "tokens_month": 13104738034278,
+        "rank_delta_week": 1,
+        "rank_delta_month": 2
+      },
+      {
+        "id": "190604",
+        "slug": "cline",
+        "title": "Cline",
+        "description": "Cline is an open-source AI coding agent that lives inside your IDE, autonomously exploring your codebase, editing files, running terminal commands, and using browser automation.",
+        "categories": [
+          "ide-extension",
+          "cli-agent"
+        ],
+        "url": "https://cline.bot/",
+        "source_code_url": "",
+        "created_at": "2024-10-09T07:53:24.932Z",
+        "rank": 7,
+        "total_tokens": 409202319693,
+        "total_requests": 5217155,
+        "rank_day": 7,
+        "tokens_day": 409202319693,
+        "requests_day": 5217155,
+        "share_day": 5.51,
+        "rank_week": 6,
+        "tokens_week": 3329684273633,
+        "rank_month": 6,
+        "tokens_month": 20211405811924,
+        "rank_delta_week": -1,
+        "rank_delta_month": -1
+      },
+      {
+        "id": "4706207",
+        "slug": "",
+        "title": "DeepSeek Harness",
+        "description": "",
+        "categories": [],
+        "url": "https://github.com/deepseek-ai/deepseek-harness",
+        "source_code_url": "",
+        "created_at": "2026-08-14T02:52:48.939Z",
+        "rank": 8,
+        "total_tokens": 394236178715,
+        "total_requests": 2103118,
+        "rank_day": 8,
+        "tokens_day": 394236178715,
+        "requests_day": 2103118,
+        "share_day": 5.31,
+        "rank_week": 12,
+        "tokens_week": 1801873762467,
+        "rank_month": 13,
+        "tokens_month": 6535817526990,
+        "rank_delta_week": 4,
+        "rank_delta_month": 5
+      },
+      {
+        "id": "3682314",
+        "slug": "",
+        "title": "omp",
+        "description": "",
+        "categories": [
+          "cli-agent"
+        ],
+        "url": "https://omp.sh/",
+        "source_code_url": "",
+        "created_at": "2026-05-15T19:18:27.144Z",
+        "rank": 10,
+        "total_tokens": 347177266966,
+        "total_requests": 2109389,
+        "rank_day": 10,
+        "tokens_day": 347177266966,
+        "requests_day": 2109389,
+        "share_day": 4.68,
+        "rank_week": 11,
+        "tokens_week": 1972019693615,
+        "rank_month": 11,
+        "tokens_month": 10492531447441,
+        "rank_delta_week": 1,
+        "rank_delta_month": 1
+      },
+      {
+        "id": "4137556",
+        "slug": "",
+        "title": "Freebuff",
+        "description": "Powerful coding models, funded by ads",
+        "categories": [],
+        "url": "https://freebuff.com/",
+        "source_code_url": "",
+        "created_at": "2026-06-18T22:24:38.005Z",
+        "rank": 11,
+        "total_tokens": 335219798574,
+        "total_requests": 2652191,
+        "rank_day": 11,
+        "tokens_day": 335219798574,
+        "requests_day": 2652191,
+        "share_day": 4.52,
+        "rank_week": 9,
+        "tokens_week": 2530844413511,
+        "rank_month": 10,
+        "tokens_month": 10740528543027,
+        "rank_delta_week": -2,
+        "rank_delta_month": -1
+      },
+      {
+        "id": "2668297",
+        "slug": "codex",
+        "title": "Codex",
+        "description": "A coding agent that helps you build and ship with AI",
+        "categories": [
+          "cli-agent"
+        ],
+        "url": "https://openai.com/codex/",
+        "source_code_url": "",
+        "created_at": "2026-01-10T03:00:25.305Z",
+        "rank": 12,
+        "total_tokens": 240732827238,
+        "total_requests": 3313368,
+        "rank_day": 12,
+        "tokens_day": 240732827238,
+        "requests_day": 3313368,
+        "share_day": 3.24,
+        "rank_week": 13,
+        "tokens_week": 1260526507099,
+        "rank_month": 9,
+        "tokens_month": 11558267094560,
+        "rank_delta_week": 1,
+        "rank_delta_month": -3
+      },
+      {
+        "id": "2725608",
+        "slug": "openclaw",
+        "title": "OpenClaw",
+        "description": "OpenClaw is an open-source AI agent that connects to your messaging apps and takes real actions on your behalf, from running commands and browsing the web to managing files and sending emails.",
+        "categories": [
+          "personal-agent",
+          "cli-agent"
+        ],
+        "url": "https://openclaw.ai/",
+        "source_code_url": "",
+        "created_at": "2026-01-30T06:12:11.182Z",
+        "rank": 13,
+        "total_tokens": 218606825319,
+        "total_requests": 2660356,
+        "rank_day": 13,
+        "tokens_day": 218606825319,
+        "requests_day": 2660356,
+        "share_day": 2.94,
+        "rank_week": 10,
+        "tokens_week": 2085950648536,
+        "rank_month": 12,
+        "tokens_month": 7484701050932,
+        "rank_delta_week": -3,
+        "rank_delta_month": -1
+      },
+      {
+        "id": "4725308",
+        "slug": "",
+        "title": "Proto Agent",
+        "description": "Proto is the personal agent for your business.",
+        "categories": [
+          "personal-agent",
+          "general-chat",
+          "cli-agent",
+          "programming-app",
+          "native-app-builder"
+        ],
+        "url": "https://proto.erp.ai/",
+        "source_code_url": "",
+        "created_at": "2026-08-16T08:57:45.322Z",
+        "rank": 14,
+        "total_tokens": 171049574363,
+        "total_requests": 860145,
+        "rank_day": 14,
+        "tokens_day": 171049574363,
+        "requests_day": 860145,
+        "share_day": 2.3,
+        "rank_week": 15,
+        "tokens_week": 1117084148054,
+        "rank_month": 21,
+        "tokens_month": 2131323077752,
+        "rank_delta_week": 1,
+        "rank_delta_month": 7
+      },
+      {
+        "id": "3003505",
+        "slug": "",
+        "title": "Strix",
+        "description": "",
+        "categories": [
+          "cli-agent"
+        ],
+        "url": "https://strix.ai/",
+        "source_code_url": "",
+        "created_at": "2026-03-05T16:55:52.446Z",
+        "rank": 16,
+        "total_tokens": 134551053268,
+        "total_requests": 951407,
+        "rank_day": 16,
+        "tokens_day": 134551053268,
+        "requests_day": 951407,
+        "share_day": 1.81,
+        "rank_week": 16,
+        "tokens_week": 844795092591,
+        "rank_month": 19,
+        "tokens_month": 2431291732227,
+        "rank_delta_week": 0,
+        "rank_delta_month": 3
+      },
+      {
+        "id": "4132065",
+        "slug": "",
+        "title": "Hello Minds, powered by Ethoswarm",
+        "description": "",
+        "categories": [
+          "roleplay",
+          "personal-agent",
+          "creative-writing"
+        ],
+        "url": "https://www.hellominds.ai/",
+        "source_code_url": "",
+        "created_at": "2026-06-18T14:24:30.601Z",
+        "rank": 19,
+        "total_tokens": 84378603360,
+        "total_requests": 942567,
+        "rank_day": 19,
+        "tokens_day": 84378603360,
+        "requests_day": 942567,
+        "share_day": 1.14,
+        "rank_week": 18,
+        "tokens_week": 598878798960,
+        "rank_month": 22,
+        "tokens_month": 1940298029372,
+        "rank_delta_week": -1,
+        "rank_delta_month": 3
+      },
+      {
+        "id": "4749832",
+        "slug": "",
+        "title": "Aura.agent2.level_design_agent",
+        "description": "",
+        "categories": [
+          "ide-extension",
+          "programming-app"
+        ],
+        "url": "https://geniusplugin.vercel.app/",
+        "source_code_url": "",
+        "created_at": "2026-08-18T22:08:01.426Z",
+        "rank": 20,
+        "total_tokens": 71578840806,
+        "total_requests": 634839,
+        "rank_day": 20,
+        "tokens_day": 71578840806,
+        "requests_day": 634839,
+        "share_day": 0.96,
+        "rank_week": null,
+        "tokens_week": null,
+        "rank_month": null,
+        "tokens_month": null
+      },
+      {
+        "id": "2699842",
+        "slug": "isekai-zero",
+        "title": "ISEKAI ZERO",
+        "description": "AI adventures. Travel with your favorite characters",
+        "categories": [
+          "game"
+        ],
+        "url": "https://www.isekai.world/",
+        "source_code_url": "",
+        "created_at": "2026-01-21T19:15:22.288Z",
+        "rank": 21,
+        "total_tokens": 70311200642,
+        "total_requests": 1190642,
+        "rank_day": 21,
+        "tokens_day": 70311200642,
+        "requests_day": 1190642,
+        "share_day": 0.95,
+        "rank_week": 19,
+        "tokens_week": 551090384191,
+        "rank_month": 20,
+        "tokens_month": 2169093329200,
+        "rank_delta_week": -2,
+        "rank_delta_month": -1
+      },
+      {
+        "id": "189563",
+        "slug": "openhands",
+        "title": "OpenHands",
+        "description": "AI coding agent that can run commands, browse the web, call APIs",
+        "categories": [
+          "cli-agent"
+        ],
+        "url": "https://docs.all-hands.dev/",
+        "source_code_url": "",
+        "created_at": "2024-09-24T08:02:50.387Z",
+        "rank": 22,
+        "total_tokens": 65718469469,
+        "total_requests": 739972,
+        "rank_day": 22,
+        "tokens_day": 65718469469,
+        "requests_day": 739972,
+        "share_day": 0.89,
+        "rank_week": 20,
+        "tokens_week": 501161035731,
+        "rank_month": 15,
+        "tokens_month": 3462909745039,
+        "rank_delta_week": -2,
+        "rank_delta_month": -7
+      },
+      {
+        "id": "4940645",
+        "slug": "",
+        "title": "Scammer Get Scammed",
+        "description": "",
+        "categories": [],
+        "url": "https://kolkata-workers.jataterworldwide.com/",
+        "source_code_url": "",
+        "created_at": "2026-09-07T00:38:04.292Z",
+        "rank": 23,
+        "total_tokens": 63030127401,
+        "total_requests": 19005147,
+        "rank_day": 23,
+        "tokens_day": 63030127401,
+        "requests_day": 19005147,
+        "share_day": 0.85,
+        "rank_week": 23,
+        "tokens_week": 413144434160,
+        "rank_month": null,
+        "tokens_month": null,
+        "rank_delta_week": 0
+      },
+      {
+        "id": "4580044",
+        "slug": "",
+        "title": "HighLevel",
+        "description": "",
+        "categories": [],
+        "url": "https://www.gohighlevel.com/",
+        "source_code_url": "",
+        "created_at": "2026-07-31T15:56:03.697Z",
+        "rank": 24,
+        "total_tokens": 62156265096,
+        "total_requests": 1134410,
+        "rank_day": 24,
+        "tokens_day": 62156265096,
+        "requests_day": 1134410,
+        "share_day": 0.84,
+        "rank_week": 22,
+        "tokens_week": 436397463774,
+        "rank_month": 25,
+        "tokens_month": 1714620575248,
+        "rank_delta_week": -2,
+        "rank_delta_month": 1
+      },
+      {
+        "id": "4780809",
+        "slug": "",
+        "title": "CodeGPT",
+        "description": "",
+        "categories": [
+          "ide-extension",
+          "cli-agent",
+          "cloud-agent"
+        ],
+        "url": "https://codegpt.co/",
+        "source_code_url": "",
+        "created_at": "2026-08-21T21:07:36.114Z",
+        "rank": 25,
+        "total_tokens": 51499514073,
+        "total_requests": 288170,
+        "rank_day": 25,
+        "tokens_day": 51499514073,
+        "requests_day": 288170,
+        "share_day": 0.69,
+        "rank_week": 26,
+        "tokens_week": 318879829184,
+        "rank_month": 26,
+        "tokens_month": 1266834457971,
+        "rank_delta_week": 1,
+        "rank_delta_month": 1
+      },
+      {
+        "id": "2637375",
+        "slug": "lemonade",
+        "title": "Lemonade",
+        "description": "The AI tool for Roblox games.",
+        "categories": [
+          "programming-app"
+        ],
+        "url": "https://lemonade.gg/",
+        "source_code_url": "",
+        "created_at": "2025-12-28T17:23:36.463Z",
+        "rank": 26,
+        "total_tokens": 50585911712,
+        "total_requests": 870403,
+        "rank_day": 26,
+        "tokens_day": 50585911712,
+        "requests_day": 870403,
+        "share_day": 0.68,
+        "rank_week": 24,
+        "tokens_week": 395763391814,
+        "rank_month": 24,
+        "tokens_month": 1802968014617,
+        "rank_delta_week": -2,
+        "rank_delta_month": -2
+      }
+    ],
+    "total_tokens_day": 7423636337714,
+    "note": "OpenRouter 应用调用量来自公开 rankings 页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。"
+  },
+  "producthunt": {
+    "fetched_at": "2026-10-20T07:20:55+00:00",
+    "url": "https://www.producthunt.com/feed?category=artificial-intelligence",
+    "items": [
+      {
+        "name": "Lugh Xtudio",
+        "title": "Lugh Xtudio",
+        "tagline": "The video studio where AI agents edit with you",
+        "url": "https://www.producthunt.com/products/lugh-xtudio",
+        "published": "2026-10-19T20:08:40-07:00",
+        "author": "Arthur Polimeni"
+      },
+      {
+        "name": "Intel® GPU D-series",
+        "title": "Intel® GPU D-series",
+        "tagline": "Memory-rich AI inference without HBM",
+        "url": "https://www.producthunt.com/products/intel",
+        "published": "2026-10-19T19:46:24-07:00",
+        "author": "Zac Zuo"
+      },
+      {
+        "name": "RunInfra",
+        "title": "RunInfra",
+        "tagline": "Open models, built for agents.",
+        "url": "https://www.producthunt.com/products/runinfra",
+        "published": "2026-10-19T16:12:51-07:00",
+        "author": "Jaber Jaber"
+      },
+      {
+        "name": "Stage",
+        "title": "Stage",
+        "tagline": "Review, fix and sign off working prototypes and products",
+        "url": "https://www.producthunt.com/products/stage-9",
+        "published": "2026-10-19T14:29:47-07:00",
+        "author": "Utkarsh raj"
+      },
+      {
+        "name": "Praex",
+        "title": "Praex",
+        "tagline": "The coding agent that runs on its own AI models",
+        "url": "https://www.producthunt.com/products/praex",
+        "published": "2026-10-19T14:26:11-07:00",
+        "author": "Davor Jerkovic"
+      },
+      {
+        "name": "Exa 3.0",
+        "title": "Exa 3.0",
+        "tagline": "Smarter search that gives AI agent richer data at lower cost",
+        "url": "https://www.producthunt.com/products/exa-ai",
+        "published": "2026-10-19T13:05:52-07:00",
+        "author": "Rohan Chaubey"
+      },
+      {
+        "name": "Harness²",
+        "title": "Harness²",
+        "tagline": "Harness the agent. Then harness its self-improvement.",
+        "url": "https://www.producthunt.com/products/harness-104",
+        "published": "2026-10-19T12:43:26-07:00",
+        "author": "Chris Messina"
+      },
+      {
+        "name": "call4me",
+        "title": "call4me",
+        "tagline": "Give your AI agent a phone that calls and answers",
+        "url": "https://www.producthunt.com/products/call4me",
+        "published": "2026-10-19T11:24:29-07:00",
+        "author": "Nick K"
+      },
+      {
+        "name": "Sorcerer",
+        "title": "Sorcerer",
+        "tagline": "Simulate an AI agent community reacting to \"what if\"",
+        "url": "https://www.producthunt.com/products/sorcerer",
+        "published": "2026-10-19T11:20:54-07:00",
+        "author": "Guilherme Brasil"
+      },
+      {
+        "name": "The New Beings",
+        "title": "The New Beings",
+        "tagline": "AI agents on their break, performing a live talk show",
+        "url": "https://www.producthunt.com/products/the-new-beings",
+        "published": "2026-10-19T11:03:58-07:00",
+        "author": "Yulia Sergeeva"
+      },
+      {
+        "name": "Kling 4.0",
+        "title": "Kling 4.0",
+        "tagline": "Fast and affordable AI video for high-frequency creators",
+        "url": "https://www.producthunt.com/products/kling-4-0-4",
+        "published": "2026-10-19T10:51:17-07:00",
+        "author": "Kate Ramakaieva"
+      },
+      {
+        "name": "Stella",
+        "title": "Stella",
+        "tagline": "Your emotional wellness AI. A friend to figure it out with.",
+        "url": "https://www.producthunt.com/products/stella-5",
+        "published": "2026-10-18T20:42:11-07:00",
+        "author": "Max Drut"
+      },
+      {
+        "name": "Rusteerio by Context.dev",
+        "title": "Rusteerio by Context.dev",
+        "tagline": "Keep your Cheerio code. Make it faster.",
+        "url": "https://www.producthunt.com/products/context-dev",
+        "published": "2026-10-18T18:42:06-07:00",
+        "author": "Ely"
+      },
+      {
+        "name": "Quello",
+        "title": "Quello",
+        "tagline": "One place to ask, across everything you already use.",
+        "url": "https://www.producthunt.com/products/quello",
+        "published": "2026-10-18T13:04:48-07:00",
+        "author": "Faiz Jamadar"
+      },
+      {
+        "name": "Beam.win",
+        "title": "Beam.win",
+        "tagline": "Run AI agents on one Mac and use its windows on another",
+        "url": "https://www.producthunt.com/products/beam-win",
+        "published": "2026-10-18T12:13:45-07:00",
+        "author": "Hiten Shah"
+      },
+      {
+        "name": "Own 1",
+        "title": "Own 1",
+        "tagline": "Own your data. Own your AI. A mind of your own.",
+        "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+        "published": "2026-10-18T01:46:56-07:00",
+        "author": "Ryan Taylor"
+      },
+      {
+        "name": "bonds",
+        "title": "bonds",
+        "tagline": "Every friends' chat gets an AI friend with superpowers",
+        "url": "https://www.producthunt.com/products/bonds-2",
+        "published": "2026-10-17T11:04:38-07:00",
+        "author": "Juandi Sanchez"
+      },
+      {
+        "name": "Tomo for ChatGPT",
+        "title": "Tomo for ChatGPT",
+        "tagline": "Ask anything. Then play it, Duolingo-style.",
+        "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+        "published": "2026-10-17T03:14:13-07:00",
+        "author": "Mohannad Ali"
+      },
+      {
+        "name": "Salience",
+        "title": "Salience",
+        "tagline": "See every request to your website and how it responds.",
+        "url": "https://www.producthunt.com/products/salience",
+        "published": "2026-10-16T20:46:40-07:00",
+        "author": "Carl Hendy"
+      },
+      {
+        "name": "GPU Terminal by Context.dev",
+        "title": "GPU Terminal by Context.dev",
+        "tagline": "Compare GPU rental prices across cloud providers",
+        "url": "https://www.producthunt.com/products/context-dev",
+        "published": "2026-10-16T18:32:08-07:00",
+        "author": "Ely"
+      },
+      {
+        "name": "MyLens",
+        "title": "MyLens",
+        "tagline": "1-1 Live Presentations at Scale with AI.",
+        "url": "https://www.producthunt.com/products/mylens-ai",
+        "published": "2026-10-16T14:46:17-07:00",
+        "author": "Ardalan Mirshani"
+      },
+      {
+        "name": "Wally by Willow",
+        "title": "Wally by Willow",
+        "tagline": "Your Scribe agent that learns how you write",
+        "url": "https://www.producthunt.com/products/willow-voice",
+        "published": "2026-10-16T14:44:53-07:00",
+        "author": "Sharath Kuruganty"
+      },
+      {
+        "name": "Step 5 Preview",
+        "title": "Step 5 Preview",
+        "tagline": "600B open weights, trained for long-running agents",
+        "url": "https://www.producthunt.com/products/step-3-5-flash",
+        "published": "2026-10-16T08:06:14-07:00",
+        "author": "Zac Zuo"
+      },
+      {
+        "name": "Framefields",
+        "title": "Framefields",
+        "tagline": "Open-source code-first video for AGI era",
+        "url": "https://www.producthunt.com/products/framefields",
+        "published": "2026-10-16T07:58:02-07:00",
+        "author": "Okan Aslankan"
+      },
+      {
+        "name": "3AM Super Intelligence",
+        "title": "3AM Super Intelligence",
+        "tagline": "Production incidents: investigated, proven, fixed",
+        "url": "https://www.producthunt.com/products/3am-super-intelligence",
+        "published": "2026-10-16T07:08:51-07:00",
+        "author": "Siddhesh Kulthe"
+      },
+      {
+        "name": "Tori",
+        "title": "Tori",
+        "tagline": "The smartest AI support agent for customer success",
+        "url": "https://www.producthunt.com/products/tori-3",
+        "published": "2026-10-16T05:24:54-07:00",
+        "author": "Joshua Schoenaker"
+      },
+      {
+        "name": "Emochi",
+        "title": "Emochi",
+        "tagline": "Voice journal to understand yourself through art and science",
+        "url": "https://www.producthunt.com/products/emochi-2",
+        "published": "2026-10-16T00:43:37-07:00",
+        "author": "Nick Zieber"
+      },
+      {
+        "name": "ToDo.is",
+        "title": "ToDo.is",
+        "tagline": "Write a to-do and your AI agent gets it done",
+        "url": "https://www.producthunt.com/products/todo-is",
+        "published": "2026-10-15T17:10:20-07:00",
+        "author": "Zac Zuo"
+      },
+      {
+        "name": "Krea 3",
+        "title": "Krea 3",
+        "tagline": "Krea's AI image model: 2K edits in under 8 seconds",
+        "url": "https://www.producthunt.com/products/krea",
+        "published": "2026-10-15T17:01:46-07:00",
+        "author": "Justin Jincaid"
+      },
+      {
+        "name": "Toad",
+        "title": "Toad",
+        "tagline": "Point your agent at any machine you own.",
+        "url": "https://www.producthunt.com/products/toad-4",
+        "published": "2026-10-15T09:36:36-07:00",
+        "author": "Dawson Dominguez"
+      },
+      {
+        "name": "Bee Frontier and Bee Eclipse",
+        "title": "Bee Frontier and Bee Eclipse",
+        "tagline": "Amazon's personal AI memory, now on your wrist or phone",
+        "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+        "published": "2026-10-15T08:11:11-07:00",
+        "author": "Justin Jincaid"
+      },
+      {
+        "name": "Craft Agents",
+        "title": "Craft Agents",
+        "tagline": "The world's most powerful agents, with the UX they deserve",
+        "url": "https://www.producthunt.com/products/craft-agents",
+        "published": "2026-10-14T21:48:37-07:00",
+        "author": "Gyula Halmos"
+      },
+      {
+        "name": "CrewTower Mod for Claude Code",
+        "title": "CrewTower Mod for Claude Code",
+        "tagline": "Talk to Claude Code right from your MacBook notch",
+        "url": "https://www.producthunt.com/products/crew-tower",
+        "published": "2026-10-14T14:15:16-07:00",
+        "author": "Said Altan"
+      },
+      {
+        "name": "buddylist",
+        "title": "buddylist",
+        "tagline": "Chat with your coding agents like it's 2005",
+        "url": "https://www.producthunt.com/products/buddylist-2",
+        "published": "2026-10-14T09:47:59-07:00",
+        "author": "Safa Elmali"
+      },
+      {
+        "name": "Notion: Context for your agents",
+        "title": "Notion: Context for your agents",
+        "tagline": "Switch AI agents without re-explaining your work",
+        "url": "https://www.producthunt.com/products/notion",
+        "published": "2026-10-14T00:00:19-07:00",
+        "author": "Kate Ramakaieva"
+      },
+      {
+        "name": "Train with Pasta",
+        "title": "Train with Pasta",
+        "tagline": "A personal trainer powered by Apple Intelligence",
+        "url": "https://www.producthunt.com/products/train-with-pasta",
+        "published": "2026-10-13T09:21:27-07:00",
+        "author": "Tim Shim"
+      },
+      {
+        "name": "readywhen",
+        "title": "readywhen",
+        "tagline": "The senior personal assistant that works inside WhatsApp",
+        "url": "https://www.producthunt.com/products/readywhen",
+        "published": "2026-10-13T02:05:46-07:00",
+        "author": "KP"
+      },
+      {
+        "name": "Openbroca",
+        "title": "Openbroca",
+        "tagline": "Lightweight AI dictation for Mac that sounds like you",
+        "url": "https://www.producthunt.com/products/openbroca",
+        "published": "2026-10-12T10:32:18-07:00",
+        "author": "Timothy Lau"
+      },
+      {
+        "name": "yggy",
+        "title": "yggy",
+        "tagline": "The AI knowledge graph that builds itself",
+        "url": "https://www.producthunt.com/products/yggy",
+        "published": "2026-10-12T07:56:55-07:00",
+        "author": "Dominik Müller"
+      },
+      {
+        "name": "Jotform App Builder for ChatGPT & Claude",
+        "title": "Jotform App Builder for ChatGPT & Claude",
+        "tagline": "Build and edit no-code apps inside ChatGPT & Claude",
+        "url": "https://www.producthunt.com/products/jotform",
+        "published": "2026-10-12T05:34:44-07:00",
+        "author": "Aytekin"
+      },
+      {
+        "name": "Kai Resolve by Gleap",
+        "title": "Kai Resolve by Gleap",
+        "tagline": "Support that does the digging for you.",
+        "url": "https://www.producthunt.com/products/gleap",
+        "published": "2026-10-12T02:37:41-07:00",
+        "author": "Thomas Schranz ⛄️"
+      },
+      {
+        "name": "CrawlForge MCP",
+        "title": "CrawlForge MCP",
+        "tagline": "Give your AI agent 31 web tools in one MCP server",
+        "url": "https://www.producthunt.com/products/crawlforge-mcp",
+        "published": "2026-10-11T16:38:09-07:00",
+        "author": "Simon Lacey"
+      },
+      {
+        "name": "Inbox Zero",
+        "title": "Inbox Zero",
+        "tagline": "Open-source Superhuman alternative",
+        "url": "https://www.producthunt.com/products/inbox-zero-2",
+        "published": "2026-10-10T09:45:36-07:00",
+        "author": "Ben Lang"
+      },
+      {
+        "name": "NitroStack",
+        "title": "NitroStack",
+        "tagline": "Build, test, and deploy MCP servers in one place",
+        "url": "https://www.producthunt.com/products/nitrostack",
+        "published": "2026-10-08T08:53:30-07:00",
+        "author": "Ben Lang"
+      },
+      {
+        "name": "Beam",
+        "title": "Beam",
+        "tagline": "Highly efficient agentic 501B parameter open model",
+        "url": "https://www.producthunt.com/products/beam-13",
+        "published": "2026-10-05T17:17:47-07:00",
+        "author": "Chris Messina"
+      },
+      {
+        "name": "Composio Instant",
+        "title": "Composio Instant",
+        "tagline": "The easiest way for AI agents to pay for their own tools",
+        "url": "https://www.producthunt.com/products/composio",
+        "published": "2026-09-30T07:02:39-07:00",
+        "author": "fmerian"
+      },
+      {
+        "name": "Popcraft",
+        "title": "Popcraft",
+        "tagline": "Generate video, images & audio from any AI agent",
+        "url": "https://www.producthunt.com/products/popcraft",
+        "published": "2026-09-29T01:31:33-07:00",
+        "author": "Eric"
+      },
+      {
+        "name": "Parrot",
+        "title": "Parrot",
+        "tagline": "Smart Meeting Assistant for Mac that helps during the call",
+        "url": "https://www.producthunt.com/products/parrot-10",
+        "published": "2026-09-24T11:02:58-07:00",
+        "author": "Uygar Turantekin"
+      },
+      {
+        "name": "Lancetta",
+        "title": "Lancetta",
+        "tagline": "Know when to push your coding agents, and when to ease off",
+        "url": "https://www.producthunt.com/products/lancetta",
+        "published": "2026-09-18T06:40:37-07:00",
+        "author": "Giovambattista Fazioli"
+      },
+      {
+        "name": "ESP-Mosaico",
+        "title": "ESP-Mosaico",
+        "tagline": "A modular development board built for agents",
+        "url": "https://www.producthunt.com/products/esp-mosaico",
+        "published": "2026-09-14T19:00:38-07:00",
+        "author": "Ethan Lin"
+      }
+    ],
+    "note": "Product Hunt 公共 Atom feed 只提供发布信息，不提供票数；按发布时间排序。"
+  },
+  "huggingface": {
+    "fetched_at": "2026-10-20T07:20:56+00:00",
+    "url": "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=24",
+    "items": [
+      {
+        "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "downloads": 17924,
+        "likes": 1760,
+        "trending_score": 1594,
+        "pipeline": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v41",
+          "text-generation",
+          "image-text-to-text",
+          "license:mit",
+          "endpoints_compatible",
+          "8-bit"
+        ],
+        "created_at": "2026-10-17T02:40:38.000Z"
+      },
+      {
+        "id": "black-forest-labs/flux-3-image-klein-comfy",
+        "name": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "downloads": 393062,
+        "likes": 1004,
+        "trending_score": 773,
+        "pipeline": "image-to-image",
+        "library": "diffusion-single-file",
+        "tags": [
+          "diffusion-single-file",
+          "comfyui",
+          "image-generation",
+          "image-editing",
+          "flux",
+          "flux-3",
+          "black-forest-labs",
+          "image-to-image"
+        ],
+        "created_at": "2026-10-14T12:00:13.000Z"
+      },
+      {
+        "id": "fishaudio/drama-3",
+        "name": "fishaudio/drama-3",
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "downloads": 11795,
+        "likes": 787,
+        "trending_score": 754,
+        "pipeline": "text-to-speech",
+        "library": null,
+        "tags": [
+          "safetensors",
+          "fish_omni",
+          "fish-audio",
+          "text-to-speech",
+          "multi-speaker",
+          "audio-editing",
+          "emotional-speech-generation",
+          "zh"
+        ],
+        "created_at": "2026-10-01T04:34:57.000Z"
+      },
+      {
+        "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "downloads": 76410,
+        "likes": 1072,
+        "trending_score": 693,
+        "pipeline": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "minicpmv4_7",
+          "image-text-to-text",
+          "minicpm-v",
+          "multimodal",
+          "On-Device Model",
+          "lightweight"
+        ],
+        "created_at": "2026-10-07T07:07:30.000Z"
+      },
+      {
+        "id": "google/embeddinggemma-2",
+        "name": "google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "downloads": 167750,
+        "likes": 2734,
+        "trending_score": 597,
+        "pipeline": "feature-extraction",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "embedding_gemma2",
+          "feature-extraction",
+          "embedding",
+          "sentence-transformers",
+          "multimodal-embedding",
+          "multimodal"
+        ],
+        "created_at": "2026-09-14T14:53:42.000Z"
+      },
+      {
+        "id": "jialinyyzz/humanizer",
+        "name": "jialinyyzz/humanizer",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "downloads": 109937,
+        "likes": 2001,
+        "trending_score": 577,
+        "pipeline": "text-generation",
+        "library": "gguf",
+        "tags": [
+          "gguf",
+          "safetensors",
+          "gemma4_unified",
+          "image-text-to-text",
+          "humanizer",
+          "transformers",
+          "text-rewriting",
+          "rewriting"
+        ],
+        "created_at": "2026-09-11T05:00:16.000Z"
+      },
+      {
+        "id": "meta-models/Muse-Spark-Open-816B-A42B",
+        "name": "meta-models/Muse-Spark-Open-816B-A42B",
+        "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+        "downloads": 2109,
+        "likes": 587,
+        "trending_score": 538,
+        "pipeline": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "muse_spark",
+          "image-text-to-text",
+          "facebook",
+          "meta",
+          "pytorch",
+          "muse"
+        ],
+        "created_at": "2026-09-15T19:23:19.000Z"
+      },
+      {
+        "id": "LiquidAI/LFM2.5-24B-A2B",
+        "name": "LiquidAI/LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+        "downloads": 14151,
+        "likes": 504,
+        "trending_score": 488,
+        "pipeline": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "lfm2_moe",
+          "text-generation",
+          "liquid",
+          "lfm2.5",
+          "edge",
+          "moe"
+        ],
+        "created_at": "2026-10-12T05:35:46.000Z"
+      },
+      {
+        "id": "black-forest-labs/flux-3-image-klein",
+        "name": "black-forest-labs/flux-3-image-klein",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+        "downloads": 62006,
+        "likes": 533,
+        "trending_score": 484,
+        "pipeline": "image-to-image",
+        "library": "diffusers",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "image-generation",
+          "image-editing",
+          "flux",
+          "flux-3",
+          "black-forest-labs",
+          "image-to-image"
+        ],
+        "created_at": "2026-10-13T10:58:40.000Z"
+      },
+      {
+        "id": "Lightricks/LTX-2.5",
+        "name": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "downloads": 2019834,
+        "likes": 8516,
+        "trending_score": 438,
+        "pipeline": "image-to-video",
+        "library": "diffusion-single-file",
+        "tags": [
+          "diffusion-single-file",
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video",
+          "audio-to-video",
+          "text-to-audio",
+          "video-to-audio"
+        ],
+        "created_at": "2026-07-23T07:55:24.000Z"
+      },
+      {
+        "id": "OpenMOSS-Team/MOSS-Image-SFT",
+        "name": "OpenMOSS-Team/MOSS-Image-SFT",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+        "downloads": 3336,
+        "likes": 448,
+        "trending_score": 425,
+        "pipeline": "text-to-image",
+        "library": "diffusers",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "moss-image",
+          "text-to-image",
+          "en",
+          "zh",
+          "arxiv:2610.23374",
+          "base_model:OpenMOSS-Team/MOSS-Image-Base"
+        ],
+        "created_at": "2026-10-11T07:01:17.000Z"
+      },
+      {
+        "id": "OpenMOSS-Team/MOSS-Image-Base",
+        "name": "OpenMOSS-Team/MOSS-Image-Base",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+        "downloads": 2774,
+        "likes": 394,
+        "trending_score": 375,
+        "pipeline": "text-to-image",
+        "library": "diffusers",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "moss-image",
+          "text-to-image",
+          "en",
+          "zh",
+          "arxiv:2610.23374",
+          "license:apache-2.0"
+        ],
+        "created_at": "2026-10-11T06:49:17.000Z"
+      },
+      {
+        "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "name": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "downloads": 2739572,
+        "likes": 4656,
+        "trending_score": 371,
+        "pipeline": "text-to-image",
+        "library": "gguf",
+        "tags": [
+          "gguf",
+          "qwen",
+          "image-generation",
+          "comfyui",
+          "comfyui-gguf",
+          "mlx",
+          "fp8",
+          "nvfp4"
+        ],
+        "created_at": "2026-09-20T15:51:13.000Z"
+      },
+      {
+        "id": "Qwen/Qwen3.8-27B",
+        "name": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "downloads": 7458401,
+        "likes": 18024,
+        "trending_score": 288,
+        "pipeline": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational",
+          "license:apache-2.0",
+          "eval-results",
+          "endpoints_compatible"
+        ],
+        "created_at": "2026-08-05T08:22:59.000Z"
+      },
+      {
+        "id": "baidu/Unlimited-OCR",
+        "name": "baidu/Unlimited-OCR",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "downloads": 1799825,
+        "likes": 4827,
+        "trending_score": 251,
+        "pipeline": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "unlimited_ocr",
+          "feature-extraction",
+          "baidu",
+          "vision-language",
+          "ocr",
+          "custom_code"
+        ],
+        "created_at": "2026-06-19T09:40:33.000Z"
+      },
+      {
+        "id": "datalab-to/indra-ocr",
+        "name": "datalab-to/indra-ocr",
+        "url": "https://huggingface.co/datalab-to/indra-ocr",
+        "downloads": 2433,
+        "likes": 250,
+        "trending_score": 246,
+        "pipeline": "image-to-text",
+        "library": "onnx",
+        "tags": [
+          "onnx",
+          "safetensors",
+          "indra-ocr",
+          "ocr",
+          "cpu",
+          "pdf",
+          "markdown",
+          "layout"
+        ],
+        "created_at": "2026-10-10T14:12:33.000Z"
+      },
+      {
+        "id": "Comfy-Org/MOSS-Image",
+        "name": "Comfy-Org/MOSS-Image",
+        "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+        "downloads": 673110,
+        "likes": 250,
+        "trending_score": 244,
+        "pipeline": null,
+        "library": "diffusion-single-file",
+        "tags": [
+          "diffusion-single-file",
+          "comfyui",
+          "base_model:OpenMOSS-Team/MOSS-Image-Base",
+          "base_model:finetune:OpenMOSS-Team/MOSS-Image-Base",
+          "license:apache-2.0",
+          "region:us"
+        ],
+        "created_at": "2026-10-16T12:42:32.000Z"
+      },
+      {
+        "id": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+        "name": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+        "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
+        "downloads": 6047,
+        "likes": 242,
+        "trending_score": 238,
+        "pipeline": "image-text-to-text",
+        "library": "Model Optimizer",
+        "tags": [
+          "Model Optimizer",
+          "safetensors",
+          "qwen4_exp",
+          "nvidia",
+          "ModelOpt",
+          "Qwen3.8",
+          "quantized",
+          "FP4"
+        ],
+        "created_at": "2026-10-08T16:20:17.000Z"
+      },
+      {
+        "id": "Qwen/Qwen-Image-2.1-Turbo",
+        "name": "Qwen/Qwen-Image-2.1-Turbo",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "downloads": 25033,
+        "likes": 1001,
+        "trending_score": 235,
+        "pipeline": "text-to-image",
+        "library": "diffusers",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "qwen",
+          "image-generation",
+          "image-editing",
+          "text-to-image",
+          "base_model:Qwen/Qwen-Image-2.1",
+          "base_model:finetune:Qwen/Qwen-Image-2.1"
+        ],
+        "created_at": "2026-10-09T04:50:01.000Z"
+      },
+      {
+        "id": "tencent/Hy-Memory-30B-A3B",
+        "name": "tencent/Hy-Memory-30B-A3B",
+        "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
+        "downloads": 1571,
+        "likes": 223,
+        "trending_score": 220,
+        "pipeline": "text-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "hy_v3",
+          "text-generation",
+          "conversational",
+          "en",
+          "zh",
+          "arxiv:2610.22196"
+        ],
+        "created_at": "2026-10-15T09:52:00.000Z"
+      },
+      {
+        "id": "facebook/sam3",
+        "name": "facebook/sam3",
+        "url": "https://huggingface.co/facebook/sam3",
+        "downloads": 1902371,
+        "likes": 4712,
+        "trending_score": 213,
+        "pipeline": "mask-generation",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "sam3_video",
+          "feature-extraction",
+          "sam3",
+          "mask-generation",
+          "en",
+          "license:other"
+        ],
+        "created_at": "2025-11-07T05:17:48.000Z"
+      },
+      {
+        "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
+        "name": "LiquidAI/LFM2.5-24B-A2B-GGUF",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF",
+        "downloads": 120509,
+        "likes": 217,
+        "trending_score": 211,
+        "pipeline": "text-generation",
+        "library": "gguf",
+        "tags": [
+          "gguf",
+          "liquid",
+          "lfm2.5",
+          "llama.cpp",
+          "text-generation",
+          "en",
+          "ar",
+          "zh"
+        ],
+        "created_at": "2026-10-09T18:03:23.000Z"
+      },
+      {
+        "id": "mistralai/Timestral-209M",
+        "name": "mistralai/Timestral-209M",
+        "url": "https://huggingface.co/mistralai/Timestral-209M",
+        "downloads": 2601,
+        "likes": 205,
+        "trending_score": 197,
+        "pipeline": "time-series-forecasting",
+        "library": "timestral",
+        "tags": [
+          "timestral",
+          "safetensors",
+          "time-series",
+          "forecasting",
+          "foundation-model",
+          "time-series-forecasting",
+          "license:other",
+          "model-index"
+        ],
+        "created_at": "2026-10-14T08:52:36.000Z"
+      },
+      {
+        "id": "openbmb/MiniCPM-V-4.7-1B",
+        "name": "openbmb/MiniCPM-V-4.7-1B",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
+        "downloads": 33388,
+        "likes": 394,
+        "trending_score": 188,
+        "pipeline": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "minicpmv4_7",
+          "image-text-to-text",
+          "minicpm-v",
+          "multimodal",
+          "On-Device Model",
+          "lightweight"
+        ],
+        "created_at": "2026-10-06T17:40:13.000Z"
+      }
+    ],
+    "note": "Hugging Face trendingScore 为平台热度信号，不等于商业收入。"
+  },
+  "lean": {
+    "fetched_at": "2026-10-20T07:20:59+00:00",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1vMlwTJ8_Lty161T73uwnMzVxb48XzHxz9aPNla5OgCjd2yJ0HMfxEHGSv1OsyGOarWUYDcsJZfmk/pub?gid=0&single=true&output=csv",
+    "via": "google",
+    "count": 70,
+    "note": "Lean AI 官方公开表格；营收/人数为快照口径。"
+  },
+  "lean_extra": {
+    "opu": {
+      "fetched_at": "2026-10-20T07:21:00+00:00",
+      "url": "https://www.onepersonunicorn.co/",
+      "items": [
+        {
+          "rank": 1,
+          "name": "HeadshotPro",
+          "url": "https://www.producthunt.com/company/headshotpro",
+          "category": "AI Tools",
+          "arr": "$3.6M",
+          "team": "1",
+          "rpe": "$3.6M/person",
+          "founded": "2023",
+          "profitable": "unknown",
+          "tools": "Cursor, Claude"
+        },
+        {
+          "rank": 2,
+          "name": "Photo AI",
+          "url": "https://www.producthunt.com/company/photo-ai",
+          "category": "AI Tools",
+          "arr": "$1.6M",
+          "team": "1",
+          "rpe": "$1.6M/person",
+          "founded": "2023",
+          "profitable": "yes",
+          "tools": "Replicate"
+        },
+        {
+          "rank": 3,
+          "name": "Polsia",
+          "url": "https://www.producthunt.com/company/polsia",
+          "category": "AI Tools",
+          "arr": "$1M",
+          "team": "1",
+          "rpe": "$1M/person",
+          "founded": "2025",
+          "profitable": "unknown",
+          "tools": "Claude, Claude Agent SDK"
+        },
+        {
+          "rank": 4,
+          "name": "PDF.ai",
+          "url": "https://www.producthunt.com/company/pdf-ai",
+          "category": "AI Tools",
+          "arr": "$592k",
+          "team": "1",
+          "rpe": "$592k/person",
+          "founded": "2023",
+          "profitable": "unknown",
+          "tools": ""
+        },
+        {
+          "rank": 5,
+          "name": "Swan",
+          "url": "https://www.producthunt.com/company/swan",
+          "category": "SaaS",
+          "arr": "$1M",
+          "team": "3",
+          "rpe": "$333k/person",
+          "founded": "2025",
+          "profitable": "unknown",
+          "tools": ""
+        },
+        {
+          "rank": 6,
+          "name": "TypingMind",
+          "url": "https://www.producthunt.com/company/typingmind",
+          "category": "AI Tools",
+          "arr": "$817k",
+          "team": "3",
+          "rpe": "$272k/person",
+          "founded": "2023",
+          "profitable": "unknown",
+          "tools": ""
+        },
+        {
+          "rank": 7,
+          "name": "KNOWIDEA",
+          "url": "https://www.producthunt.com/company/knowidea",
+          "category": "SaaS",
+          "arr": "$500k",
+          "team": "3",
+          "rpe": "$167k/person",
+          "founded": "2025",
+          "profitable": "unknown",
+          "tools": "LangChain, LangGraph"
+        },
+        {
+          "rank": 8,
+          "name": "Eloquent AI",
+          "url": "https://www.producthunt.com/company/eloquent-ai",
+          "category": "AI Tools",
+          "arr": "$500k",
+          "team": "5",
+          "rpe": "$100k/person",
+          "founded": "2025",
+          "profitable": "unknown",
+          "tools": ""
+        },
+        {
+          "rank": 9,
+          "name": "Sonscape",
+          "url": "https://www.producthunt.com/company/sonscape",
+          "category": "AI Tools",
+          "arr": "Undisclosed",
+          "team": "—",
+          "rpe": "—",
+          "founded": "—",
+          "profitable": "unknown",
+          "tools": "Claude"
+        }
+      ],
+      "note": "One Person Unicorn：团队 ≤10 人，ARR 主要为自报/创始人提交，非全部独立核实。"
+    },
+    "vv": {
+      "fetched_at": "2026-10-20T07:21:01+00:00",
+      "url": "https://www.verticalvelocity.co/",
+      "items": [
+        {
+          "rank": 1,
+          "name": "OpenEvidence",
+          "url": "https://www.verticalvelocity.co/company/openevidence",
+          "sector": "Healthcare",
+          "arr_per_employee": "$2.4M",
+          "arr": "$300M"
+        },
+        {
+          "rank": 2,
+          "name": "Palantir",
+          "url": "https://www.verticalvelocity.co/company/palantir",
+          "sector": "Defense",
+          "arr_per_employee": "$1.7M",
+          "arr": "$7.7B"
+        },
+        {
+          "rank": 3,
+          "name": "ElevenLabs",
+          "url": "https://www.verticalvelocity.co/company/elevenlabs",
+          "sector": "Other",
+          "arr_per_employee": "$679K",
+          "arr": "$500M"
+        },
+        {
+          "rank": 4,
+          "name": "Ramp",
+          "url": "https://www.verticalvelocity.co/company/ramp",
+          "sector": "Finance",
+          "arr_per_employee": "$555K",
+          "arr": "$1.0B"
+        },
+        {
+          "rank": 5,
+          "name": "Rilla",
+          "url": "https://www.verticalvelocity.co/company/rilla",
+          "sector": "Home Services",
+          "arr_per_employee": "$530K",
+          "arr": "$70M"
+        },
+        {
+          "rank": 6,
+          "name": "Siro",
+          "url": "https://www.verticalvelocity.co/company/siro",
+          "sector": "Home Services",
+          "arr_per_employee": "$426K",
+          "arr": "$20M"
+        },
+        {
+          "rank": 7,
+          "name": "EliseAI",
+          "url": "https://www.verticalvelocity.co/company/eliseai",
+          "sector": "Real Estate",
+          "arr_per_employee": "$408K",
+          "arr": "$200M"
+        },
+        {
+          "rank": 8,
+          "name": "Jasper",
+          "url": "https://www.verticalvelocity.co/company/jasper",
+          "sector": "Other",
+          "arr_per_employee": "$400K",
+          "arr": "$80M"
+        },
+        {
+          "rank": 9,
+          "name": "Comulate",
+          "url": "https://www.verticalvelocity.co/company/comulate",
+          "sector": "Insurance",
+          "arr_per_employee": "$400K",
+          "arr": "$20M"
+        },
+        {
+          "rank": 10,
+          "name": "Hebbia",
+          "url": "https://www.verticalvelocity.co/company/hebbia",
+          "sector": "Finance",
+          "arr_per_employee": "$376K",
+          "arr": "$50M"
+        },
+        {
+          "rank": 11,
+          "name": "Toast",
+          "url": "https://www.verticalvelocity.co/company/toast",
+          "sector": "Other",
+          "arr_per_employee": "$371K",
+          "arr": "$2.4B"
+        },
+        {
+          "rank": 12,
+          "name": "Clio",
+          "url": "https://www.verticalvelocity.co/company/clio",
+          "sector": "Legal",
+          "arr_per_employee": "$362K",
+          "arr": "$500M"
+        },
+        {
+          "rank": 13,
+          "name": "Procore",
+          "url": "https://www.verticalvelocity.co/company/procore",
+          "sector": "Construction",
+          "arr_per_employee": "$357K",
+          "arr": "$1.5B"
+        },
+        {
+          "rank": 14,
+          "name": "ServiceTitan",
+          "url": "https://www.verticalvelocity.co/company/servicetitan",
+          "sector": "Home Services",
+          "arr_per_employee": "$353K",
+          "arr": "$1.1B"
+        },
+        {
+          "rank": 15,
+          "name": "Shield AI",
+          "url": "https://www.verticalvelocity.co/company/shield-ai",
+          "sector": "Defense",
+          "arr_per_employee": "$338K",
+          "arr": "$540M"
+        },
+        {
+          "rank": 16,
+          "name": "Harvey",
+          "url": "https://www.verticalvelocity.co/company/harvey",
+          "sector": "Legal",
+          "arr_per_employee": "$313K",
+          "arr": "$300M"
+        },
+        {
+          "rank": 17,
+          "name": "People.ai",
+          "url": "https://www.verticalvelocity.co/company/people-ai",
+          "sector": "Sales",
+          "arr_per_employee": "$312K",
+          "arr": "$63M"
+        },
+        {
+          "rank": 18,
+          "name": "Cohere",
+          "url": "https://www.verticalvelocity.co/company/cohere",
+          "sector": "Enterprise",
+          "arr_per_employee": "$310K",
+          "arr": "$240M"
+        },
+        {
+          "rank": 19,
+          "name": "Glean",
+          "url": "https://www.verticalvelocity.co/company/glean",
+          "sector": "Enterprise",
+          "arr_per_employee": "$300K",
+          "arr": "$300M"
+        },
+        {
+          "rank": 20,
+          "name": "Deepgram",
+          "url": "https://www.verticalvelocity.co/company/deepgram",
+          "sector": "Enterprise",
+          "arr_per_employee": "$291K",
+          "arr": "$100M"
+        }
+      ],
+      "note": "Vertical Velocity：垂直 AI 公司人均 ARR 排名，页面更新不定期。"
+    }
+  }
+}

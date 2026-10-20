@@ -1,0 +1,168 @@
+{
+  "companies": [
+    {
+      "name": "Fish Audio",
+      "value": "为创作者与企业提供可精细控制、可克隆的 AI 语音，替代昂贵配音与机械 TTS。",
+      "model": "开发者、创作者与企业混合模式：开源模型引流，个人按月订阅赠送生成分钟数与克隆功能，企业走 API 按量计费；靠 GitHub 社区和用户提交的语音库自增长获客。",
+      "moat": "真壁垒是 3.1 万星的 Fish Speech 开源生态与 1.5 万条自然语言控制标签，形成语音库与调参数据飞轮；但底座模型易被追赶，未经授权的语音克隆争议使信任成为薄弱环节。",
+      "progress": "2026 年 7 月完成 5200 万美元种子轮，Coreline 与 Capital Today 领投；ARR 达 2100 万美元、用户超 800 万。此前有创作者指控声音被擅自上传，公司称下架流程已自动化。",
+      "confidence": "high",
+      "sources": [
+        "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+      ]
+    },
+    {
+      "name": "Tolan (Portola)",
+      "value": "给年轻女性一个会记事的卡通外星人 AI 伙伴，用于情绪疏导与日常琐事倾诉。",
+      "model": "纯 C 端订阅：iOS 内周付 4.99 美元、月付 10 美元、年付约 70 美元，先用性格匹配建立关系再引导付费；增长几乎全靠 TikTok 与用户自传播，2025 年下半年才推免费版扩大漏斗。",
+      "moat": "角色 IP 与陪伴体验构成情感切换成本，关系越久越难迁移；但底层依赖第三方大模型，产品形态易被复制，真壁垒是内容运营与品牌而非技术，且未成年人使用带来监管风险。",
+      "progress": "2025 年 7 月完成 2000 万美元 A 轮，Khosla 领投，此前种子轮 1000 万美元；当时下载超 300 万。2026 年 7 月月活约 120 万，核心人群转为 35–45 岁职场妈妈。",
+      "confidence": "high",
+      "sources": [
+        "https://www.atpartners.co.jp/news/2025-07-14-portola-the-company-behind-the-colorful-animated-ai-companion-tolan-raises-20m-in-series-a",
+        "https://www.businessinsider.com/tolan-ai-companion-popular-moms-parenting-2026-7"
+      ]
+    },
+    {
+      "name": "Wafer",
+      "value": "用 AI 代理自动调优推理栈，让开源模型在 AMD 等非英伟达芯片上跑得更快更便宜。",
+      "model": "B2B 基础设施：提供专属部署与 OpenAI 兼容的无服务器 API，按 token 或算力用量计费；客户是 Vercel、DigitalOcean、Inworld 等推理密集型企业，靠 YC 网络与性能口碑获客。",
+      "moat": "壁垒是跨模型、引擎、内核与硬件的自动搜索闭环，跑得越久数据越多、调优越准；但本质仍是性能工程，英伟达生态与云厂商自研会压缩窗口，团队仅 8 人，交付半径有限。",
+      "progress": "2026 年 9 月完成 4000 万美元 A 轮，Marathon 与 Chemistry 联合领投，AMD Ventures 参投，投后估值 2.2 亿美元；创办三个月 ARR 即达 800 万美元。",
+      "confidence": "high",
+      "sources": [
+        "https://www.wafer.ai/ai-info",
+        "https://dealroom.co/news/148174-wafer-raises-40m-series-a-to-automate-ai-inference-optimisation/",
+        "https://en.theblockbeats.news/flash/365090"
+      ]
+    },
+    {
+      "name": "Viktor",
+      "value": "把 AI 同事放进 Slack 与 Teams，替团队跨系统执行任务、写报告、存组织记忆。",
+      "model": "B2B 订阅，按席位约 50 美元/月、实际每账户月均约 400 美元；客户是中型企业的运营、销售与客服团队，通过 Slack 与 Teams 应用市场及渠道进入，再靠用量扩张。",
+      "moat": "嵌入企业即时通讯后，组织记忆与跨系统权限形成高切换成本，这是真护城河；但毛利率仅约三成，说明推理与交付成本高，微软与 Slack 原生 Agent 随时可能吞掉这一层。",
+      "progress": "2026 年 6 月完成 7500 万美元 A 轮，Accel 领投，投后估值约 4.5 亿美元；付费客户约 2900 家。5 月 ARR 约 1500 万美元，9 月自称年化 5000 万美元。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.chaincatcher.com/zh-tw/article/2266086",
+        "https://getlatka.com/companies/viktor"
+      ]
+    },
+    {
+      "name": "AKOOL",
+      "value": "让营销团队用换脸、数字人与视频翻译，几分钟做出多语言本地化广告片。",
+      "model": "B2B 与 B2C 混合：面向中小营销团队和创作者卖订阅套餐，按生成时长与席位收费，另有 API 与企业定制；增长主要靠 SEO 与 Facebook 群组等低成本自然流量，客单价低但用户基数大。",
+      "moat": "壁垒主要是 2 万家中小客户的分发能力与极低获客成本，而非模型；视频生成赛道被 Runway、可灵等产品挤压，换脸还面临肖像权与平台合规风险，护城河偏薄。",
+      "progress": "2026 年 6 月年化收入约 3600 万美元，较 2024 年 1200 万、2025 年 2500 万持续增长；团队约 60 人、客户约 2 万。2024 年融资时估值约 1 亿美元，此后无新融资披露。",
+      "confidence": "medium",
+      "sources": [
+        "https://getlatka.com/companies/akool.com"
+      ]
+    },
+    {
+      "name": "Clipto",
+      "value": "在本地索引海量视频、音频与文档，用自然语言或 AI 助手秒搜到想要的片段。",
+      "model": "C 端订阅为主、团队版为辅：免费额度引流，付费解锁更大索引与高级搜索，另有企业授权；靠本地处理、隐私不上云的差异点与创作者口碑传播，已实现净利为正。",
+      "moat": "端侧索引与跨格式检索是真实工程壁垒，用户媒体库越大越难迁移；但苹果、谷歌、Adobe 正把同类搜索做成系统功能，独立产品须靠 MCP 生态与多格式深度守住阵地。",
+      "progress": "2026 年 8 月完成 1500 万美元全股权融资，投后估值 2.5 亿美元，HSG、GL Ventures 参投；2026 年初 ARR 达 1500 万美元且净利为正，累计用户超 3000 万，团队仅 20 余人。",
+      "confidence": "high",
+      "sources": [
+        "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+      ]
+    },
+    {
+      "name": "GPTZero",
+      "value": "帮教师与机构判断文本是否由 AI 生成，并核查论文中的虚构引用。",
+      "model": "B2B2C 订阅：教师个人版与学校学区机构授权，按席位年费收费，另有 API 与写作过程回放等增值功能；靠教育界口碑与免费检测引流，2024 年起即实现盈利。",
+      "moat": "自研检测模型与多年积累的误判校准数据是核心，品牌在教育场景几乎等于品类代名词；但检测本质是概率判断，误判诉讼与监管压力长期存在，并入 Superhuman 后独立性被削弱。",
+      "progress": "2026 年 6 月宣布被 Superhuman 收购，9 月底交割，PitchBook 估值逾 8800 万美元；ARR 约 3000 万美元、用户超 1900 万，约 30 人并入其真实性产品线。",
+      "confidence": "high",
+      "sources": [
+        "https://betakit.com/superhuman-formerly-grammarly-acquires-ai-detector-gptzero/",
+        "https://blog.superhuman.com/superhuman-acquires-gptzero/"
+      ]
+    },
+    {
+      "name": "Praktika.ai",
+      "value": "用会动画、有记忆的 AI 外教，让用户以真人外教几十分之一的成本练口语。",
+      "model": "C 端订阅：年费约 498 元、季费 168 元，一周免费试用，主打比真人外教便宜 50 倍；靠 TikTok 等社媒投放与低价年包获客，另有企业培训版本，全球用户已超 500 万。",
+      "moat": "壁垒是较早的拟人化 Avatar 与游戏化课程，以及 500 万用户的口语数据；但底层模型来自外部，竞品功能高度同质化，形象还被指与知名 IP 相似，长期护城河取决于课程体系。",
+      "progress": "2026 年 2 月发布 Praktika 4.0，全面改版并推出生成式动画外教 Skye、Tama 与多智能体学习计划；收入约 2000 万美元量级，2024 年 5 月 3550 万美元 A 轮后无新融资。",
+      "confidence": "medium",
+      "sources": [
+        "https://voice.newrank.cn/study/detail/FB28F651B90AB484",
+        "https://praktika.ai/blog/praktika-4-0/"
+      ]
+    },
+    {
+      "name": "Turbo AI",
+      "value": "把课堂录音、PDF 与长视频变成笔记、抽认卡和测验，帮学生用更少时间备考。",
+      "model": "C 端订阅，学生约 20 美元/月，也向律师、咨询等职场人卖同款；几乎不投付费广告，靠 TikTok 病毒内容与校园口碑增长，团队 15 人、始终现金流为正，仅融资 75 万美元。",
+      "moat": "壁垒是学生心智中的第一提及与极强短视频增长机器，而非模型；笔记类产品切换成本低，Otter、Granola、YouLearn 都在夹击，能否沉淀长期学习档案是关键。",
+      "progress": "2025 年 10 月用户达 500 万，较半年前翻五倍；截至 2026 年 10 月累计收入超过 1300 万美元，2025 年 3 月月收入已近 50 万美元。公司仍未大规模融资，靠自有现金流扩张。",
+      "confidence": "high",
+      "sources": [
+        "https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/",
+        "https://m.economictimes.com/world/business/turbo-ai-founders-rudy-arora-sarthak-dhawan-13-million-revenue/amp_articleshow/134936251.cms"
+      ]
+    },
+    {
+      "name": "Blacksmith",
+      "value": "为 AI 时代暴涨的代码量提供更快的 CI 验证，并用 AI 代理自动修复失败的检查。",
+      "model": "B2B 按用量收费：按 CI 构建分钟与并发计费，Codesmith 修复代理另行订阅；客户从初创公司扩到 Mercury、Supabase 等 5000 多家，靠 GitHub 集成与开发者口碑做 PLG 获客。",
+      "moat": "自建云与调度带来成本、速度优势，叠加修复代理积累的失败样本，形成越用越快的飞轮；但 GitHub Actions、Cursor 与各大云厂商都在补齐验证能力，价格战将压缩利润。",
+      "progress": "2026 年 8 月完成 4500 万美元 B 轮，Peak XV 领投，估值 5.5 亿美元，较不到一年前 A 轮的 6000 万美元涨约十倍；客户超 5000 家，团队约 30 人，累计融资 5850 万美元。",
+      "confidence": "high",
+      "sources": [
+        "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+      ]
+    },
+    {
+      "name": "Humyn Labs",
+      "value": "为机器人公司采集第一视角、多传感器的人类活动数据，让物理 AI 有真实世界可学。",
+      "model": "B2B 数据服务：按项目或数据小时向顶级实验室交付训练集，单笔可从数十万美元做到上千万美元；靠全球南方采集网络压低成本，目前仅 15–18 家客户，收入即用于再投资采集能力。",
+      "moat": "20 多国的采集网络、四路传感器同步与可溯源标注构成真实供给壁垒，数据多样性难以速成；但标注门槛不高，客户自建团队或 Scale AI 等巨头下沉都会侵蚀议价权，收入高度集中。",
+      "progress": "2026 年 4 月宣布投入 2000 万美元，将语音数据扩至 33 种语言并新建机器人实验室，资金全部来自自有收入、未接受机构融资；公司称目标 2026 年底达到 1 亿美元 ARR，该目标相当激进。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.livemint.com/companies/ai-training-data-firm-humyn-commits-20-mn-to-expand-operations-eyes-100-mn-arr-by-2026end-11776063431258.html",
+        "https://humynlabs.ai/"
+      ]
+    },
+    {
+      "name": "Creati",
+      "value": "让电商与投放团队用一条商品链接，批量生成可投放的 UGC 风格短视频广告。",
+      "model": "B2B 与 B2C 订阅：按生成条数与席位数收费，面向中小电商、效果投放团队与创作者；靠爆款模板与低价走量获客，从图片广告扩展到视频，2026 年推出 Buzzy 编辑工具。",
+      "moat": "壁垒是模板库、投放数据反馈与极低使用门槛，属于工作流粘性而非模型壁垒；视频生成模型快速商品化，剪映、Canva、Arcads 同场竞争，价格与素材合规是长期压力。",
+      "progress": "2026 年 4 月 30 日完成 2000 万美元融资，Redpoint 领投，并发布对话式视频编辑产品 Buzzy，自称 AI 版视频 Photoshop；榜单快照（2025 年 7 月）收入 1300 万美元。",
+      "confidence": "medium",
+      "sources": [
+        "https://parsers.vc/startup/creati.studio/",
+        "https://getlatka.com/companies/creati.studio"
+      ]
+    },
+    {
+      "name": "Sela",
+      "value": "替抵押贷款机构用 AI 语音代理外呼潜在借款人，把更多线索转化成锁定的贷款。",
+      "model": "B2B 企业订阅加效果导向：为每家贷款机构定制并持续优化语音代理，按转化与放款结果而非通话分钟计价；客户含美国十大独立抵押贷款银行中的六家，经 A/B 测试验证增量后扩张。",
+      "moat": "数千万通房贷通话与数百次 A/B 测试沉淀的转化模型是真壁垒，且深度嵌入放款流程、切换成本高；但语音技术本身在商品化，监管对 AI 外呼与贷款营销的要求是主要变量。",
+      "progress": "2026 年 9 月宣布累计完成 2100 万美元种子轮与 A 轮，Costanoa 领投；18 个月年化收入破 1000 万美元，每月经手 1500 万通电话、促成逾 10 亿美元房贷，团队 17 人。",
+      "confidence": "high",
+      "sources": [
+        "https://pulse2.com/selas-ai-agents-help-originate-1-billion-in-loans-per-month/",
+        "https://www.trysignalbase.com/news/funding/sela-raises-21m-series-a"
+      ]
+    },
+    {
+      "name": "Latitude",
+      "value": "让玩家用一句话生成可长期演进的 AI 角色扮演世界，而不必受预设剧情限制。",
+      "model": "C 端免费加订阅：AI Dungeon 以免费额度获客、月订阅解锁更强模型与更长记忆，Voyage 面向创作者提供世界搭建与分成；靠社区模组与 UGC 传播，团队仅十余人。",
+      "moat": "真壁垒是五年迭代的 World Engine——用确定性规则约束大模型幻觉、维持数千回合的世界状态；但模型成本高、AI 叙事仍不稳定，且面临大厂游戏与通用聊天机器人的替代。",
+      "progress": "2026 年 4 月 23 日推出 AI 原生 RPG 平台 Voyage，主打没有剧本的玩家自建世界，官方称是五年研发、六代引擎的成果；AI Dungeon 已积累数百万玩家与数万创作者，收入约 700 万美元量级。",
+      "confidence": "medium",
+      "sources": [
+        "https://gamesbeat.com/latitude-launches-ai-game-voyage/"
+      ]
+    }
+  ]
+}

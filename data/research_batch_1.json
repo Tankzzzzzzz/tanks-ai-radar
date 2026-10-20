@@ -1,0 +1,166 @@
+{
+  "companies": [
+    {
+      "name": "Medvi",
+      "value": "用十几个 AI 工具替极小团队跑通 GLP-1 减肥药的远程问诊与履约，把获客成本压到极低",
+      "model": "面向美国自费减重人群，销售复合GLP-1减肥药与男性健康订阅，按月收费，靠联盟营销买量；问诊、处方与药房履约外包给OpenLoop等平台，公司只保留品牌、投放与客服，2025年营收4.01亿美元。",
+      "moat": "几乎没有护城河：药品与履约都是外包，流量靠联盟与 AI 批量素材，合规风险却由自己承担。真正的优势只是创始人选品与买量的经验，可复制、可被平台封禁，也会随监管收紧而迅速消失。",
+      "progress": "2026年4月NYT称其为AI时代一人公司样本，随后曝出FDA警告信、AI生成假医生广告与三起诉讼；公司4月8日声明整改，NYT亦修改报道并加编者注。榜单18亿美元是2026年目标而非实际营收。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.mrjjxw.com/articles/2026-04-11/4335094.html",
+        "https://www.tmtpost.com/7944415.html"
+      ]
+    },
+    {
+      "name": "Telegram",
+      "value": "十亿级用户的隐私通讯工具，用数十人团队支撑全球分发，靠 Premium 与广告变现",
+      "model": "面向全球C端免费提供聊天与频道，靠Premium订阅（逾1500万付费）、频道广告、Stars虚拟商品与TON生态抽成变现；2024年营收超10亿美元、净利5.47亿，2025上半年营收8.7亿，团队仅数十人。",
+      "moat": "十亿 MAU 的网络效应与隐私品牌是真实壁垒，迁移成本高；但变现效率远低于 Meta，收入与资产高度绑定 Toncoin，代币波动直接冲击利润，俄罗斯、伊朗等市场被封也压制增长上限。",
+      "progress": "2026年3月Forbes以Snap为参照下调估值，Durov身家从171亿跌至66亿美元；3月需偿付11亿美元债券，此前发行17亿美元9%新债，年营收预计约20亿美元，短期IPO可能性低。",
+      "confidence": "high",
+      "sources": [
+        "https://voxbooster.com/blog/telegram-statistics-2026/"
+      ]
+    },
+    {
+      "name": "Midjourney",
+      "value": "以极小团队做出审美领先的图像与视频生成模型，服务设计师与内容创作者订阅",
+      "model": "面向创作者与设计团队的B2C订阅，按GPU时长分档收费（约10至120美元/月），几乎不做销售，靠Discord社区与口碑扩散；无外部融资，上线六个月即盈利，2025年ARR约5亿美元。",
+      "moat": "自研模型与独特审美调性形成品牌偏好，社区与工作流沉淀带来切换成本；但自建算力是重资本投入，图像与视频能力正被 Google、OpenAI、字节以生态捆绑追赶，护城河更多是品味而非技术代差。",
+      "progress": "2026 年 4 月 15 日发布 V8.1，支持 2K、速度提升 3 倍、成本降至三分之一；迪士尼、环球与华纳的版权诉讼进入证据开示阶段，法院 7 月仅批准有限取证。团队已从榜单的 40 人扩至百人以上。",
+      "confidence": "high",
+      "sources": [
+        "https://theagenttimes.com/articles/midjourney-drops-v8-1-model-during-weekly-office-hours-reinf-e266d976",
+        "https://www.shumaker.com/insight/ai-copyright-showdown-can-hollywood-challenge-ai-while-using-it/"
+      ]
+    },
+    {
+      "name": "Polsia",
+      "value": "让不懂技术的人输入一个想法，由 AI 代理团队自动建站、投放、获客并运营公司",
+      "model": "面向个体创业者与小商家的订阅加分成：49美元/月租用AI员工团队，平台代投Meta广告抽20%广告费，再从用户营收中抽20%；上线五个月约7600名客户，靠创始人公开演示与话题营销获客。",
+      "moat": "壁垒主要是编排层与投放数据，但技术容易被复制，现金流实际来自广告代理返点，本质是买量套利；留存取决于用户能否真的赚钱，一旦效果不佳流失极快，平台声誉也与单人创始人高度绑定。",
+      "progress": "2026年上半年完成3000万美元融资、估值2.5亿美元，投资方含Sound Ventures；创始人称ARR近1000万美元。外界质疑其收入多来自订阅与广告费而非真实分成，单人架构也难支撑合规与客服。",
+      "confidence": "medium",
+      "sources": [
+        "https://eu.36kr.com/en/p/3825813697565316",
+        "https://hr.bloombergadria.com/tehnologija/ai/106767/jedan-zaposleni-250-milijuna-dolara-i-problem-koji-tek-dolazi/news"
+      ]
+    },
+    {
+      "name": "SurgeAI",
+      "value": "为前沿实验室提供高质量人类专家数据与评测，把数据质量做成可测量的工程",
+      "model": "B2B向OpenAI、Anthropic、谷歌、Meta、微软等实验室交付SFT、RLHF、评分标准与评测数据，按项目收费；零外部融资、首年即盈利，2024年营收破10亿美元，员工不足百人，靠口碑而非销售扩张。",
+      "moat": "Surge Force 专家网络与数千行为信号构成的质量控制系统是真壁垒：数据质量难以复制，头部实验室的信任与长期合同形成切换成本；但 Mercor、AfterQuery 正以更低价格抢单，专家池也被持续挖角。",
+      "progress": "2025年底Edwin Chen确认年营收超10亿美元、团队不足百人且从未融资；2026年公司仍极少披露，同时面临Mercor、AfterQuery等新玩家以RL环境和专家市场正面竞争，份额承压。",
+      "confidence": "high",
+      "sources": [
+        "https://www.c114.net.cn/industry/43527.html"
+      ]
+    },
+    {
+      "name": "Pocket",
+      "value": "贴在手机背面的卡片式录音器，一键把线下对话变成结构化笔记与待办",
+      "model": "B2C硬件加订阅：设备129美元起，基础版免费、高级版16.59美元/月起；靠短视频病毒传播与转介绍增长，多数来自DTC，DoorDash等企业客户开始批量采购，8个月做到1亿美元run rate。",
+      "moat": "硬件加线下场景是差异化：手机系统覆盖不了面对面录音，实体按键降低摩擦；但硬件易被抄袭，Zoom、Meet、Granola 从软件侧挤压，苹果与 OpenAI 的新设备是最大威胁，护城河取决于品牌与留存。",
+      "progress": "2026年6月获Accel与YC1100万美元，当时出货3.5万台、年化营收2700万美元；8月称run rate达1亿美元、出货超20万台、团队12人，月增约50%，同时面临录音伦理争议。",
+      "confidence": "high",
+      "sources": [
+        "https://africa.businessinsider.com/news/pockets-popular-ai-notetaker-launched-8-months-ago-revenue-is-soaring-but-can-it-last/vrb2xsk",
+        "https://techfundingnews.com/pocket-11m-accel-ai-hardware-27m-arr/"
+      ]
+    },
+    {
+      "name": "Intelligence (Design Arena)",
+      "value": "用众包 A/B 盲测收集人类审美偏好，为模型厂商提供评测与后训练数据",
+      "model": "B2B数据与评测服务：C端免费开放Design Arena盲测（网站、图像、界面），积累530万用户偏好；向模型实验室与企业出售评测报告、偏好数据集与定制反馈，按合同收费，靠排行榜与开发者口碑获客。",
+      "moat": "真实用户跨地区、跨品类的偏好数据有时效与规模壁垒，排行榜本身带来流量飞轮；但 LM Arena、Yupp 等同类竞争激烈，用户可多平台投票，数据可替代性高，护城河取决于能否锁定头部实验室长约。",
+      "progress": "2026年8月完成790万美元种子轮，Index Ventures领投；公司称Design Arena已有530万用户、企业客户贡献6000万美元ARR，并强调自动基准易被刷分、人类评测更稀缺。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.techjuice.pk/design-arena-creator-intelligence-raises-7-9-million-to-expand-ai-feedback-platfor/"
+      ]
+    },
+    {
+      "name": "Morph",
+      "value": "让 AI 改代码从整文件重写变成毫秒级精准补丁，为编码 Agent 提供推理层",
+      "model": "面向编码Agent团队按量计费的API：合并编辑、代码搜索、上下文压缩，另售预留算力与模型路由；2026年转型托管Kimi、GLM等开源模型，日处理超5000亿token，靠开源社区与Agent开发者口碑增长。",
+      "moat": "速度与准确率的工程积累是真壁垒：万级 tok/s 的补丁模型需要自研内核与训练数据，切换成本嵌在 Agent 流水线里；但底层模型来自中国开源权重，价格战激烈，单点优化容易被前沿实验室内置功能吞掉。",
+      "progress": "2026年8月ARR达600万美元，创始人称月增50%，仍以一人公司运作；产品从合并编辑扩展为完整推理栈，成为OpenRouter前25供应商，服务400多个生产级Agent，客户含币安。",
+      "confidence": "medium",
+      "sources": [
+        "https://www.arr.club/morph",
+        "https://www.morphllm.com/",
+        "https://www.altis.vc/research/company/morph"
+      ]
+    },
+    {
+      "name": "Anysphere (Cursor)",
+      "value": "把前沿模型封装成懂整个代码库的编辑器，让工程师用自然语言完成大规模改动",
+      "model": "面向开发者与企业的订阅制IDE：个人20美元/月起，企业按席位与用量收费，三千多家客户年付超10万美元；自研Composer模型压低推理成本，靠产品驱动增长，2026年5月ARR达30亿美元。",
+      "moat": "代码库索引、Agent 工作流与 500 万开发者的使用数据形成飞轮，企业采购与合规能力抬高切换成本；但底层模型依赖 Anthropic、OpenAI 等同样做编码产品的供应商，自研模型尚不足以完全替代。",
+      "progress": "2026年1月完成23亿美元D轮、估值293亿美元；3月发布Composer 2，5月ARR达30亿；6月16日与SpaceX签署600亿美元全股票合并协议，将成其全资子公司。",
+      "confidence": "high",
+      "sources": [
+        "https://www.hustlefund.vc/post/angel-squad-cursor-anysphere-pre-ipo-shares-what-accredited-investors-should-know-in-2026",
+        "https://www.heise.de/en/news/SpaceX-acquires-AI-coding-tool-Cursor-for-60-billion-11334594.html",
+        "https://www.ice.it/it/news/notizie-dal-mondo/303807"
+      ]
+    },
+    {
+      "name": "Proximal",
+      "value": "用真实代码库构建长周期 RL 环境与验证器，教前沿模型像工程师一样改代码",
+      "model": "B2B向头部实验室、neolab与编码Agent公司交付长周期RL环境、后训练数据与评测，按项目和算力合同收费；以研究工程化替代人工标注，2026年9月结束隐身时年化营收已超2亿美元。",
+      "moat": "合成代码库生成、模糊验证器与反 reward hacking 的工程能力是真壁垒，任务难度与验证质量直接决定模型提升幅度；但 Scale、Surge、Mercor 都在转向同类，实验室自建数据团队也会压缩外部采购。",
+      "progress": "2026年9月29日结束隐身，获General Catalyst领投1500万美元种子轮、估值3亿美元，称成立约十个月年化营收超2亿美元；此前发布开源FrontierSWE基准，团队11至50人。",
+      "confidence": "high",
+      "sources": [
+        "https://www.ai-market-watch.com/company/proximal"
+      ]
+    },
+    {
+      "name": "HireCade",
+      "value": "把招聘筛选与 AI 数据标注合并：用免费 ATS 获客，再卖人工数据团队",
+      "model": "面向中小企业免费提供ATS、简历筛选（0.1美元一份）与AI视频面试（5美元一场），再向AI实验室转售标注员、RLHF评测与领域专家，按人天计费；用免费招聘工具低成本获客并交叉销售数据服务。",
+      "moat": "护城河薄弱：ATS 与视频面试高度同质化，标注市场由 Scale、Surge、Mercor 主导；唯一差异是把招聘流量转化为标注劳动力，但专家质量与交付稳定性难以证明，客户极易比价更换。",
+      "progress": "公开信息有限，2026年未见融资或营收披露；官网显示业务已从招聘扩展到RLHF、模型评测与计算机视觉标注，榜单2200万美元营收与5人团队来自创始人私下验证，无法独立核实。",
+      "confidence": "low",
+      "sources": [
+        "https://www.hirecade.com/"
+      ]
+    },
+    {
+      "name": "OpenArt",
+      "value": "让普通人用聊天完成角色一致的故事视频，把 AI 创作变成可连载的内容生产",
+      "model": "B2C订阅为主：网页与App提供图像、视频生成、角色一致性与One Story分镜，按月收取credits费用；靠模板与社区作品病毒传播，8人做到3000万美元ARR，20人做到7000万美元，人均营收约350万。",
+      "moat": "角色一致性与叙事工作流是产品层差异，社区作品与模板形成内容飞轮；但底层依赖第三方视频模型，Google、字节、Runway 随时可覆盖同功能，护城河更多来自增长效率与审美运营，而非技术独占。",
+      "progress": "2026年1月宣布Canaan领投的3000万美元A轮，当时MAU超800万、ARR7000万美元、团队20人；此后推出对话式导演与One Story功能，并称在动漫榜单排名第一。",
+      "confidence": "high",
+      "sources": [
+        "https://www.basisset.com/insights/openarts-series-a-and-the-acceleration-of-infrastructure-first-consumer"
+      ]
+    },
+    {
+      "name": "Base44",
+      "value": "用一句话生成带数据库、认证与支付的全栈应用，让非工程师直接上线产品",
+      "model": "面向非技术创业者与中小企业按月订阅（约20至50美元），提供自然语言全栈应用生成与托管；2025年被Wix收购后借助其两亿用户渠道与广告预算放量，收入随订阅与用量增长，ARR于2026年3月破亿。",
+      "moat": "真护城河是 Wix 的分发与支付、托管基础设施，而非生成能力本身；Lovable、Bolt、Replit 同场竞争且模型能力趋同，用户切换成本低，Wix 的巨额买量能否转化为留存是最大问号。",
+      "progress": "2025年6月Wix以约9200万美元收购；2026年5月因达成销售目标再付3800万美元股票，ARR3月破亿、5月中接近1.5亿，但Wix一季度因买量成本股价大跌31%。",
+      "confidence": "high",
+      "sources": [
+        "https://en.globes.co.il/en/article-wix-pays-38m-earnout-payments-for-base44-1001542919"
+      ]
+    },
+    {
+      "name": "AfterQuery",
+      "value": "组织医生、律师等专家把真实工作任务化，训练模型学会像专业人士交付成果",
+      "model": "B2B向Nvidia、Legora、Motif等实验室与企业出售专家任务数据、RL环境与后训练服务，按项目收费；以编码专家决策过程而非答题正确率为卖点，2026年4月年化营收达1亿美元。",
+      "moat": "专家招募与任务设计流程有先发积累，但本质仍是人力密集的服务业，Scale、Surge、Mercor 都在同一池子里抢专家；估值半年涨十倍更多反映数据稀缺的窗口期，而非已经稳固的壁垒。",
+      "progress": "2026 年 4 月宣布 3000 万美元 A 轮、估值 3 亿美元并称年化营收 1 亿美元；9 月再融资，估值升至 32 亿美元，成为 YC 史上最快独角兽（W25 批次，创始团队 22 至 23 岁）。",
+      "confidence": "high",
+      "sources": [
+        "https://uk.finance.yahoo.com/news/afterquery-reportedly-becomes-y-combinator-220824430.html"
+      ]
+    }
+  ]
+}

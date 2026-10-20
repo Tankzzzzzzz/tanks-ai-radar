@@ -1,0 +1,172 @@
+{
+  "companies": [
+    {
+      "name": "Medvi",
+      "website": "https://medvi.org",
+      "github": "",
+      "verified": true,
+      "notes": "跳转 home.medvi.org，标题 MEDVi - Personalized Telehealth Care，含减重/护肤/男性健康订阅；medvi.com 为停放域名、trymedvi.com 已挂起，勿用。"
+    },
+    {
+      "name": "Telegram",
+      "website": "https://telegram.org",
+      "github": "https://github.com/telegramdesktop",
+      "verified": true,
+      "notes": "标题 Telegram Messenger，官方主站；官方开源桌面客户端仓库为 Telegram Desktop。"
+    },
+    {
+      "name": "Midjourney",
+      "website": "https://www.midjourney.com",
+      "github": "",
+      "verified": true,
+      "notes": "官网被 Cloudflare 拦截 curl（403 Just a moment），经文本代理抓取确认为 Midjourney 官方站，含 About/Projects 介绍；无官方 GitHub 组织。"
+    },
+    {
+      "name": "Polsia",
+      "website": "https://polsia.com",
+      "github": "",
+      "verified": true,
+      "notes": "标题 Polsia — AI That Runs Your Company While You Sleep，与“AI Operator”定位一致。"
+    },
+    {
+      "name": "SurgeAI",
+      "website": "https://surgehq.ai",
+      "github": "",
+      "verified": true,
+      "notes": "Surge AI 官方站（Human Intelligence for AGI），域名不是 surgeai.com；无公开官方 GitHub。"
+    },
+    {
+      "name": "Pocket",
+      "website": "https://heypocket.com",
+      "github": "",
+      "verified": true,
+      "notes": "Open Vision Engineering 旗下 Pocket 官方站，标题 Pocket - Take Notes In The Real World；公司新闻稿明确指向 heypocket.com（偶发 429 限流）。"
+    },
+    {
+      "name": "Intelligence (Design Arena)",
+      "website": "https://designarena.ai",
+      "github": "",
+      "verified": true,
+      "notes": "Design Arena 官方站（DesignArena 众包设计/模型评测榜），跳转 www.designarena.ai；公司主体 Intelligence 无独立站点。"
+    },
+    {
+      "name": "Morph",
+      "website": "https://morphllm.com",
+      "github": "https://github.com/morphllm",
+      "verified": true,
+      "notes": "AI 编码模型公司 Morph 官方站（fast apply / agent 推理），站点 Footer 直链 github.com/morphllm；不是 morph.so 等同名站。"
+    },
+    {
+      "name": "Anysphere (Cursor)",
+      "website": "https://cursor.com",
+      "github": "https://github.com/getcursor",
+      "verified": true,
+      "notes": "Cursor 官方站（Anysphere 产品），官方 GitHub 组织 getcursor。"
+    },
+    {
+      "name": "Proximal",
+      "website": "https://proximal.ai",
+      "github": "",
+      "verified": true,
+      "notes": "标题 Proximal，自述为 coding data 研究实验室，与“AI Coding Data & RL Environments”一致。"
+    },
+    {
+      "name": "HireCade",
+      "website": "https://www.hirecade.com",
+      "github": "",
+      "verified": true,
+      "notes": "官网含 Data Annotators & Human Data 板块，为 AI 训练雇佣数据标注人员，与“AI Training Data”相符。"
+    },
+    {
+      "name": "OpenArt",
+      "website": "https://openart.ai",
+      "github": "https://github.com/openart-ai",
+      "verified": true,
+      "notes": "AI 图像/视频生成平台官网；GitHub 组织 openart-ai 主页回链 openart.ai，为官方仓库。"
+    },
+    {
+      "name": "Base44",
+      "website": "https://base44.com",
+      "github": "",
+      "verified": true,
+      "notes": "标题 Turn an Idea Into a Working App or Website with AI | Base44，无代码 AI 建站产品。"
+    },
+    {
+      "name": "AfterQuery",
+      "website": "https://www.afterquery.com",
+      "github": "",
+      "verified": true,
+      "notes": "标题 Expert Data for Frontier AI，与“AI Training Data & RL Environments”一致。"
+    },
+    {
+      "name": "micro1",
+      "website": "https://www.micro1.ai",
+      "github": "",
+      "verified": true,
+      "notes": "官方站自述 data lab to train frontier models & evaluate agents；micro1.com 非官方，勿用。"
+    },
+    {
+      "name": "Cal AI",
+      "website": "https://calai.app",
+      "github": "",
+      "verified": true,
+      "notes": "AI 热量追踪 App 官方下载页（Cal AI | Download Today）；calai.com 非其官网。"
+    },
+    {
+      "name": "RB2B",
+      "website": "https://rb2b.com",
+      "github": "",
+      "verified": true,
+      "notes": "标题 RB2B: Website Visitor Identification Software，含免费版，与“网站访客识别”一致。"
+    },
+    {
+      "name": "Turbopuffer",
+      "website": "https://turbopuffer.com",
+      "github": "https://github.com/turbopuffer",
+      "verified": true,
+      "notes": "标题 turbopuffer - fast search engine built on object storage（向量+全文检索），官方 GitHub 组织同名。"
+    },
+    {
+      "name": "Mercor",
+      "website": "https://mercor.com",
+      "github": "",
+      "verified": true,
+      "notes": "跳转 www.mercor.com，标题 Mercor | Organizing human intelligence to power the AI economy，与人才市场+数据标注一致。"
+    },
+    {
+      "name": "Chai Research",
+      "website": "https://chai-research.com",
+      "github": "",
+      "verified": true,
+      "notes": "标题 CHAI | AI Characters & Stories，为 Chai 角色对话平台公司站；未找到明确官方 GitHub 组织，留空。"
+    },
+    {
+      "name": "Poetic",
+      "website": "https://poetic.com",
+      "github": "",
+      "verified": true,
+      "notes": "标题 Poetic — Turn your business into software，企业流程自动化 AI，与描述一致。"
+    },
+    {
+      "name": "Fal.ai",
+      "website": "https://fal.ai",
+      "github": "https://github.com/fal-ai",
+      "verified": true,
+      "notes": "生成式媒体推理平台官网，官方 GitHub 组织 fal-ai（75 个仓库，含 fal 客户端与模型示例）。"
+    },
+    {
+      "name": "Eleven Labs",
+      "website": "https://elevenlabs.io",
+      "github": "https://github.com/elevenlabs",
+      "verified": true,
+      "notes": "ElevenLabs 官方站（.io 而非 .ai），官方 GitHub 组织 elevenlabs。"
+    },
+    {
+      "name": "Stackblitz (Bolt.new)",
+      "website": "https://stackblitz.com",
+      "github": "https://github.com/stackblitz",
+      "verified": true,
+      "notes": "StackBlitz 官网，Bolt 产品另有 bolt.new 独立站；官方 GitHub 组织 stackblitz。"
+    }
+  ]
+}

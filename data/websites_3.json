@@ -1,0 +1,158 @@
+{
+  "companies": [
+    {
+      "name": "GPTZero",
+      "website": "https://gptzero.me/",
+      "github": "",
+      "verified": true,
+      "notes": "首页标题为 \"AI Detector - Free AI Checker for ChatGPT, GPT-6 & Gemini\"，与 AI 检测业务一致；GitHub 仅有 fork 和薄客户端，不算官方开源项目。"
+    },
+    {
+      "name": "Praktika.ai",
+      "website": "https://praktika.ai/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Praktika - Learn and speak new languages with AI tutors\"，与 AI 虚拟人语言学习业务吻合。"
+    },
+    {
+      "name": "Turbo AI",
+      "website": "https://www.turbo.ai/",
+      "github": "",
+      "verified": true,
+      "notes": "由 turbolearn.ai 301 跳转至此，标题 \"Turbo AI - Fastest Way to Learn\"，页面称 1000 万学生用于笔记/闪卡，与 AI 笔记学习助手一致。"
+    },
+    {
+      "name": "Blacksmith",
+      "website": "https://www.blacksmith.sh/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"The Fastest Way to Run GitHub Actions | Blacksmith\"，与 AI 原生 CI/CD 业务一致；github.com/blacksmith-sh 组织存在但 0 个公开仓库，故不填。"
+    },
+    {
+      "name": "Humyn Labs",
+      "website": "https://humynlabs.ai/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Humyn Labs | AI Training Data for Robotics & Physical AI\"，与物理 AI 人类数据基础设施业务吻合。"
+    },
+    {
+      "name": "Creati",
+      "website": "https://www.creati.studio/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Creati Studio: Generate Viral Video Ads in Minutes | Creati AI\"；据 The SaaS News 报道，Creati Gen AI Inc.（旧金山）官方站点即 creati.studio（creati.ai 被 Cloudflare 拦截 403）。"
+    },
+    {
+      "name": "Sela",
+      "website": "https://www.sela.io/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Sela AI — The Market Leader AI Voice Agent for Mortgage Lenders\"；PR Newswire 稿件明确官网为 sela.io（trysela.com 同站）。"
+    },
+    {
+      "name": "Latitude",
+      "website": "https://latitude.io/",
+      "github": "",
+      "verified": true,
+      "notes": "SPA 页面静态标题仅为 \"Latitude\"，但其 JS 资源内含 aidungeon.com、r/Voyage、\"Latitude's World Engine Brings Voyage to Life\" 等，确认为 AI Dungeon / Voyage 开发商 Latitude Games。"
+    },
+    {
+      "name": "SubMagic",
+      "website": "https://www.submagic.co/",
+      "github": "",
+      "verified": true,
+      "notes": "页面内容标题 \"Submagic - Edit shorts 10x faster with AI\"，与 AI 短视频剪辑业务一致（<title> 标签是构建占位符 share_2_fill）。"
+    },
+    {
+      "name": "Jobright",
+      "website": "https://jobright.ai/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Jobright: Your AI Job Search Copilot\"，与 AI 求职业务吻合。"
+    },
+    {
+      "name": "GrowthX",
+      "website": "https://growthx.ai/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"GrowthX: Organic Growth Platform for SEO and AI Visibility\"，与 AI 驱动增长业务一致。"
+    },
+    {
+      "name": "Chatbase",
+      "website": "https://www.chatbase.co/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Chatbase\"，描述为 AI customer experience platform / AI agents 处理客服工单，与 AI 客服业务吻合。"
+    },
+    {
+      "name": "Jenni.ai",
+      "website": "https://jenni.ai/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Jenni | AI Academic Writer & Research Tool for Students & Academics\"，与 AI 写作业务一致。"
+    },
+    {
+      "name": "Hedra",
+      "website": "https://www.hedra.com/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Hedra — Visual Inference Models and Infrastructure\"，描述生成/感知视觉世界，与 AI 角色视频生成业务吻合。"
+    },
+    {
+      "name": "Conversion",
+      "website": "https://conversion.ai/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Conversion | AI-Native B2B Marketing Automation Platform\"，页面结构化数据 Organization name=Conversion、url=conversion.ai，与 AI 营销业务一致（/careers 为 CSV 来源链接）。"
+    },
+    {
+      "name": "Pump.co",
+      "website": "https://www.pump.co/",
+      "github": "",
+      "verified": true,
+      "notes": "标题 \"Pump - The Intelligent Cloud Platform\"，描述为监控与优化云支出，与 AI 云成本优化业务一致。"
+    },
+    {
+      "name": "FyxerAI",
+      "website": "https://www.fyxer.com/",
+      "github": "",
+      "verified": true,
+      "notes": "fyxer.ai 跳转至 www.fyxer.com，标题 \"Fyxer | Get ahead of your inbox\"，与 AI 高管邮箱助理业务一致。"
+    },
+    {
+      "name": "Vapi",
+      "website": "https://vapi.ai/",
+      "github": "https://github.com/VapiAI",
+      "verified": true,
+      "notes": "标题 \"Vapi - Build Advanced Voice AI Agents\"；GitHub 组织 VapiAI 有 66 个仓库，描述 \"Voice AI for developers\"，官网指向 vapi.ai。"
+    },
+    {
+      "name": "Recall.ai",
+      "website": "https://www.recall.ai/",
+      "github": "https://github.com/recallai",
+      "verified": true,
+      "notes": "标题 \"Recall.ai - The API for Meeting Recording\"；GitHub 组织 recallai 有 53 个仓库，博客字段指向 recall.ai，为官方组织。"
+    },
+    {
+      "name": "Haven",
+      "website": "https://www.usehaven.com/",
+      "github": "",
+      "verified": true,
+      "notes": "页面结构化数据 Organization name=Haven、url=www.usehaven.com，描述会计/税务/R&D 抵免/账单支付，与 AI 会计财务业务一致（<title> 为 Framer 构建占位）。"
+    },
+    {
+      "name": "Icon",
+      "website": "https://icon.com/",
+      "github": "",
+      "verified": true,
+      "notes": "首页自称 \"The Agency | Icon\"，含 Admaker、广告形式库、Kennan Jenner 出镜、\"$30M+ raised. Founders Fund, OpenAI...\"，与 AI 广告制作业务一致。"
+    },
+    {
+      "name": "Gumloop",
+      "website": "https://www.gumloop.com/",
+      "github": "https://github.com/gumloop",
+      "verified": true,
+      "notes": "标题 \"Gumloop: Build AI agents for work\"；GitHub 组织 gumloop（11 个仓库，博客字段 gumloop.com）为官方组织。"
+    }
+  ]
+}
