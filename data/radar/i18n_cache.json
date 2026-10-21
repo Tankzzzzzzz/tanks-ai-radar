@@ -70,5 +70,15 @@
   "Generate video, images & audio from any AI agent": "从任何 AI 智能体生成视频、图像和音频",
   "Smart Meeting Assistant for Mac that helps during the call": "适用于 Mac 的智能会议助手可在通话过程中提供帮助",
   "Know when to push your coding agents, and when to ease off": "知道何时推动你的编程智能体，何时放松",
-  "A modular development board built for agents": "专为智能体打造的模块化开发板"
+  "A modular development board built for agents": "专为智能体打造的模块化开发板",
+  "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings": "用于多阶段安全审计的编程智能体技能，具有独立验证的机器可读结果",
+  "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.": "让你的AI 智能体像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。",
+  "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.": "将任何代码库及其文档、SQL 架构、配置和 PDF 转换为可查询的知识图。适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边均已解释，无向量存储。",
+  "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.": "触手可及的完整AI机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个智能体都是一位具有个性、流程和经过验证的可交付成果的专业专家。",
+  "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库",
+  "A high-throughput and memory-efficient inference and serving engine for LLMs": "适用于 LLM 的高吞吐量和内存高效推理和服务引擎",
+  "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi": "适用于 Claude Code、Codex、Cursor、OpenCode、GitHub Copilot、Google Antigravity 和 Pi 的多利用智能体插件市场",
+  "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.": "AAS Core 是本地智能体优先的控制平面，用于完整的目录发现、智能体拥有的选择、堆栈验证和规划，并由 2,600 多种智能体技能提供支持。包括 CLI、本地 MCP、目录、插件和工作台。",
+  "ZCode combines the best AI agents with your existing tools so you can plan, code, review, and deploy without friction.": "ZCode 将最好的 AI 智能体与您现有的工具相结合，以便您可以轻松地进行规划、编码、审查和部署。",
+  "The most customizable humanoid robot you can buy": "您可以购买的最可定制的人形机器人"
 }
