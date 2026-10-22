@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T02:24:32+00:00",
+  "generated_at": "2026-10-22T02:42:53+00:00",
   "github": {
-    "fetched_at": "2026-10-22T02:24:34+00:00",
+    "fetched_at": "2026-10-22T02:42:53+00:00",
     "url": "https://github.com/trending?since=daily",
     "items": [
       {
@@ -10,8 +10,8 @@
         "url": "https://github.com/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "stars_today": 2079,
-        "stars": 171786,
-        "forks": 9348,
+        "stars": 171811,
+        "forks": 9351,
         "language": "JavaScript",
         "source": "trending",
         "trending_rank": 5,
@@ -24,8 +24,8 @@
         "url": "https://github.com/cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "stars_today": 2012,
-        "stars": 36677,
-        "forks": 2292,
+        "stars": 36727,
+        "forks": 2294,
         "language": "JavaScript",
         "source": "trending",
         "trending_rank": 1,
@@ -38,7 +38,7 @@
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "stars_today": 1541,
-        "stars": 101411,
+        "stars": 101447,
         "forks": 6414,
         "language": "TypeScript",
         "source": "trending",
@@ -52,11 +52,11 @@
         "url": "https://github.com/Graphify-Labs/graphify",
         "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "stars_today": 1433,
-        "stars": 131743,
+        "stars": 131760,
         "forks": 12647,
         "language": "Python",
         "source": "trending",
-        "trending_rank": 11,
+        "trending_rank": 12,
         "rank": 4,
         "description_zh": "将任何代码库及其文档、SQL 架构、配置和 PDF 转换为可查询的知识图。适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边均已解释，无向量存储。"
       },
@@ -66,7 +66,7 @@
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
         "stars_today": 939,
-        "stars": 141577,
+        "stars": 141585,
         "forks": 16732,
         "language": "Python",
         "source": "trending",
@@ -80,8 +80,8 @@
         "url": "https://github.com/shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "stars_today": 575,
-        "stars": 42868,
-        "forks": 7073,
+        "stars": 42876,
+        "forks": 7074,
         "language": "Python",
         "source": "trending",
         "trending_rank": 9,
@@ -94,7 +94,7 @@
         "url": "https://github.com/supabase/supabase",
         "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
         "stars_today": 504,
-        "stars": 113049,
+        "stars": 113059,
         "forks": 16946,
         "language": "TypeScript",
         "source": "trending",
@@ -108,7 +108,7 @@
         "url": "https://github.com/headroomlabs-ai/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
         "stars_today": 474,
-        "stars": 77298,
+        "stars": 77305,
         "forks": 5999,
         "language": "Python",
         "source": "trending",
@@ -122,8 +122,8 @@
         "url": "https://github.com/vllm-project/vllm",
         "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "stars_today": 441,
-        "stars": 94913,
-        "forks": 23753,
+        "stars": 94920,
+        "forks": 23755,
         "language": "Python",
         "source": "trending",
         "trending_rank": 2,
@@ -136,11 +136,11 @@
         "url": "https://github.com/akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "stars_today": 286,
-        "stars": 12379,
+        "stars": 12389,
         "forks": 874,
         "language": "Rust",
         "source": "trending",
-        "trending_rank": 10,
+        "trending_rank": 11,
         "rank": 10,
         "description_zh": "用于智能体编码 CLI 的长期记忆解决方案，并促进不同智能体供应商之间的切换"
       },
@@ -150,7 +150,7 @@
         "url": "https://github.com/twentyhq/twenty",
         "description": "The open alternative to Salesforce, designed for AI.",
         "stars_today": 112,
-        "stars": 59218,
+        "stars": 59227,
         "forks": 9665,
         "language": "TypeScript",
         "source": "trending",
@@ -162,7 +162,7 @@
     "note": "今日 Star 为 GitHub 官方趋势页面口径；搜索兜底为中 Star AI 项目。"
   },
   "openrouter": {
-    "fetched_at": "2026-10-22T02:24:34+00:00",
+    "fetched_at": "2026-10-22T02:42:54+00:00",
     "url": "https://openrouter.ai/rankings",
     "items": [
       {
@@ -184,9 +184,9 @@
         "requests_day": 16792733,
         "share_day": 21.83,
         "rank_week": 2,
-        "tokens_week": 11716071604252,
+        "tokens_week": 11753391525376,
         "rank_month": 2,
-        "tokens_month": 39377422340102,
+        "tokens_month": 39414745982663,
         "rank_delta_week": 0,
         "rank_delta_month": 0,
         "description_zh": "Claude Code 是 Anthropic 的智能体编码工具，可以读取整个代码库、计划和执行跨文件的更改、运行测试以及迭代故障，所有这些都来自自然语言提示。"
@@ -211,9 +211,9 @@
         "requests_day": 17688448,
         "share_day": 21.41,
         "rank_week": 3,
-        "tokens_week": 11519807795467,
+        "tokens_week": 11556138456852,
         "rank_month": 3,
-        "tokens_month": 53197747494756,
+        "tokens_month": 53234080441192,
         "rank_delta_week": 0,
         "rank_delta_month": 0,
         "description_zh": "Hermes Agent 是 Nous Research 开发的一款开源、自我改进的 AI 智能体，它可以跨会话持续运行内存，并根据经验构建可重用的技能。它配备了 40 多个内置工具，包括网络搜索、浏览器自动化和视觉，以及计划的自动化和子智能体。"
@@ -238,9 +238,9 @@
         "requests_day": 10788837,
         "share_day": 15.39,
         "rank_week": 5,
-        "tokens_week": 6199770156357,
+        "tokens_week": 6221102753796,
         "rank_month": 5,
-        "tokens_month": 26071543612470,
+        "tokens_month": 26092877550857,
         "rank_delta_week": 1,
         "rank_delta_month": 1,
         "description_zh": "Kilo Code 是一款开源 AI 编程智能体，可跨 VS Code、JetBrains 和 CLI 运行，帮助开发人员通过智能体工作流程更快地交付代码。"
@@ -264,9 +264,9 @@
         "requests_day": 6023039,
         "share_day": 6.72,
         "rank_week": 6,
-        "tokens_week": 3423910366599,
+        "tokens_week": 3436035264869,
         "rank_month": 8,
-        "tokens_month": 13592663653344,
+        "tokens_month": 13604790248259,
         "rank_delta_week": 0,
         "rank_delta_month": 2,
         "description_zh": "编程智能体有很多，但这一款是您的。"
@@ -288,9 +288,9 @@
         "requests_day": 3239686,
         "share_day": 5.94,
         "rank_week": 9,
-        "tokens_week": 2431813805656,
+        "tokens_week": 2442099425262,
         "rank_month": 13,
-        "tokens_month": 7264240341112,
+        "tokens_month": 7274526487510,
         "rank_delta_week": 2,
         "rank_delta_month": 6
       },
@@ -313,9 +313,9 @@
         "requests_day": 2953760,
         "share_day": 5.51,
         "rank_week": 11,
-        "tokens_week": 2319010853535,
+        "tokens_week": 2330478116732,
         "rank_month": 11,
-        "tokens_month": 10930497911264,
+        "tokens_month": 10941965833527,
         "rank_delta_week": 3,
         "rank_delta_month": 3
       },
@@ -338,9 +338,9 @@
         "requests_day": 4497051,
         "share_day": 3.5,
         "rank_week": 13,
-        "tokens_week": 1423172225976,
+        "tokens_week": 1430815364978,
         "rank_month": 9,
-        "tokens_month": 11754226853922,
+        "tokens_month": 11761871158326,
         "rank_delta_week": 3,
         "rank_delta_month": -1,
         "description_zh": "帮助您构建和发布 AI 的编程智能体"
@@ -362,9 +362,9 @@
         "requests_day": 2648981,
         "share_day": 3.24,
         "rank_week": 10,
-        "tokens_week": 2332306405053,
+        "tokens_week": 2336714802214,
         "rank_month": 10,
-        "tokens_month": 11153179521232,
+        "tokens_month": 11157588269973,
         "rank_delta_week": -1,
         "rank_delta_month": -1,
         "description_zh": "强大的编码模型，由广告资助"
@@ -389,9 +389,9 @@
         "requests_day": 2699040,
         "share_day": 2.69,
         "rank_week": 12,
-        "tokens_week": 1434043212181,
+        "tokens_week": 1438321121600,
         "rank_month": 12,
-        "tokens_month": 7576382517425,
+        "tokens_month": 7580660752959,
         "rank_delta_week": 0,
         "rank_delta_month": 0,
         "description_zh": "OpenClaw 是一个开源AI 智能体，它连接到您的消息应用程序并代表您采取实际行动，从运行命令和浏览网页到管理文件和发送电子邮件。"
@@ -415,11 +415,11 @@
         "requests_day": 1686553,
         "share_day": 2.6,
         "rank_week": 15,
-        "tokens_week": 1214695723033,
-        "rank_month": 18,
-        "tokens_month": 2892994743307,
+        "tokens_week": 1290941570262,
+        "rank_month": 17,
+        "tokens_month": 2969250619794,
         "rank_delta_week": 2,
-        "rank_delta_month": 5
+        "rank_delta_month": 4
       },
       {
         "id": "190604",
@@ -441,9 +441,9 @@
         "requests_day": 2081585,
         "share_day": 2.19,
         "rank_week": 8,
-        "tokens_week": 2605434015719,
+        "tokens_week": 2609957894667,
         "rank_month": 6,
-        "tokens_month": 19887423062726,
+        "tokens_month": 19891948033349,
         "rank_delta_week": -8,
         "rank_delta_month": -10,
         "description_zh": "Cline 是一个开源 AI 编程智能体，位于您的 IDE 中，可以自主探索您的代码库、编辑文件、运行终端命令以及使用浏览器自动化。"
@@ -471,9 +471,9 @@
         "requests_day": 926677,
         "share_day": 2.09,
         "rank_week": 14,
-        "tokens_week": 1287497678250,
+        "tokens_week": 1293118716819,
         "rank_month": 20,
-        "tokens_month": 2389702669458,
+        "tokens_month": 2395324563961,
         "rank_delta_week": -3,
         "rank_delta_month": 3,
         "description_zh": "Proto 是您企业的个人智能体。"
@@ -497,9 +497,9 @@
         "requests_day": 687025,
         "share_day": 1.92,
         "rank_week": 23,
-        "tokens_week": 482980106860,
+        "tokens_week": 487081239827,
         "rank_month": 22,
-        "tokens_month": 2090404851262,
+        "tokens_month": 2094505984229,
         "rank_delta_week": 5,
         "rank_delta_month": 4,
         "description_zh": "ZCode 将最好的 AI 智能体与您现有的工具相结合，以便您可以轻松地进行规划、编码、审查和部署。"
@@ -525,9 +525,9 @@
         "requests_day": 903276,
         "share_day": 0.89,
         "rank_week": 19,
-        "tokens_week": 608122891819,
+        "tokens_week": 609427492817,
         "rank_month": 23,
-        "tokens_month": 1987956961746,
+        "tokens_month": 1989261562744,
         "rank_delta_week": -1,
         "rank_delta_month": 3
       },
@@ -550,9 +550,9 @@
         "requests_day": 706191,
         "share_day": 0.74,
         "rank_week": 20,
-        "tokens_week": 516220475031,
+        "tokens_week": 517386592088,
         "rank_month": 15,
-        "tokens_month": 3372371217132,
+        "tokens_month": 3373537645866,
         "rank_delta_week": -1,
         "rank_delta_month": -6,
         "description_zh": "AI编程智能体，可以运行命令、浏览网页、调用APIs"
@@ -576,9 +576,9 @@
         "requests_day": 1583754,
         "share_day": 0.73,
         "rank_week": 21,
-        "tokens_week": 508559785459,
+        "tokens_week": 510234014455,
         "rank_month": 21,
-        "tokens_month": 2162263768310,
+        "tokens_month": 2163937997306,
         "rank_delta_week": -1,
         "rank_delta_month": -1,
         "description_zh": "AI冒险。与您最喜欢的角色一起旅行"
@@ -600,9 +600,9 @@
         "requests_day": 1217940,
         "share_day": 0.7,
         "rank_week": 24,
-        "tokens_week": 433163602010,
+        "tokens_week": 434347241919,
         "rank_month": 25,
-        "tokens_month": 1748103972610,
+        "tokens_month": 1749287677865,
         "rank_delta_week": 1,
         "rank_delta_month": 2
       },
@@ -626,7 +626,7 @@
         "requests_day": 584442,
         "share_day": 0.68,
         "rank_week": 25,
-        "tokens_week": 366866362321,
+        "tokens_week": 368437894883,
         "rank_month": null,
         "tokens_month": null,
         "rank_delta_week": 1,
@@ -677,7 +677,7 @@
         "rank_week": null,
         "tokens_week": null,
         "rank_month": 26,
-        "tokens_month": 1291034459201,
+        "tokens_month": 1292277934882,
         "rank_delta_month": 0,
         "description_zh": "Nous Research 是一个专注于推进开源AI的AI研究团队。"
       }
@@ -686,7 +686,7 @@
     "note": "OpenRouter 应用调用量来自公开榜单页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。"
   },
   "producthunt": {
-    "fetched_at": "2026-10-22T02:24:34+00:00",
+    "fetched_at": "2026-10-22T02:42:54+00:00",
     "url": "https://www.producthunt.com/feed?category=artificial-intelligence",
     "items": [
       {
@@ -1143,7 +1143,7 @@
     "note": "Product Hunt 公共订阅源只提供发布信息，不提供票数；按发布时间排序。"
   },
   "huggingface": {
-    "fetched_at": "2026-10-22T02:24:35+00:00",
+    "fetched_at": "2026-10-22T02:42:54+00:00",
     "url": "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=24",
     "items": [
       {
@@ -1151,8 +1151,8 @@
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "downloads": 42122,
-        "likes": 2176,
-        "trending_score": 1921,
+        "likes": 2180,
+        "trending_score": 1924,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1172,7 +1172,7 @@
         "name": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
         "downloads": 490447,
-        "likes": 1196,
+        "likes": 1195,
         "trending_score": 893,
         "pipeline": "image-to-image",
         "library": "diffusion-single-file",
@@ -1235,8 +1235,8 @@
         "name": "fishaudio/drama-3",
         "url": "https://huggingface.co/fishaudio/drama-3",
         "downloads": 15274,
-        "likes": 889,
-        "trending_score": 532,
+        "likes": 890,
+        "trending_score": 530,
         "pipeline": "text-to-speech",
         "library": null,
         "tags": [
@@ -1299,7 +1299,7 @@
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "downloads": 2057942,
         "likes": 8764,
-        "trending_score": 428,
+        "trending_score": 427,
         "pipeline": "image-to-video",
         "library": "diffusion-single-file",
         "tags": [
@@ -1319,8 +1319,8 @@
         "name": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "downloads": 179734,
-        "likes": 2809,
-        "trending_score": 416,
+        "likes": 2810,
+        "trending_score": 413,
         "pipeline": "feature-extraction",
         "library": "transformers",
         "tags": [
@@ -1341,7 +1341,7 @@
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "downloads": 120930,
         "likes": 2067,
-        "trending_score": 372,
+        "trending_score": 370,
         "pipeline": "text-generation",
         "library": "gguf",
         "tags": [
@@ -1361,8 +1361,8 @@
         "name": "Comfy-Org/MOSS-Image",
         "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
         "downloads": 1290080,
-        "likes": 332,
-        "trending_score": 312,
+        "likes": 333,
+        "trending_score": 313,
         "pipeline": null,
         "library": "diffusion-single-file",
         "tags": [
@@ -1401,8 +1401,8 @@
         "name": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "downloads": 7729432,
-        "likes": 18145,
-        "trending_score": 304,
+        "likes": 18147,
+        "trending_score": 305,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1464,8 +1464,8 @@
         "name": "RecursiveSI/flint",
         "url": "https://huggingface.co/RecursiveSI/flint",
         "downloads": 0,
-        "likes": 264,
-        "trending_score": 262,
+        "likes": 268,
+        "trending_score": 266,
         "pipeline": "text-generation",
         "library": "transformers",
         "tags": [
@@ -1506,8 +1506,8 @@
         "name": "mistralai/Timestral-209M",
         "url": "https://huggingface.co/mistralai/Timestral-209M",
         "downloads": 5488,
-        "likes": 262,
-        "trending_score": 251,
+        "likes": 263,
+        "trending_score": 252,
         "pipeline": "time-series-forecasting",
         "library": "timestral",
         "tags": [
@@ -1591,7 +1591,7 @@
         "url": "https://huggingface.co/facebook/sam3",
         "downloads": 1906176,
         "likes": 4846,
-        "trending_score": 201,
+        "trending_score": 200,
         "pipeline": "mask-generation",
         "library": "transformers",
         "tags": [
@@ -1650,7 +1650,7 @@
     "note": "Hugging Face 热度分为平台热度信号，不等于商业收入。"
   },
   "lean": {
-    "fetched_at": "2026-10-22T02:24:35+00:00",
+    "fetched_at": "2026-10-22T02:42:55+00:00",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1vMlwTJ8_Lty161T73uwnMzVxb48XzHxz9aPNla5OgCjd2yJ0HMfxEHGSv1OsyGOarWUYDcsJZfmk/pub?gid=0&single=true&output=csv",
     "via": "google",
     "count": 70,
@@ -1658,7 +1658,7 @@
   },
   "lean_extra": {
     "opu": {
-      "fetched_at": "2026-10-22T02:24:36+00:00",
+      "fetched_at": "2026-10-22T02:42:55+00:00",
       "url": "https://www.onepersonunicorn.co/",
       "items": [
         {
@@ -1773,7 +1773,7 @@
       "note": "One Person Unicorn：团队 ≤10 人，ARR 主要为自报/创始人提交，非全部独立核实。"
     },
     "vv": {
-      "fetched_at": "2026-10-22T02:24:36+00:00",
+      "fetched_at": "2026-10-22T02:42:56+00:00",
       "url": "https://www.verticalvelocity.co/",
       "items": [
         {
