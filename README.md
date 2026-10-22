@@ -95,7 +95,7 @@ open index.html
 2. Settings → Pages → Source 选择 **GitHub Actions**。
 3. 手动运行一次 `Tank's AI Radar · collect & deploy`，或等定时任务。
 4. 定时：
-   - 每日 08:00（Asia/Shanghai）采集增长类源；
+   - 每日 08:00 起（Asia/Shanghai，GitHub Actions 可能有延迟）采集增长类源；
    - 每周日 20:10（Asia/Shanghai）额外执行一次 Lean 源。
 5. 工作流会：
    - 采集 → 构建 → 提交 `data/radar/` 与 Lean CSV 快照；

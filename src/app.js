@@ -984,7 +984,7 @@ function syncCardHtml() {
       <span class="sync-status">${gen ? "采集于 " + fmtDateTime(gen.getTime()) : "尚未采集"}</span>
     </div>
     <div class="sync-grid">
-      <div><span>发布节奏</span><b>每日 08:00</b></div>
+      <div><span>发布节奏</span><b>每日 08:00 起</b></div>
       <div><span>Lean 榜单</span><b>每周日 20:00</b></div>
       <div><span>数据源</span><b>${ok}/${srcs.length} 在线</b></div>
     </div>
