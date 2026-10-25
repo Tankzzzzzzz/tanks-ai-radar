@@ -164,5 +164,13 @@
   "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS": "AWS 支持的官方 MCP 服务器、技能和插件可帮助 AI 智能体在 AWS 上构建",
   "Ask once. Get a fresh CSV in Slack or email every week.": "问一次。每周在 Slack 或电子邮件中获取新的 CSV。",
   "Local AI for dictation, meetings, background tasks and more": "用于听写、会议、后台任务等的本地AI",
-  "Let AI agents sign in for you without seeing your passwords": "让 AI 智能体为您登录而无需查看您的密码"
+  "Let AI agents sign in for you without seeing your passwords": "让 AI 智能体为您登录而无需查看您的密码",
+  "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。",
+  "TradingAgents: Multi-Agents LLM Financial Trading Framework": "TradingAgents：多智能体LLM金融交易框架",
+  "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.": "Claude Code 的通用 SEO 技能。 26 个子技能 + 19 个子智能体，涵盖技术 SEO、E-E-A-T、模式、GEO/AEO、智能体准备情况（Lighthouse Agentic Browsing、WebMCP、llms.txt）、反向链接、本地 SEO、电子商务、国际 SEO、Google APIs 和 PDF/Excel 报告。实时 SEO 数据的 9 种可选扩展。",
+  "Shared workspace for humans and agents": "人类和智能体的共享工作空间",
+  "AI summaries with tap-to-jump timestamps, right in Telegram": "AI摘要，带有点击跳转时间戳，就在 Telegram 中",
+  "One local AI server for all your Windows apps": "一台本地 AI 服务器可用于您的所有 Windows 应用程序",
+  "Product observability for teams shipping fast with AI": "产品可观察性，帮助团队通过 AI 快速交付",
+  "The fastest headless browser for agents and harnesses": "适用于智能体和线束的最快无头浏览器"
 }
