@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T02:15:17+00:00",
+  "generated_at": "2026-10-27T02:51:30+00:00",
   "sources": [
     {
       "key": "github",
@@ -9,9 +9,9 @@
       "method": "公开页面解析 + GitHub 搜索 API 兜底",
       "confidence": "高",
       "status": "ok",
-      "last_attempt": "2026-10-26T02:15:17+00:00",
-      "last_success": "2026-10-26T02:15:17+00:00",
-      "count": 7,
+      "last_attempt": "2026-10-27T02:51:32+00:00",
+      "last_success": "2026-10-27T02:51:32+00:00",
+      "count": 12,
       "error": null,
       "note": "今日 Star 为 GitHub 趋势口径；非 AI 项目会被过滤。"
     },
@@ -23,8 +23,8 @@
       "method": "公开榜单页面内嵌数据",
       "confidence": "中高",
       "status": "ok",
-      "last_attempt": "2026-10-26T02:15:17+00:00",
-      "last_success": "2026-10-26T02:15:17+00:00",
+      "last_attempt": "2026-10-27T02:51:32+00:00",
+      "last_success": "2026-10-27T02:51:32+00:00",
       "count": 20,
       "error": null,
       "note": "只覆盖通过 OpenRouter 路由的调用，不等于公司总营收。"
@@ -37,8 +37,8 @@
       "method": "公开订阅源",
       "confidence": "中",
       "status": "ok",
-      "last_attempt": "2026-10-26T02:15:17+00:00",
-      "last_success": "2026-10-26T02:15:17+00:00",
+      "last_attempt": "2026-10-27T02:51:32+00:00",
+      "last_success": "2026-10-27T02:51:32+00:00",
       "count": 50,
       "error": null,
       "note": "订阅源不含票数，按发布时间排序；用于发现新品。"
@@ -51,8 +51,8 @@
       "method": "官方公开 API",
       "confidence": "高",
       "status": "ok",
-      "last_attempt": "2026-10-26T02:15:17+00:00",
-      "last_success": "2026-10-26T02:15:17+00:00",
+      "last_attempt": "2026-10-27T02:51:32+00:00",
+      "last_success": "2026-10-27T02:51:32+00:00",
       "count": 24,
       "error": null,
       "note": "模型热度信号，不等于商业收入。"
@@ -65,8 +65,8 @@
       "method": "官方公开表格 + Jina 镜像兜底",
       "confidence": "中高",
       "status": "ok",
-      "last_attempt": "2026-10-26T02:15:19+00:00",
-      "last_success": "2026-10-26T02:15:18+00:00",
+      "last_attempt": "2026-10-27T02:51:33+00:00",
+      "last_success": "2026-10-27T02:51:33+00:00",
       "count": 70,
       "error": null,
       "note": "营收/人数为快照口径；部分公司已发生重大变化，详情页另行标注。"
@@ -79,8 +79,8 @@
       "method": "公开页面表格",
       "confidence": "中低",
       "status": "ok",
-      "last_attempt": "2026-10-26T02:15:19+00:00",
-      "last_success": "2026-10-26T02:15:18+00:00",
+      "last_attempt": "2026-10-27T02:51:33+00:00",
+      "last_success": "2026-10-27T02:51:33+00:00",
       "count": 9,
       "error": null,
       "note": "团队 ≤10 人；ARR 多为自报，非全部独立核实。"
@@ -93,8 +93,8 @@
       "method": "公开页面表格",
       "confidence": "中低",
       "status": "ok",
-      "last_attempt": "2026-10-26T02:15:19+00:00",
-      "last_success": "2026-10-26T02:15:19+00:00",
+      "last_attempt": "2026-10-27T02:51:33+00:00",
+      "last_success": "2026-10-27T02:51:33+00:00",
       "count": 20,
       "error": null,
       "note": "垂直 AI 公司人均 ARR；页面更新频率不稳定。"
@@ -107,7 +107,7 @@
       "method": "人工结构化导入（待接入）",
       "confidence": "高",
       "status": "manual",
-      "last_attempt": "2026-10-26T02:15:19+00:00",
+      "last_attempt": "2026-10-27T02:51:33+00:00",
       "last_success": "2026-10-05",
       "count": null,
       "error": null,
@@ -121,7 +121,7 @@
       "method": "人工结构化导入（待接入）",
       "confidence": "中",
       "status": "manual",
-      "last_attempt": "2026-10-26T02:15:19+00:00",
+      "last_attempt": "2026-10-27T02:51:33+00:00",
       "last_success": "2026-10-18",
       "count": null,
       "error": null,
