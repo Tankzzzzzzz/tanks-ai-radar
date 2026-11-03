@@ -291,5 +291,22 @@
   "Follow AI models and agents like you follow people": "像关注人一样关注AI模型和智能体",
   "A team of AI agents for video: produce, edit, clip, post": "视频 AI 智能体团队：制作、编辑、剪辑、发布",
   "The AI research agent with its own cloud lab": "拥有自己的云实验室的AI研究智能体",
-  "Managed agents API that works with any model": "适用于任何型号的托管智能体 API"
+  "Managed agents API that works with any model": "适用于任何型号的托管智能体 API",
+  "Computer use CLI for AI agents": "计算机使用 CLI 进行 AI 智能体",
+  "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦": "在您已经拥有的硬件上运行前沿 MoE 模型 - 纯 C、零依赖、从磁盘流式传输的专家。微小的发动机，巨大的模型。 🐦",
+  "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more": "免训练语言模型修改：消除审查、抑制废话、减少阿谀奉承等",
+  "The open-source app everyone uses to manage agents at work": "每个人都用它来管理工作中的智能体的开源应用程序",
+  "The best ChatGPT that $100 can buy.": "100 美元能买到的最好的 ChatGPT。",
+  "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows": "Worktrunk 是一个用于 Git 工作树管理的 CLI，专为并行 AI 智能体工作流程而设计",
+  "Open-source AI hackers that find and validate vulnerabilities in your code, APIs, and infrastructure, and open fix PRs.": "开源 AI 黑客可以查找并验证代码、API 和基础设施中的漏洞，并开放修复 PR。",
+  "Your mind map is now an AI thinking partner": "您的思维导图现在是 AI 思维伙伴",
+  "Give your agent an email address, Slack and Telegram handle": "为您的智能体提供电子邮件地址、Slack 和 Telegram 账号",
+  "Durable, verified agentic search": "持久、经过验证的智能体搜索",
+  "Describe a widget, get a working one on your site": "描述一个小部件，在您的网站上安装一个可用的小部件",
+  "Create docs and apps with any agent, in one workspace": "在一个工作区中使用任何智能体创建文档和应用程序",
+  "AI Creative Canvas": "AI创意画布",
+  "The first AI agent to present your slides and attend for you": "第一个为您展示幻灯片并参加的AI 智能体",
+  "If Grok Bot supported team collaboration and was Open Source": "如果 Grok Bot 支持团队协作并且是开源的",
+  "Private AI that runs on your device. No account.": "在您的设备上运行的私人AI。没有帐户。",
+  "Run machines at agent speed, not human speed.": "以智能体速度而不是人类速度运行机器。"
 }
