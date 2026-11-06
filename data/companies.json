@@ -498,6 +498,40 @@
   },
   {
     "rank": 15,
+    "name": "Daytona",
+    "desc": "Cloud Sandboxes for AI Agents",
+    "loc": "San Francisco",
+    "rev": 100000000.0,
+    "emp": 30,
+    "rpe": 3333333.3333333335,
+    "profit": false,
+    "fund": 91000000.0,
+    "val": 1000000000.0,
+    "vpe": 33333333.333333332,
+    "founded": "2023",
+    "foundedNum": 2023,
+    "snap": "Nov 2026",
+    "snapAge": 0,
+    "src": "https://x.com/ivanburazin/status/2117664468603670928",
+    "months": 12,
+    "category": "其他",
+    "descZh": "Cloud Sandboxes for AI Agents",
+    "value": "待补充：Cloud Sandboxes for AI Agents",
+    "model": "调研资料待补充。",
+    "moat": "调研资料待补充。",
+    "progress": "调研资料待补充。",
+    "confidence": "low",
+    "website": "",
+    "github": "",
+    "searchTerm": "Daytona",
+    "status": "",
+    "statusLong": "",
+    "sources": [
+      "https://x.com/ivanburazin/status/2117664468603670928"
+    ]
+  },
+  {
+    "rank": 16,
     "name": "micro1",
     "desc": "AI Training Data",
     "loc": "San Francisco",
@@ -533,7 +567,7 @@
     ]
   },
   {
-    "rank": 16,
+    "rank": 17,
     "name": "Cal AI",
     "desc": "AI Calorie Tracker",
     "loc": "New York",
@@ -570,7 +604,7 @@
     ]
   },
   {
-    "rank": 17,
+    "rank": 18,
     "name": "RB2B",
     "desc": "Website Visitor Identification",
     "loc": "Austin",
@@ -606,7 +640,7 @@
     ]
   },
   {
-    "rank": 18,
+    "rank": 19,
     "name": "Turbopuffer",
     "desc": "Vector and Full Text Search",
     "loc": "Ottawa",
@@ -643,7 +677,7 @@
     ]
   },
   {
-    "rank": 19,
+    "rank": 20,
     "name": "Mercor",
     "desc": "Talent Marketplace + Data Labeling",
     "loc": "San Francisco",
@@ -679,7 +713,7 @@
     ]
   },
   {
-    "rank": 20,
+    "rank": 21,
     "name": "Chai Research",
     "desc": "Social AI Platform",
     "loc": "Palo Alto",
@@ -716,7 +750,7 @@
     ]
   },
   {
-    "rank": 21,
+    "rank": 22,
     "name": "Poetic",
     "desc": "AI Enterprise Process Automation",
     "loc": "San Francisco",
@@ -752,7 +786,7 @@
     ]
   },
   {
-    "rank": 22,
+    "rank": 23,
     "name": "Fal.ai",
     "desc": "Generative media platform",
     "loc": "San Francisco",
@@ -788,7 +822,7 @@
     ]
   },
   {
-    "rank": 23,
+    "rank": 24,
     "name": "Eleven Labs",
     "desc": "AI Voice, Text-to-Speech",
     "loc": "New York",
@@ -825,7 +859,7 @@
     ]
   },
   {
-    "rank": 24,
+    "rank": 25,
     "name": "Stackblitz (Bolt.new)",
     "desc": "AI Code Editor",
     "loc": "San Francisco",
@@ -861,7 +895,7 @@
     ]
   },
   {
-    "rank": 25,
+    "rank": 26,
     "name": "Gamma",
     "desc": "AI for Presentations",
     "loc": "San Francisco",
@@ -897,7 +931,7 @@
     ]
   },
   {
-    "rank": 26,
+    "rank": 27,
     "name": "Lovable",
     "desc": "AI Code Gen",
     "loc": "Stockholm",
@@ -933,7 +967,7 @@
     ]
   },
   {
-    "rank": 27,
+    "rank": 28,
     "name": "Retell AI",
     "desc": "AI Voice",
     "loc": "San Francisco",
@@ -969,7 +1003,7 @@
     ]
   },
   {
-    "rank": 28,
+    "rank": 29,
     "name": "Genspark",
     "desc": "AI Super Agent",
     "loc": "Palo Alto",
@@ -1006,7 +1040,7 @@
     ]
   },
   {
-    "rank": 29,
+    "rank": 30,
     "name": "OpenCode",
     "desc": "Open-source AI coding agent",
     "loc": "Toronto",
@@ -1042,7 +1076,7 @@
     ]
   },
   {
-    "rank": 30,
+    "rank": 31,
     "name": "Markable AI",
     "desc": "AI Creator Marketing",
     "loc": "Seattle",
@@ -1077,7 +1111,7 @@
     ]
   },
   {
-    "rank": 31,
+    "rank": 32,
     "name": "Aragon AI",
     "desc": "AI Avatar Generation",
     "loc": "San Francisco",
@@ -1114,7 +1148,7 @@
     ]
   },
   {
-    "rank": 32,
+    "rank": 33,
     "name": "Solvely.ai",
     "desc": "AI for Homework",
     "loc": "San Francisco",
@@ -1151,7 +1185,7 @@
     ]
   },
   {
-    "rank": 33,
+    "rank": 34,
     "name": "Oleve",
     "desc": "AI Consumer Portolio",
     "loc": "New York",
@@ -1186,7 +1220,7 @@
     ]
   },
   {
-    "rank": 34,
+    "rank": 35,
     "name": "BoldVoice",
     "desc": "AI Communication Feedback",
     "loc": "New York",
@@ -1221,7 +1255,7 @@
     ]
   },
   {
-    "rank": 35,
+    "rank": 36,
     "name": "Arcads",
     "desc": "AI Video Ads Generator",
     "loc": "Paris",
@@ -1256,7 +1290,7 @@
     ]
   },
   {
-    "rank": 36,
+    "rank": 37,
     "name": "Higgsfield",
     "desc": "AI Video Generation",
     "loc": "San Francisco",
@@ -1292,7 +1326,7 @@
     ]
   },
   {
-    "rank": 37,
+    "rank": 38,
     "name": "Develop Health",
     "desc": "AI for Prescribers",
     "loc": "San Francisco",
@@ -1328,7 +1362,7 @@
     ]
   },
   {
-    "rank": 38,
+    "rank": 39,
     "name": "Halluminate",
     "desc": "AI Training Data & Evaluation",
     "loc": "San Francisco",
@@ -1363,7 +1397,7 @@
     ]
   },
   {
-    "rank": 39,
+    "rank": 40,
     "name": "Phinity Labs",
     "desc": "AI Chip Design Agents",
     "loc": "San Francisco",
@@ -1399,7 +1433,7 @@
     ]
   },
   {
-    "rank": 40,
+    "rank": 41,
     "name": "Super.com",
     "desc": "All-in-one App",
     "loc": "San Francisco",
@@ -1434,7 +1468,7 @@
     ]
   },
   {
-    "rank": 41,
+    "rank": 42,
     "name": "Photoroom",
     "desc": "Image Editing",
     "loc": "Paris",
@@ -1471,7 +1505,7 @@
     ]
   },
   {
-    "rank": 42,
+    "rank": 43,
     "name": "Stan",
     "desc": "Creator Storefront",
     "loc": "LA/Toronto",
@@ -1507,7 +1541,7 @@
     ]
   },
   {
-    "rank": 43,
+    "rank": 44,
     "name": "Fish Audio",
     "desc": "AI Voice, Text-to-Speech",
     "loc": "San Francisco",
@@ -1542,7 +1576,7 @@
     ]
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "Tolan (Portola)",
     "desc": "AI Companion App",
     "loc": "San Francisco",
@@ -1578,7 +1612,7 @@
     ]
   },
   {
-    "rank": 45,
+    "rank": 46,
     "name": "Wafer",
     "desc": "AI Inference Optimization",
     "loc": "San Francisco",
@@ -1615,7 +1649,7 @@
     ]
   },
   {
-    "rank": 46,
+    "rank": 47,
     "name": "Viktor",
     "desc": "AI Coworker for Slack & Teams",
     "loc": "Warsaw / Munich",
@@ -1651,7 +1685,7 @@
     ]
   },
   {
-    "rank": 47,
+    "rank": 48,
     "name": "AKOOL",
     "desc": "AI Video Generation",
     "loc": "Santa Clara",
@@ -1686,7 +1720,7 @@
     ]
   },
   {
-    "rank": 48,
+    "rank": 49,
     "name": "Clipto",
     "desc": "On-device AI Media Search",
     "loc": "San Francisco",
@@ -1720,7 +1754,7 @@
     ]
   },
   {
-    "rank": 49,
+    "rank": 50,
     "name": "GPTZero",
     "desc": "AI Detector",
     "loc": "New York",
@@ -1756,7 +1790,7 @@
     ]
   },
   {
-    "rank": 50,
+    "rank": 51,
     "name": "Praktika.ai",
     "desc": "AI Avatars for Learning",
     "loc": "Remote",
@@ -1792,7 +1826,7 @@
     ]
   },
   {
-    "rank": 51,
+    "rank": 52,
     "name": "Turbo AI",
     "desc": "AI Note-Taking & Study Assistant",
     "loc": "Los Angeles",
@@ -1827,7 +1861,7 @@
     ]
   },
   {
-    "rank": 52,
+    "rank": 53,
     "name": "Blacksmith",
     "desc": "AI Native CI/CD + Code Fixing",
     "loc": "San Francisco",
@@ -1861,7 +1895,7 @@
     ]
   },
   {
-    "rank": 53,
+    "rank": 54,
     "name": "Humyn Labs",
     "desc": "Human Data Infrastructure for Physical AI",
     "loc": "San Francisco",
@@ -1897,7 +1931,7 @@
     ]
   },
   {
-    "rank": 54,
+    "rank": 55,
     "name": "Creati",
     "desc": "AI Image Generation",
     "loc": "San Francisco",
@@ -1932,7 +1966,7 @@
     ]
   },
   {
-    "rank": 55,
+    "rank": 56,
     "name": "Sela",
     "desc": "AI Voice Agents for Mortgage Sales",
     "loc": "San Francisco",
@@ -1967,7 +2001,7 @@
     ]
   },
   {
-    "rank": 56,
+    "rank": 57,
     "name": "Latitude",
     "desc": "AI Games",
     "loc": "Utah",
@@ -2001,7 +2035,7 @@
     ]
   },
   {
-    "rank": 57,
+    "rank": 58,
     "name": "SubMagic",
     "desc": "AI Video Shorts",
     "loc": "Paris",
@@ -2036,7 +2070,7 @@
     ]
   },
   {
-    "rank": 58,
+    "rank": 59,
     "name": "Jobright",
     "desc": "AI Job Search",
     "loc": "San Francisco",
@@ -2072,7 +2106,7 @@
     ]
   },
   {
-    "rank": 59,
+    "rank": 60,
     "name": "GrowthX",
     "desc": "AI Powered Growth",
     "loc": "San Francisco",
@@ -2108,7 +2142,7 @@
     ]
   },
   {
-    "rank": 60,
+    "rank": 61,
     "name": "Chatbase",
     "desc": "AI Customer Support",
     "loc": "Remote",
@@ -2144,7 +2178,7 @@
     ]
   },
   {
-    "rank": 61,
+    "rank": 62,
     "name": "Jenni.ai",
     "desc": "AI for Writing",
     "loc": "Remote",
@@ -2180,7 +2214,7 @@
     ]
   },
   {
-    "rank": 62,
+    "rank": 63,
     "name": "Hedra",
     "desc": "AI Character Video Generation",
     "loc": "San Francisco",
@@ -2217,7 +2251,7 @@
     ]
   },
   {
-    "rank": 63,
+    "rank": 64,
     "name": "Conversion",
     "desc": "AI Marketing",
     "loc": "San Francisco",
@@ -2252,7 +2286,7 @@
     ]
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Pump.co",
     "desc": "AI Cloud Cost Optimization",
     "loc": "San Francisco",
@@ -2287,7 +2321,7 @@
     ]
   },
   {
-    "rank": 65,
+    "rank": 66,
     "name": "FyxerAI",
     "desc": "AI Executive Assistant",
     "loc": "London",
@@ -2323,7 +2357,7 @@
     ]
   },
   {
-    "rank": 66,
+    "rank": 67,
     "name": "Vapi",
     "desc": "AI Voice API",
     "loc": "San Francisco",
@@ -2358,7 +2392,7 @@
     ]
   },
   {
-    "rank": 67,
+    "rank": 68,
     "name": "Recall.ai",
     "desc": "API for Video Conferences",
     "loc": "San Francisco",
@@ -2393,7 +2427,7 @@
     ]
   },
   {
-    "rank": 68,
+    "rank": 69,
     "name": "Haven",
     "desc": "AI Accounting & Finance",
     "loc": "New York",
@@ -2428,7 +2462,7 @@
     ]
   },
   {
-    "rank": 69,
+    "rank": 70,
     "name": "Icon",
     "desc": "AI Ad Maker",
     "loc": "New York",
@@ -2465,7 +2499,7 @@
     ]
   },
   {
-    "rank": 70,
+    "rank": 71,
     "name": "Gumloop",
     "desc": "AI Automation Framework",
     "loc": "Vancouver",
