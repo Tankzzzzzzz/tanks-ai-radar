@@ -1755,6 +1755,40 @@
   },
   {
     "rank": 50,
+    "name": "Shortcut",
+    "desc": "AI Spreadsheet Agent",
+    "loc": "San Francisco",
+    "rev": 20000000.0,
+    "emp": 28,
+    "rpe": 714285.7142857143,
+    "profit": false,
+    "fund": 42000000.0,
+    "val": null,
+    "vpe": null,
+    "founded": "2023",
+    "foundedNum": 2023,
+    "snap": "Nov 2026",
+    "snapAge": 0,
+    "src": "https://x.com/GuangyuRobert/status/2123464334982701198",
+    "months": 16,
+    "category": "其他",
+    "descZh": "AI Spreadsheet Agent",
+    "value": "待补充：AI Spreadsheet Agent",
+    "model": "调研资料待补充。",
+    "moat": "调研资料待补充。",
+    "progress": "调研资料待补充。",
+    "confidence": "low",
+    "website": "",
+    "github": "",
+    "searchTerm": "Shortcut",
+    "status": "",
+    "statusLong": "",
+    "sources": [
+      "https://x.com/GuangyuRobert/status/2123464334982701198"
+    ]
+  },
+  {
+    "rank": 51,
     "name": "GPTZero",
     "desc": "AI Detector",
     "loc": "New York",
@@ -1790,7 +1824,7 @@
     ]
   },
   {
-    "rank": 51,
+    "rank": 52,
     "name": "Praktika.ai",
     "desc": "AI Avatars for Learning",
     "loc": "Remote",
@@ -1826,7 +1860,7 @@
     ]
   },
   {
-    "rank": 52,
+    "rank": 53,
     "name": "Turbo AI",
     "desc": "AI Note-Taking & Study Assistant",
     "loc": "Los Angeles",
@@ -1861,7 +1895,7 @@
     ]
   },
   {
-    "rank": 53,
+    "rank": 54,
     "name": "Blacksmith",
     "desc": "AI Native CI/CD + Code Fixing",
     "loc": "San Francisco",
@@ -1895,7 +1929,7 @@
     ]
   },
   {
-    "rank": 54,
+    "rank": 55,
     "name": "Humyn Labs",
     "desc": "Human Data Infrastructure for Physical AI",
     "loc": "San Francisco",
@@ -1931,7 +1965,7 @@
     ]
   },
   {
-    "rank": 55,
+    "rank": 56,
     "name": "Creati",
     "desc": "AI Image Generation",
     "loc": "San Francisco",
@@ -1966,7 +2000,7 @@
     ]
   },
   {
-    "rank": 56,
+    "rank": 57,
     "name": "Sela",
     "desc": "AI Voice Agents for Mortgage Sales",
     "loc": "San Francisco",
@@ -2001,7 +2035,7 @@
     ]
   },
   {
-    "rank": 57,
+    "rank": 58,
     "name": "Latitude",
     "desc": "AI Games",
     "loc": "Utah",
@@ -2035,7 +2069,7 @@
     ]
   },
   {
-    "rank": 58,
+    "rank": 59,
     "name": "SubMagic",
     "desc": "AI Video Shorts",
     "loc": "Paris",
@@ -2070,7 +2104,7 @@
     ]
   },
   {
-    "rank": 59,
+    "rank": 60,
     "name": "Jobright",
     "desc": "AI Job Search",
     "loc": "San Francisco",
@@ -2106,7 +2140,7 @@
     ]
   },
   {
-    "rank": 60,
+    "rank": 61,
     "name": "GrowthX",
     "desc": "AI Powered Growth",
     "loc": "San Francisco",
@@ -2142,7 +2176,7 @@
     ]
   },
   {
-    "rank": 61,
+    "rank": 62,
     "name": "Chatbase",
     "desc": "AI Customer Support",
     "loc": "Remote",
@@ -2178,7 +2212,7 @@
     ]
   },
   {
-    "rank": 62,
+    "rank": 63,
     "name": "Jenni.ai",
     "desc": "AI for Writing",
     "loc": "Remote",
@@ -2214,7 +2248,7 @@
     ]
   },
   {
-    "rank": 63,
+    "rank": 64,
     "name": "Hedra",
     "desc": "AI Character Video Generation",
     "loc": "San Francisco",
@@ -2251,7 +2285,7 @@
     ]
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Conversion",
     "desc": "AI Marketing",
     "loc": "San Francisco",
@@ -2286,7 +2320,7 @@
     ]
   },
   {
-    "rank": 65,
+    "rank": 66,
     "name": "Pump.co",
     "desc": "AI Cloud Cost Optimization",
     "loc": "San Francisco",
@@ -2321,7 +2355,7 @@
     ]
   },
   {
-    "rank": 66,
+    "rank": 67,
     "name": "FyxerAI",
     "desc": "AI Executive Assistant",
     "loc": "London",
@@ -2357,7 +2391,7 @@
     ]
   },
   {
-    "rank": 67,
+    "rank": 68,
     "name": "Vapi",
     "desc": "AI Voice API",
     "loc": "San Francisco",
@@ -2392,7 +2426,7 @@
     ]
   },
   {
-    "rank": 68,
+    "rank": 69,
     "name": "Recall.ai",
     "desc": "API for Video Conferences",
     "loc": "San Francisco",
@@ -2427,7 +2461,7 @@
     ]
   },
   {
-    "rank": 69,
+    "rank": 70,
     "name": "Haven",
     "desc": "AI Accounting & Finance",
     "loc": "New York",
@@ -2462,7 +2496,7 @@
     ]
   },
   {
-    "rank": 70,
+    "rank": 71,
     "name": "Icon",
     "desc": "AI Ad Maker",
     "loc": "New York",
@@ -2499,7 +2533,7 @@
     ]
   },
   {
-    "rank": 71,
+    "rank": 72,
     "name": "Gumloop",
     "desc": "AI Automation Framework",
     "loc": "Vancouver",
