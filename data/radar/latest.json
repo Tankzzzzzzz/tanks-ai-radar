@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T03:59:00+00:00",
+  "generated_at": "2026-11-22T19:29:38+00:00",
   "github": {
-    "fetched_at": "2026-11-22T03:59:01+00:00",
+    "fetched_at": "2026-11-22T19:29:40+00:00",
     "url": "https://github.com/trending?since=daily",
     "items": [
       {
@@ -9,9 +9,9 @@
         "name": "Claude-BugHunter",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars_today": 1803,
-        "stars": 16249,
-        "forks": 1841,
+        "stars_today": 1721,
+        "stars": 17431,
+        "forks": 1944,
         "language": "Python",
         "source": "trending",
         "trending_rank": 1,
@@ -23,9 +23,9 @@
         "name": "firecrawl",
         "url": "https://github.com/firecrawl/firecrawl",
         "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-        "stars_today": 1006,
-        "stars": 206314,
-        "forks": 10788,
+        "stars_today": 910,
+        "stars": 206865,
+        "forks": 10809,
         "language": "TypeScript",
         "source": "trending",
         "trending_rank": 6,
@@ -37,9 +37,9 @@
         "name": "superpowers",
         "url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars_today": 883,
-        "stars": 323808,
-        "forks": 28722,
+        "stars_today": 785,
+        "stars": 324037,
+        "forks": 28754,
         "language": "Shell",
         "source": "trending",
         "trending_rank": 2,
@@ -51,9 +51,9 @@
         "name": "CLI-Anything",
         "url": "https://github.com/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "stars_today": 769,
-        "stars": 62150,
-        "forks": 5639,
+        "stars_today": 687,
+        "stars": 62651,
+        "forks": 5683,
         "language": "Python",
         "source": "trending",
         "trending_rank": 3,
@@ -61,27 +61,27 @@
         "description_zh": "“CLI-Anything：使所有软件智能体原生”--CLI-Hub：https://clianything.cc/"
       },
       {
-        "repo": "mjmirza/app-store-compliance",
-        "name": "app-store-compliance",
-        "url": "https://github.com/mjmirza/app-store-compliance",
-        "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-        "stars_today": 720,
-        "stars": 3477,
-        "forks": 214,
-        "language": "Shell",
+        "repo": "mvanhorn/last30days-skill",
+        "name": "last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "stars_today": 673,
+        "stars": 72598,
+        "forks": 6419,
+        "language": "Python",
         "source": "trending",
-        "trending_rank": 12,
+        "trending_rank": 10,
         "rank": 5,
-        "description_zh": "避免常见的 App Store 和 Google Play 拒绝。开放剧本和提交前保护，包含 124 个记录的拒绝模式和修复、隐私清单和数据安全检查、111 个跟踪的截止日期（欧盟 AI 法案、DSA、COPPA、年龄法）以及 AI 编程智能体的技能。"
+        "description_zh": "AI 智能体技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
       },
       {
         "repo": "zhouxiaoka/autoclip",
         "name": "autoclip",
         "url": "https://github.com/zhouxiaoka/autoclip",
         "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-        "stars_today": 683,
-        "stars": 12938,
-        "forks": 2078,
+        "stars_today": 640,
+        "stars": 13352,
+        "forks": 2115,
         "language": "Python",
         "source": "trending",
         "trending_rank": 16,
@@ -89,45 +89,59 @@
         "description_zh": "AutoClip｜一个链接，一键出片。开源AI视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，卡车抖音、小红书、TikTok、Reels与YouTube Shorts。开源AI视频剪辑和内容再利用。"
       },
       {
+        "repo": "mjmirza/app-store-compliance",
+        "name": "app-store-compliance",
+        "url": "https://github.com/mjmirza/app-store-compliance",
+        "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+        "stars_today": 617,
+        "stars": 3864,
+        "forks": 234,
+        "language": "Shell",
+        "source": "trending",
+        "trending_rank": 12,
+        "rank": 7,
+        "description_zh": "避免常见的 App Store 和 Google Play 拒绝。开放剧本和提交前保护，包含 124 个记录的拒绝模式和修复、隐私清单和数据安全检查、112 个跟踪的截止日期（欧盟AI法案、DSA、COPPA、年龄法）以及AI编程智能体的技能。"
+      },
+      {
+        "repo": "google-labs-code/stitch-skills",
+        "name": "stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "stars_today": 516,
+        "stars": 11843,
+        "forks": 1471,
+        "language": "TypeScript",
+        "source": "trending",
+        "trending_rank": 11,
+        "rank": 8,
+        "description_zh": "专为与 Stitch MCP 服务器配合使用而设计的智能体技能库。每个技能都遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编程智能体兼容。"
+      },
+      {
         "repo": "cathrynlavery/diagram-design",
         "name": "diagram-design",
         "url": "https://github.com/cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars_today": 583,
-        "stars": 69854,
-        "forks": 4686,
+        "stars_today": 513,
+        "stars": 70209,
+        "forks": 4711,
         "language": "HTML",
         "source": "trending",
         "trending_rank": 9,
-        "rank": 7,
+        "rank": 9,
         "description_zh": "Claude Code、Codex、GitHub、Copilot、Cursor、Factory Droid、Qoder 和 Pi 的编辑图设计。 45 种图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
-      },
-      {
-        "repo": "mvanhorn/last30days-skill",
-        "name": "last30days-skill",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "stars_today": 560,
-        "stars": 72083,
-        "forks": 6385,
-        "language": "Python",
-        "source": "trending",
-        "trending_rank": 10,
-        "rank": 8,
-        "description_zh": "AI 智能体技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
       },
       {
         "repo": "jingyaogong/minimind",
         "name": "minimind",
         "url": "https://github.com/jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-        "stars_today": 488,
-        "stars": 68215,
-        "forks": 8918,
+        "stars_today": 473,
+        "stars": 68570,
+        "forks": 8969,
         "language": "Python",
         "source": "trending",
         "trending_rank": 4,
-        "rank": 9,
+        "rank": 10,
         "description_zh": "🧠两小时从0训出你的64M大模型。2小时内从头开始训练你自己的64M LLM。"
       },
       {
@@ -135,37 +149,23 @@
         "name": "opensre",
         "url": "https://github.com/Tracer-Cloud/opensre",
         "description": "The open-source agent for CI/CD reliability.",
-        "stars_today": 450,
-        "stars": 14036,
-        "forks": 1944,
+        "stars_today": 395,
+        "stars": 14323,
+        "forks": 1960,
         "language": "Python",
         "source": "trending",
         "trending_rank": 13,
-        "rank": 10,
-        "description_zh": "CI/CD 可靠性的开源智能体。"
-      },
-      {
-        "repo": "google-labs-code/stitch-skills",
-        "name": "stitch-skills",
-        "url": "https://github.com/google-labs-code/stitch-skills",
-        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "stars_today": 326,
-        "stars": 11494,
-        "forks": 1444,
-        "language": "TypeScript",
-        "source": "trending",
-        "trending_rank": 11,
         "rank": 11,
-        "description_zh": "专为与 Stitch MCP 服务器配合使用而设计的智能体技能库。每个技能都遵循 Agent Skills 开放标准，以便与 Antigravity、Gemini CLI、Claude Code、Cursor 等编程智能体兼容。"
+        "description_zh": "CI/CD 可靠性的开源智能体。"
       },
       {
         "repo": "openvinotoolkit/openvino",
         "name": "openvino",
         "url": "https://github.com/openvinotoolkit/openvino",
         "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-        "stars_today": 200,
-        "stars": 11957,
-        "forks": 3652,
+        "stars_today": 155,
+        "stars": 12064,
+        "forks": 3656,
         "language": "C++",
         "source": "trending",
         "trending_rank": 8,
@@ -176,7 +176,7 @@
     "note": "今日 Star 为 GitHub 官方趋势页面口径；搜索兜底为中 Star AI 项目。"
   },
   "openrouter": {
-    "fetched_at": "2026-11-22T03:59:02+00:00",
+    "fetched_at": "2026-11-22T19:29:40+00:00",
     "url": "https://openrouter.ai/rankings",
     "items": [
       {
@@ -198,9 +198,9 @@
         "requests_day": 25808021,
         "share_day": 20.84,
         "rank_week": 4,
-        "tokens_week": 11237131101672,
+        "tokens_week": 12334808941823,
         "rank_month": 4,
-        "tokens_month": 45809118364917,
+        "tokens_month": 46906809188148,
         "rank_delta_week": 1,
         "rank_delta_month": 1,
         "description_zh": "Claude Code 是 Anthropic 的智能体编码工具，可以读取整个代码库、计划和执行跨文件的更改、运行测试以及迭代故障，所有这些都来自自然语言提示。"
@@ -225,9 +225,9 @@
         "requests_day": 14932424,
         "share_day": 19.35,
         "rank_week": 3,
-        "tokens_week": 14208148624964,
+        "tokens_week": 15510193712281,
         "rank_month": 3,
-        "tokens_month": 55778697999508,
+        "tokens_month": 57080759124602,
         "rank_delta_week": -1,
         "rank_delta_month": -1,
         "description_zh": "Hermes Agent 是 Nous Research 开发的一款开源、自我改进的 AI 智能体，它可以跨会话持续运行内存，并根据经验构建可重用的技能。它配备了 40 多个内置工具，包括网络搜索、浏览器自动化和视觉，以及计划的自动化和子智能体。"
@@ -252,9 +252,9 @@
         "requests_day": 10387265,
         "share_day": 13.31,
         "rank_week": 5,
-        "tokens_week": 8694528464696,
+        "tokens_week": 9676253111730,
         "rank_month": 5,
-        "tokens_month": 25883201328621,
+        "tokens_month": 26864937578482,
         "rank_delta_week": 0,
         "rank_delta_month": 0,
         "description_zh": "Kilo Code 是一款开源 AI 编程智能体，可跨 VS Code、JetBrains 和 CLI 运行，帮助开发人员通过智能体工作流程更快地交付代码。"
@@ -277,11 +277,11 @@
         "tokens_day": 1082989687495,
         "requests_day": 19488415,
         "share_day": 12.57,
-        "rank_week": 12,
-        "tokens_week": 2171905520094,
+        "rank_week": 10,
+        "tokens_week": 2942651052629,
         "rank_month": 13,
-        "tokens_month": 7509235177056,
-        "rank_delta_week": 6,
+        "tokens_month": 8279985808875,
+        "rank_delta_week": 4,
         "rank_delta_month": 7,
         "description_zh": "AI应用程序的控制面板"
       },
@@ -304,9 +304,9 @@
         "requests_day": 8399384,
         "share_day": 9.24,
         "rank_week": 6,
-        "tokens_week": 5521151156903,
+        "tokens_week": 6202346228320,
         "rank_month": 6,
-        "tokens_month": 20553060772148,
+        "tokens_month": 21234263073775,
         "rank_delta_week": -1,
         "rank_delta_month": -1,
         "description_zh": "编程智能体有很多，但这一款是您的。"
@@ -330,9 +330,9 @@
         "requests_day": 4497724,
         "share_day": 4.73,
         "rank_week": 9,
-        "tokens_week": 2999157593044,
+        "tokens_week": 3275381995317,
         "rank_month": 7,
-        "tokens_month": 15138050469769,
+        "tokens_month": 15414278544113,
         "rank_delta_week": 0,
         "rank_delta_month": -2,
         "description_zh": "帮助您构建和发布 AI 的编程智能体"
@@ -353,11 +353,11 @@
         "tokens_day": 302800081496,
         "requests_day": 1843493,
         "share_day": 3.51,
-        "rank_week": 10,
-        "tokens_week": 2295601970086,
+        "rank_week": 11,
+        "tokens_week": 2498085706675,
         "rank_month": 12,
-        "tokens_month": 9428235050269,
-        "rank_delta_week": -1,
+        "tokens_month": 9630721082763,
+        "rank_delta_week": 0,
         "rank_delta_month": 1
       },
       {
@@ -379,9 +379,9 @@
         "requests_day": 2595419,
         "share_day": 2.94,
         "rank_week": 7,
-        "tokens_week": 3305674590961,
+        "tokens_week": 3494577153842,
         "rank_month": 11,
-        "tokens_month": 9520414032284,
+        "tokens_month": 9709318305728,
         "rank_delta_week": -5,
         "rank_delta_month": -1,
         "description_zh": "开源 AI 黑客可以查找并验证代码、API 和基础设施中的漏洞，并开放修复 PR。"
@@ -404,11 +404,11 @@
         "tokens_day": 243805397998,
         "requests_day": 2543589,
         "share_day": 2.83,
-        "rank_week": 11,
-        "tokens_week": 2203373073146,
+        "rank_week": 12,
+        "tokens_week": 2380782104088,
         "rank_month": 10,
-        "tokens_month": 10152836990538,
-        "rank_delta_week": -2,
+        "tokens_month": 10330248805009,
+        "rank_delta_week": -1,
         "rank_delta_month": -3
       },
       {
@@ -431,9 +431,9 @@
         "requests_day": 2444826,
         "share_day": 2.66,
         "rank_week": 13,
-        "tokens_week": 1773348705129,
+        "tokens_week": 1950324629501,
         "rank_month": 8,
-        "tokens_month": 13762723358893,
+        "tokens_month": 13939701210767,
         "rank_delta_week": -1,
         "rank_delta_month": -6,
         "description_zh": "OpenClaw 是一个开源AI 智能体，它连接到您的消息应用程序并代表您采取实际行动，从运行命令和浏览网页到管理文件和发送电子邮件。"
@@ -457,9 +457,9 @@
         "requests_day": 1007514,
         "share_day": 1.34,
         "rank_week": 14,
-        "tokens_week": 1044733552771,
+        "tokens_week": 1131044189274,
         "rank_month": 17,
-        "tokens_month": 3512815134061,
+        "tokens_month": 3599127057735,
         "rank_delta_week": -1,
         "rank_delta_month": 2,
         "description_zh": "AI编程智能体，可以运行命令、浏览网页、调用APIs"
@@ -482,11 +482,11 @@
         "tokens_day": 111974957342,
         "requests_day": 1444581,
         "share_day": 1.3,
-        "rank_week": 16,
-        "tokens_week": 812315981954,
+        "rank_week": 17,
+        "tokens_week": 884342758774,
         "rank_month": 20,
-        "tokens_month": 2785155243390,
-        "rank_delta_week": 0,
+        "tokens_month": 2857182898952,
+        "rank_delta_week": 1,
         "rank_delta_month": 4,
         "description_zh": "AI冒险。与您最喜欢的角色一起旅行"
       },
@@ -509,7 +509,7 @@
         "requests_day": 1304181,
         "share_day": 0.96,
         "rank_week": 25,
-        "tokens_week": 450789720480,
+        "tokens_week": 499146855567,
         "rank_month": null,
         "tokens_month": null,
         "rank_delta_week": 7,
@@ -536,9 +536,9 @@
         "requests_day": 1060436,
         "share_day": 0.96,
         "rank_week": 22,
-        "tokens_week": 543819119693,
+        "tokens_week": 601242703225,
         "rank_month": 21,
-        "tokens_month": 2283077871814,
+        "tokens_month": 2340501469012,
         "rank_delta_week": 3,
         "rank_delta_month": 2
       },
@@ -580,9 +580,9 @@
         "requests_day": 905529,
         "share_day": 0.66,
         "rank_week": 23,
-        "tokens_week": 504579099748,
+        "tokens_week": 539562921456,
         "rank_month": 25,
-        "tokens_month": 1960668076780,
+        "tokens_month": 1995652290784,
         "rank_delta_week": -1,
         "rank_delta_month": 1
       },
@@ -603,9 +603,9 @@
         "requests_day": 720548,
         "share_day": 0.6,
         "rank_week": 24,
-        "tokens_week": 480743424880,
+        "tokens_week": 518156594155,
         "rank_month": 16,
-        "tokens_month": 3828325312520,
+        "tokens_month": 3865739067506,
         "rank_delta_week": -1,
         "rank_delta_month": -9,
         "description_zh": "强大的编码模型，由广告资助"
@@ -653,7 +653,7 @@
         "requests_day": 613371,
         "share_day": 0.5,
         "rank_week": 26,
-        "tokens_week": 409463441294,
+        "tokens_week": 439586955564,
         "rank_month": null,
         "tokens_month": null,
         "rank_delta_week": -1,
@@ -676,7 +676,7 @@
         "requests_day": 380223,
         "share_day": 0.47,
         "rank_week": 28,
-        "tokens_week": 320054761609,
+        "tokens_week": 351652075405,
         "rank_month": null,
         "tokens_month": null,
         "rank_delta_week": 0,
@@ -687,9 +687,36 @@
     "note": "OpenRouter 应用调用量来自公开榜单页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。"
   },
   "producthunt": {
-    "fetched_at": "2026-11-22T03:59:02+00:00",
+    "fetched_at": "2026-11-22T19:29:40+00:00",
     "url": "https://www.producthunt.com/feed?category=artificial-intelligence",
     "items": [
+      {
+        "name": "oovi",
+        "title": "oovi",
+        "tagline": "Your own team of AI on your desktop",
+        "url": "https://www.producthunt.com/products/oovi",
+        "published": "2026-11-21T12:02:03-08:00",
+        "author": "Brahimi Oussama",
+        "tagline_zh": "桌面上您自己的 AI 团队"
+      },
+      {
+        "name": "Resurf",
+        "title": "Resurf",
+        "tagline": "Personal Knowledge Base & Bookmark Manager for Mac",
+        "url": "https://www.producthunt.com/products/resurf-2",
+        "published": "2026-11-21T08:21:36-08:00",
+        "author": "fmerian",
+        "tagline_zh": "Mac 版个人知识库和书签管理器"
+      },
+      {
+        "name": "Omi CLI",
+        "title": "Omi CLI",
+        "tagline": "AI coding agents that work while you're away.",
+        "url": "https://www.producthunt.com/products/omi-cli",
+        "published": "2026-11-21T00:05:31-08:00",
+        "author": "Om Prakash Sahoo",
+        "tagline_zh": "当您不在时，AI编程智能体也能工作。"
+      },
       {
         "name": "Stitch Loop",
         "title": "Stitch Loop",
@@ -763,15 +790,6 @@
         "tagline_zh": "Nova 免费审核您的网站，然后修复发现的内容"
       },
       {
-        "name": "UndoGuard",
-        "title": "UndoGuard",
-        "tagline": "The Ctrl+Z button for autonomous AI agents",
-        "url": "https://www.producthunt.com/products/undoguard",
-        "published": "2026-11-19T11:15:42-08:00",
-        "author": "jort dockx",
-        "tagline_zh": "用于自主 AI 智能体的 Ctrl+Z 按钮"
-      },
-      {
         "name": "Conversaflex",
         "title": "Conversaflex",
         "tagline": "AI speaking practice for multilingual teams",
@@ -779,6 +797,24 @@
         "published": "2026-11-19T10:59:59-08:00",
         "author": "Séraphin Hochart",
         "tagline_zh": "多语言团队的AI口语练习"
+      },
+      {
+        "name": "TeaserKit",
+        "title": "TeaserKit",
+        "tagline": "your coding agent directs your launch video",
+        "url": "https://www.producthunt.com/products/teaserkit",
+        "published": "2026-11-19T07:08:42-08:00",
+        "author": "Adarsh Subham",
+        "tagline_zh": "您的编程智能体指导您的发布视频"
+      },
+      {
+        "name": "Rankhog",
+        "title": "Rankhog",
+        "tagline": "Get customers from Reddit on autopilot",
+        "url": "https://www.producthunt.com/products/rankhog",
+        "published": "2026-11-19T04:43:48-08:00",
+        "author": "fmerian",
+        "tagline_zh": "自动从 Reddit 获取客户"
       },
       {
         "name": "Stormi",
@@ -826,24 +862,6 @@
         "tagline_zh": "Kong 的自我修复智能体云"
       },
       {
-        "name": "Nuko",
-        "title": "Nuko",
-        "tagline": "Motion design in your browser",
-        "url": "https://www.producthunt.com/products/nuko",
-        "published": "2026-11-18T19:34:35-08:00",
-        "author": "Tapdig Soltanov",
-        "tagline_zh": "浏览器中的动效设计"
-      },
-      {
-        "name": "Tecla",
-        "title": "Tecla",
-        "tagline": "A proactive AI agent whose interface is a TODO list",
-        "url": "https://www.producthunt.com/products/tecla-3",
-        "published": "2026-11-18T19:05:34-08:00",
-        "author": "Miguel Angel Cabrera Miñagorri",
-        "tagline_zh": "一个主动式 AI 智能体，其界面是一个 TODO 列表"
-      },
-      {
         "name": "Zethos",
         "title": "Zethos",
         "tagline": "The ledger you and your AI work from",
@@ -878,24 +896,6 @@
         "published": "2026-11-18T09:15:13-08:00",
         "author": "Rohan Chaubey",
         "tagline_zh": "从实时网络构建自定义数据集，速度提高 4 倍"
-      },
-      {
-        "name": "Noteshell",
-        "title": "Noteshell",
-        "tagline": "AI teammates that build and run your workspace",
-        "url": "https://www.producthunt.com/products/noteshell",
-        "published": "2026-11-18T07:28:16-08:00",
-        "author": "Quang Nguyen",
-        "tagline_zh": "构建和运行您的工作空间的 AI 团队成员"
-      },
-      {
-        "name": "Fieldwork Code",
-        "title": "Fieldwork Code",
-        "tagline": "AI coding on your laptop or in the cloud, from your phone",
-        "url": "https://www.producthunt.com/products/fieldwork-code",
-        "published": "2026-11-18T05:32:13-08:00",
-        "author": "Guillaume Dupuy",
-        "tagline_zh": "通过手机在笔记本电脑或云端进行AI编码"
       },
       {
         "name": "CROON",
@@ -934,6 +934,15 @@
         "tagline_zh": "AI制片人可以真正节省您的电影预算"
       },
       {
+        "name": "Ulika",
+        "title": "Ulika",
+        "tagline": "Visual editor for sites built with Claude, Cursor, or Codex",
+        "url": "https://www.producthunt.com/products/ulika",
+        "published": "2026-11-17T11:23:36-08:00",
+        "author": "Mauricio Cervera",
+        "tagline_zh": "使用 Claude、Cursor 或 Codex 构建的站点的可视化编辑器"
+      },
+      {
         "name": "Prompt Puncher",
         "title": "Prompt Puncher",
         "tagline": "The AI CEO Fighting Game",
@@ -952,13 +961,13 @@
         "tagline_zh": "超前思考和行动的AI客户关系助理"
       },
       {
-        "name": "Tabstack by Mozilla",
-        "title": "Tabstack by Mozilla",
-        "tagline": "Give your model the web without giving up your privacy",
-        "url": "https://www.producthunt.com/products/tabstack",
-        "published": "2026-11-16T13:57:39-08:00",
-        "author": "fmerian",
-        "tagline_zh": "为您的模型提供网络而不放弃您的隐私"
+        "name": "Zapyso",
+        "title": "Zapyso",
+        "tagline": "Free meeting notes and dictation that stay on your Mac",
+        "url": "https://www.producthunt.com/products/zapyso",
+        "published": "2026-11-17T01:59:16-08:00",
+        "author": "Sergiy Boryslavskyy",
+        "tagline_zh": "保留在 Mac 上的免费会议笔记和听写"
       },
       {
         "name": "OpenVorld",
@@ -1033,15 +1042,6 @@
         "tagline_zh": "危险天气来临时敲门"
       },
       {
-        "name": "TestSprite 4.0",
-        "title": "TestSprite 4.0",
-        "tagline": "Fix one thing, break another? This agent checks it all",
-        "url": "https://www.producthunt.com/products/testsprite",
-        "published": "2026-11-12T14:40:48-08:00",
-        "author": "Chris Messina",
-        "tagline_zh": "修复一件事，破坏另一件事？这位智能体人会检查一切"
-      },
-      {
         "name": "tensorViz",
         "title": "tensorViz",
         "tagline": "Let your coding agent see inside your PyTorch model",
@@ -1060,15 +1060,6 @@
         "tagline_zh": "通过智能体 AI 导师从真实内容中学习语言"
       },
       {
-        "name": "AI Gateway",
-        "title": "AI Gateway",
-        "tagline": "Manage your company's AI from one place",
-        "url": "https://www.producthunt.com/products/ai-gateway-6",
-        "published": "2026-11-11T11:08:36-08:00",
-        "author": "Mario Alves",
-        "tagline_zh": "从一处管理公司的AI"
-      },
-      {
         "name": "tinytldr",
         "title": "tinytldr",
         "tagline": "Templates for your agents",
@@ -1078,13 +1069,13 @@
         "tagline_zh": "适合您的智能体的模板"
       },
       {
-        "name": "Netlify Server",
-        "title": "Netlify Server",
-        "tagline": "Run WebSockets, multiplayer apps, and long-running agents",
-        "url": "https://www.producthunt.com/products/netlify",
-        "published": "2026-11-10T12:15:49-08:00",
-        "author": "KP",
-        "tagline_zh": "运行 WebSocket、多人应用程序和长时间运行的智能体"
+        "name": "Squint",
+        "title": "Squint",
+        "tagline": "Explains whatever you're looking at, now on Mac",
+        "url": "https://www.producthunt.com/products/squint",
+        "published": "2026-11-10T13:43:34-08:00",
+        "author": "Evan Schwartzentruber",
+        "tagline_zh": "现在在 Mac 上解释您正在查看的任何内容"
       },
       {
         "name": "Memanto Cloud",
@@ -1096,15 +1087,6 @@
         "tagline_zh": "陪伴记忆，让客服人员在您工作时不断改进"
       },
       {
-        "name": "Manufact",
-        "title": "Manufact",
-        "tagline": "Ship and test your MCP to every plugin marketplace",
-        "url": "https://www.producthunt.com/products/manufact",
-        "published": "2026-11-09T17:42:17-08:00",
-        "author": "Garry Tan",
-        "tagline_zh": "将您的 MCP 运送到每个插件市场并进行测试"
-      },
-      {
         "name": "AI Context Flow MCP",
         "title": "AI Context Flow MCP",
         "tagline": "Memory you control, synced to every agent, tool and team",
@@ -1114,6 +1096,15 @@
         "tagline_zh": "您控制的内存，同步到每个智能体、工具和团队"
       },
       {
+        "name": "Webless Agents",
+        "title": "Webless Agents",
+        "tagline": "Agents you want to put in front of customers",
+        "url": "https://www.producthunt.com/products/webless",
+        "published": "2026-11-06T18:49:47-08:00",
+        "author": "Chris Messina",
+        "tagline_zh": "您希望将智能体放在客户面前"
+      },
+      {
         "name": "LoudFlow",
         "title": "LoudFlow",
         "tagline": "We taught text to speech to think",
@@ -1121,6 +1112,15 @@
         "published": "2026-11-06T12:01:47-08:00",
         "author": "Lauro Maffei",
         "tagline_zh": "我们教文本到语音来思考"
+      },
+      {
+        "name": "Yoroll",
+        "title": "Yoroll",
+        "tagline": "Build playable stories without a game engine",
+        "url": "https://www.producthunt.com/products/yoroll",
+        "published": "2026-11-05T19:24:04-08:00",
+        "author": "Justin Jincaid",
+        "tagline_zh": "无需游戏引擎即可构建可玩的故事"
       },
       {
         "name": "Compass OS",
@@ -1144,16 +1144,16 @@
     "note": "Product Hunt 公共订阅源只提供发布信息，不提供票数；按发布时间排序。"
   },
   "huggingface": {
-    "fetched_at": "2026-11-22T03:59:02+00:00",
+    "fetched_at": "2026-11-22T19:29:40+00:00",
     "url": "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=24",
     "items": [
       {
         "id": "thinkingmachines/Inkling-2-Mini",
         "name": "thinkingmachines/Inkling-2-Mini",
         "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-        "downloads": 7944,
-        "likes": 3246,
-        "trending_score": 710.5,
+        "downloads": 23543,
+        "likes": 4678,
+        "trending_score": 869,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1172,9 +1172,9 @@
         "id": "unsloth/Inkling-2-Mini-GGUF",
         "name": "unsloth/Inkling-2-Mini-GGUF",
         "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-        "downloads": 238152,
-        "likes": 660,
-        "trending_score": 615,
+        "downloads": 805993,
+        "likes": 833,
+        "trending_score": 771,
         "pipeline": "image-text-to-text",
         "library": null,
         "tags": [
@@ -1190,33 +1190,12 @@
         "created_at": "2026-11-20T13:09:48.000Z"
       },
       {
-        "id": "tencent/Hy4-flash",
-        "name": "tencent/Hy4-flash",
-        "url": "https://huggingface.co/tencent/Hy4-flash",
-        "downloads": 5588,
-        "likes": 549,
-        "trending_score": 391,
-        "pipeline": "image-text-to-text",
-        "library": "transformers",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "hy_v4_flash",
-          "text-generation",
-          "hunyuan",
-          "hy4-flash",
-          "moe",
-          "multimodal"
-        ],
-        "created_at": "2026-11-17T03:44:46.000Z"
-      },
-      {
         "id": "inworld/voice-isolator",
         "name": "inworld/voice-isolator",
         "url": "https://huggingface.co/inworld/voice-isolator",
         "downloads": 0,
-        "likes": 524,
-        "trending_score": 384,
+        "likes": 603,
+        "trending_score": 452,
         "pipeline": "audio-to-audio",
         "library": "inworld-voice-isolation",
         "tags": [
@@ -1232,12 +1211,33 @@
         "created_at": "2026-11-14T02:14:35.000Z"
       },
       {
+        "id": "tencent/Hy4-flash",
+        "name": "tencent/Hy4-flash",
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "downloads": 6617,
+        "likes": 598,
+        "trending_score": 419,
+        "pipeline": "image-text-to-text",
+        "library": "transformers",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "hy_v4_flash",
+          "text-generation",
+          "hunyuan",
+          "hy4-flash",
+          "moe",
+          "multimodal"
+        ],
+        "created_at": "2026-11-17T03:44:46.000Z"
+      },
+      {
         "id": "apple/FastFrames-L",
         "name": "apple/FastFrames-L",
         "url": "https://huggingface.co/apple/FastFrames-L",
         "downloads": 0,
-        "likes": 494,
-        "trending_score": 340,
+        "likes": 521,
+        "trending_score": 361,
         "pipeline": "text-to-video",
         "library": null,
         "tags": [
@@ -1255,9 +1255,9 @@
         "id": "harness-hub/Qwen3.8-27B-pi-adapted",
         "name": "harness-hub/Qwen3.8-27B-pi-adapted",
         "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-        "downloads": 2383,
-        "likes": 938,
-        "trending_score": 319,
+        "downloads": 2831,
+        "likes": 974,
+        "trending_score": 329,
         "pipeline": "image-text-to-text",
         "library": "peft",
         "tags": [
@@ -1276,9 +1276,9 @@
         "id": "higurashi-ai/Haru-4B",
         "name": "higurashi-ai/Haru-4B",
         "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-        "downloads": 8120,
-        "likes": 846,
-        "trending_score": 304.5,
+        "downloads": 8608,
+        "likes": 870,
+        "trending_score": 285.5,
         "pipeline": "audio-to-audio",
         "library": null,
         "tags": [
@@ -1294,12 +1294,54 @@
         "created_at": "2026-11-12T11:05:59.000Z"
       },
       {
+        "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "downloads": 129693,
+        "likes": 435,
+        "trending_score": 268.79999999999995,
+        "pipeline": "image-text-to-text",
+        "library": null,
+        "tags": [
+          "gguf",
+          "llama.cpp",
+          "inkling2",
+          "uncensored",
+          "lora",
+          "image-text-to-text",
+          "base_model:thinkingmachines/Inkling-2-Mini",
+          "base_model:adapter:thinkingmachines/Inkling-2-Mini"
+        ],
+        "created_at": "2026-11-20T20:42:23.000Z"
+      },
+      {
+        "id": "apple/DepthPro2",
+        "name": "apple/DepthPro2",
+        "url": "https://huggingface.co/apple/DepthPro2",
+        "downloads": 0,
+        "likes": 256,
+        "trending_score": 219,
+        "pipeline": "depth-estimation",
+        "library": "depth-pro-2",
+        "tags": [
+          "depth-pro-2",
+          "depth-estimation",
+          "metric-depth",
+          "monocular-depth",
+          "video-depth",
+          "arxiv:2611.26603",
+          "license:other",
+          "region:us"
+        ],
+        "created_at": "2026-11-03T16:55:03.000Z"
+      },
+      {
         "id": "Qwen/Qwen3.8-27B",
         "name": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "downloads": 6298190,
-        "likes": 20819,
-        "trending_score": 215.5,
+        "downloads": 6297396,
+        "likes": 20864,
+        "trending_score": 208.5,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1318,9 +1360,9 @@
         "id": "sensenova/SenseNova-Loop-9B",
         "name": "sensenova/SenseNova-Loop-9B",
         "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-        "downloads": 1745,
-        "likes": 465,
-        "trending_score": 185,
+        "downloads": 1863,
+        "likes": 491,
+        "trending_score": 192,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1339,9 +1381,9 @@
         "id": "Lightricks/LTX-2.5",
         "name": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "downloads": 3000544,
-        "likes": 12952,
-        "trending_score": 178.5,
+        "downloads": 2993088,
+        "likes": 13042,
+        "trending_score": 174.5,
         "pipeline": "image-to-video",
         "library": "diffusion-single-file",
         "tags": [
@@ -1357,75 +1399,12 @@
         "created_at": "2026-07-23T07:55:24.000Z"
       },
       {
-        "id": "apple/DepthPro2",
-        "name": "apple/DepthPro2",
-        "url": "https://huggingface.co/apple/DepthPro2",
-        "downloads": 0,
-        "likes": 204,
-        "trending_score": 176,
-        "pipeline": "depth-estimation",
-        "library": "depth-pro-2",
-        "tags": [
-          "depth-pro-2",
-          "depth-estimation",
-          "metric-depth",
-          "monocular-depth",
-          "video-depth",
-          "arxiv:2611.26603",
-          "license:other",
-          "region:us"
-        ],
-        "created_at": "2026-11-03T16:55:03.000Z"
-      },
-      {
-        "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-        "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-        "downloads": 9540,
-        "likes": 269,
-        "trending_score": 163.79999999999998,
-        "pipeline": "image-text-to-text",
-        "library": null,
-        "tags": [
-          "gguf",
-          "llama.cpp",
-          "inkling2",
-          "uncensored",
-          "lora",
-          "image-text-to-text",
-          "base_model:thinkingmachines/Inkling-2-Mini",
-          "base_model:adapter:thinkingmachines/Inkling-2-Mini"
-        ],
-        "created_at": "2026-11-20T20:42:23.000Z"
-      },
-      {
-        "id": "MiniMaxAI/MiniMax-H3-Image",
-        "name": "MiniMaxAI/MiniMax-H3-Image",
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-        "downloads": 916726,
-        "likes": 1694,
-        "trending_score": 150.5,
-        "pipeline": "text-to-image",
-        "library": "minimax-h3",
-        "tags": [
-          "minimax-h3",
-          "diffusers",
-          "safetensors",
-          "text-to-image",
-          "image-to-image",
-          "image-editing",
-          "image-generation",
-          "en"
-        ],
-        "created_at": "2026-11-03T06:34:36.000Z"
-      },
-      {
         "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
         "name": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
         "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-        "downloads": 339903,
-        "likes": 744,
-        "trending_score": 147,
+        "downloads": 381769,
+        "likes": 787,
+        "trending_score": 156,
         "pipeline": "text-to-image",
         "library": "diffusers",
         "tags": [
@@ -1441,12 +1420,30 @@
         "created_at": "2026-11-03T16:13:25.000Z"
       },
       {
+        "id": "SulphurAI/Sulphur-3",
+        "name": "SulphurAI/Sulphur-3",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+        "downloads": 78931,
+        "likes": 758,
+        "trending_score": 153,
+        "pipeline": null,
+        "library": "minimax-h3",
+        "tags": [
+          "minimax-h3",
+          "base_model:MiniMaxAI/MiniMax-H3",
+          "base_model:finetune:MiniMaxAI/MiniMax-H3",
+          "license:other",
+          "region:us"
+        ],
+        "created_at": "2026-10-31T20:31:01.000Z"
+      },
+      {
         "id": "meituan-longcat/LongCat-Video-Avatar-1.6",
         "name": "meituan-longcat/LongCat-Video-Avatar-1.6",
         "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-        "downloads": 3031,
-        "likes": 388,
-        "trending_score": 130.5,
+        "downloads": 3483,
+        "likes": 420,
+        "trending_score": 141,
         "pipeline": null,
         "library": "longcat-video-avatar-1.6",
         "tags": [
@@ -1462,32 +1459,33 @@
         "created_at": "2026-11-13T02:45:33.000Z"
       },
       {
-        "id": "n4ze3m/tiny-voca",
-        "name": "n4ze3m/tiny-voca",
-        "url": "https://huggingface.co/n4ze3m/tiny-voca",
-        "downloads": 9323,
-        "likes": 377,
-        "trending_score": 125,
-        "pipeline": "text-to-speech",
-        "library": null,
+        "id": "MiniMaxAI/MiniMax-H3-Image",
+        "name": "MiniMaxAI/MiniMax-H3-Image",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "downloads": 952024,
+        "likes": 1722,
+        "trending_score": 137,
+        "pipeline": "text-to-image",
+        "library": "minimax-h3",
         "tags": [
-          "onnx",
-          "gguf",
-          "text-to-speech",
-          "en",
-          "dataset:n4ze3m/tiny-voca",
-          "license:apache-2.0",
-          "region:us"
+          "minimax-h3",
+          "diffusers",
+          "safetensors",
+          "text-to-image",
+          "image-to-image",
+          "image-editing",
+          "image-generation",
+          "en"
         ],
-        "created_at": "2026-11-14T15:46:27.000Z"
+        "created_at": "2026-11-03T06:34:36.000Z"
       },
       {
         "id": "maxwell-model/Maxwell-V1-Flash",
         "name": "maxwell-model/Maxwell-V1-Flash",
         "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
-        "downloads": 2959,
-        "likes": 327,
-        "trending_score": 111.5,
+        "downloads": 3317,
+        "likes": 343,
+        "trending_score": 115,
         "pipeline": "text-generation",
         "library": null,
         "tags": [
@@ -1503,12 +1501,33 @@
         "created_at": "2026-10-13T07:53:39.000Z"
       },
       {
+        "id": "Lakonik/pi-H3",
+        "name": "Lakonik/pi-H3",
+        "url": "https://huggingface.co/Lakonik/pi-H3",
+        "downloads": 9038,
+        "likes": 151,
+        "trending_score": 112,
+        "pipeline": "image-text-to-video",
+        "library": "diffusers",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "flow-matching",
+          "distillation",
+          "text-to-audio-video",
+          "image-to-audio-video",
+          "comfyui",
+          "image-text-to-video"
+        ],
+        "created_at": "2026-11-12T03:39:03.000Z"
+      },
+      {
         "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
         "name": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
         "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-        "downloads": 1787788,
-        "likes": 3473,
-        "trending_score": 109,
+        "downloads": 1827784,
+        "likes": 3502,
+        "trending_score": 107,
         "pipeline": "image-text-to-text",
         "library": null,
         "tags": [
@@ -1524,51 +1543,12 @@
         "created_at": "2026-09-01T07:01:09.000Z"
       },
       {
-        "id": "unsloth/Qwen3.8-27B-GGUF",
-        "name": "unsloth/Qwen3.8-27B-GGUF",
-        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-        "downloads": 7532043,
-        "likes": 6268,
-        "trending_score": 100,
-        "pipeline": null,
-        "library": null,
-        "tags": [
-          "gguf",
-          "qwen3_5",
-          "unsloth",
-          "qwen",
-          "base_model:Qwen/Qwen3.8-27B",
-          "base_model:quantized:Qwen/Qwen3.8-27B",
-          "license:apache-2.0",
-          "endpoints_compatible"
-        ],
-        "created_at": "2026-08-13T08:28:40.000Z"
-      },
-      {
-        "id": "SulphurAI/Sulphur-3",
-        "name": "SulphurAI/Sulphur-3",
-        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
-        "downloads": 1186,
-        "likes": 690,
-        "trending_score": 96,
-        "pipeline": null,
-        "library": "minimax-h3",
-        "tags": [
-          "minimax-h3",
-          "base_model:MiniMaxAI/MiniMax-H3",
-          "base_model:finetune:MiniMaxAI/MiniMax-H3",
-          "license:other",
-          "region:us"
-        ],
-        "created_at": "2026-10-31T20:31:01.000Z"
-      },
-      {
         "id": "RadixArk/DaisyRose-27B",
         "name": "RadixArk/DaisyRose-27B",
         "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
-        "downloads": 1375,
-        "likes": 272,
-        "trending_score": 92.5,
+        "downloads": 1815,
+        "likes": 297,
+        "trending_score": 100,
         "pipeline": "image-text-to-text",
         "library": "transformers",
         "tags": [
@@ -1584,12 +1564,53 @@
         "created_at": "2026-11-18T05:31:35.000Z"
       },
       {
+        "id": "n4ze3m/tiny-voca",
+        "name": "n4ze3m/tiny-voca",
+        "url": "https://huggingface.co/n4ze3m/tiny-voca",
+        "downloads": 10768,
+        "likes": 400,
+        "trending_score": 99.5,
+        "pipeline": "text-to-speech",
+        "library": null,
+        "tags": [
+          "onnx",
+          "gguf",
+          "text-to-speech",
+          "en",
+          "dataset:n4ze3m/tiny-voca",
+          "license:apache-2.0",
+          "region:us"
+        ],
+        "created_at": "2026-11-14T15:46:27.000Z"
+      },
+      {
+        "id": "facebook/sam-3d-body-dinov3",
+        "name": "facebook/sam-3d-body-dinov3",
+        "url": "https://huggingface.co/facebook/sam-3d-body-dinov3",
+        "downloads": 18709,
+        "likes": 1699,
+        "trending_score": 94,
+        "pipeline": null,
+        "library": "sam-3d-body",
+        "tags": [
+          "sam-3d-body",
+          "sam-3d",
+          "3d-human-mesh-recovery",
+          "human-pose-estimation",
+          "meta",
+          "en",
+          "license:other",
+          "region:us"
+        ],
+        "created_at": "2025-11-17T18:44:24.000Z"
+      },
+      {
         "id": "facebook/sam3",
         "name": "facebook/sam3",
         "url": "https://huggingface.co/facebook/sam3",
-        "downloads": 1850744,
-        "likes": 7143,
-        "trending_score": 91.5,
+        "downloads": 1806893,
+        "likes": 7192,
+        "trending_score": 90,
         "pipeline": "mask-generation",
         "library": "transformers",
         "tags": [
@@ -1605,52 +1626,25 @@
         "created_at": "2025-11-07T05:17:48.000Z"
       },
       {
-        "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "name": "black-forest-labs/flux-3-image-klein-comfy",
-        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "downloads": 964439,
-        "likes": 3635,
-        "trending_score": 88,
-        "pipeline": "image-to-image",
-        "library": "diffusion-single-file",
+        "id": "Sentinel7/h3",
+        "name": "Sentinel7/h3",
+        "url": "https://huggingface.co/Sentinel7/h3",
+        "downloads": 0,
+        "likes": 1133,
+        "trending_score": 88.80000000000001,
+        "pipeline": null,
+        "library": null,
         "tags": [
-          "diffusion-single-file",
-          "comfyui",
-          "image-generation",
-          "image-editing",
-          "flux",
-          "flux-3",
-          "black-forest-labs",
-          "image-to-image"
+          "region:us",
+          "not-for-all-audiences"
         ],
-        "created_at": "2026-10-14T12:00:13.000Z"
-      },
-      {
-        "id": "thinkingmachines/Inkling-2-Small",
-        "name": "thinkingmachines/Inkling-2-Small",
-        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-        "downloads": 45356,
-        "likes": 636,
-        "trending_score": 84,
-        "pipeline": "image-text-to-text",
-        "library": "transformers",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "inkling2",
-          "image-text-to-text",
-          "conversational",
-          "moe",
-          "license:apache-2.0",
-          "eval-results"
-        ],
-        "created_at": "2026-11-04T19:51:05.000Z"
+        "created_at": "2026-08-06T04:13:52.000Z"
       }
     ],
     "note": "Hugging Face 热度分为平台热度信号，不等于商业收入。"
   },
   "lean": {
-    "fetched_at": "2026-11-22T03:59:02+00:00",
+    "fetched_at": "2026-11-22T19:29:40+00:00",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1vMlwTJ8_Lty161T73uwnMzVxb48XzHxz9aPNla5OgCjd2yJ0HMfxEHGSv1OsyGOarWUYDcsJZfmk/pub?gid=0&single=true&output=csv",
     "via": "google",
     "count": 72,
@@ -1658,7 +1652,7 @@
   },
   "lean_extra": {
     "opu": {
-      "fetched_at": "2026-11-22T03:59:03+00:00",
+      "fetched_at": "2026-11-22T19:29:41+00:00",
       "url": "https://www.onepersonunicorn.co/",
       "items": [
         {
@@ -1773,7 +1767,7 @@
       "note": "One Person Unicorn：团队 ≤10 人，ARR 主要为自报/创始人提交，非全部独立核实。"
     },
     "vv": {
-      "fetched_at": "2026-11-22T03:59:03+00:00",
+      "fetched_at": "2026-11-22T19:29:41+00:00",
       "url": "https://www.verticalvelocity.co/",
       "items": [
         {
