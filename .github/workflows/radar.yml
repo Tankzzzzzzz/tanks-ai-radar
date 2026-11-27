@@ -2,7 +2,7 @@ name: Tank's AI Radar · collect & deploy
 
 on:
   schedule:
-    # Daily 08:00 Asia/Shanghai (00:00 UTC)
+    # Daily 08:00 Asia/Shanghai (00:00 UTC); GitHub may delay scheduled runs.
     - cron: "0 0 * * *"
     # Lean sources update Sunday evening Asia/Shanghai (12:10 UTC)
     - cron: "10 12 * * 0"
@@ -21,9 +21,6 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     timeout-minutes: 25
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -54,6 +51,17 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # Give the artifact API a few seconds to make the uploaded artifact visible.
+      - name: Wait for artifact propagation
+        run: sleep 10
 
       - name: Deploy to GitHub Pages
         id: deployment
