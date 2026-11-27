@@ -6,6 +6,8 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 DATE = datetime.date.today().isoformat()
 
 CATEGORY_BY_DESC = {
+    "Cloud Sandboxes for AI Agents": "基础设施",
+    "AI Spreadsheet Agent": "智能体与自动化",
     "AI Native Telemedicine": "行业应用",
     "Messaging": "消费产品",
     "Image Generation": "内容与创意",
@@ -73,6 +75,8 @@ CATEGORY_BY_DESC = {
 }
 
 DESC_ZH = {
+    "Cloud Sandboxes for AI Agents": "AI 智能体云沙箱",
+    "AI Spreadsheet Agent": "AI 表格智能体",
     "AI Native Telemedicine": "AI 原生远程医疗",
     "Messaging": "即时通讯",
     "Image Generation": "图像生成",
@@ -165,6 +169,7 @@ SEARCH_TERMS = {
     "Sela": "Sela AI",
     "OpenArt": "OpenArt AI",
     "Super.com": "Super.com",
+    "Shortcut": "Shortcut Excel AI",
 }
 
 STATUS = {

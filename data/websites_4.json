@@ -1,0 +1,18 @@
+{
+  "companies": [
+    {
+      "name": "Daytona",
+      "website": "https://www.daytona.io/",
+      "github": "https://github.com/daytonaio/daytona",
+      "verified": true,
+      "notes": "官网 200；GitHub 组织 daytonaio。"
+    },
+    {
+      "name": "Shortcut",
+      "website": "https://shortcut.ai/",
+      "github": "",
+      "verified": true,
+      "notes": "官网 200；shortcut.ai 为 Excel AI 产品，区别于项目管理工具 shortcut.com。"
+    }
+  ]
+}
