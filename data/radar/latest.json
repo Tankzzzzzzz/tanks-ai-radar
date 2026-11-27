@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T03:30:09+00:00",
+  "generated_at": "2026-11-27T03:34:14+00:00",
   "github": {
-    "fetched_at": "2026-11-27T03:30:11+00:00",
+    "fetched_at": "2026-11-27T03:34:14+00:00",
     "url": "https://github.com/trending?since=daily",
     "items": [
       {
@@ -10,7 +10,7 @@
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
         "stars_today": 1597,
-        "stars": 24782,
+        "stars": 24785,
         "forks": 2518,
         "language": "Python",
         "source": "trending",
@@ -24,8 +24,8 @@
         "url": "https://github.com/firecrawl/firecrawl",
         "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
         "stars_today": 1046,
-        "stars": 211040,
-        "forks": 11053,
+        "stars": 211047,
+        "forks": 11054,
         "language": "TypeScript",
         "source": "trending",
         "trending_rank": 6,
@@ -38,7 +38,7 @@
         "url": "https://github.com/cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "stars_today": 955,
-        "stars": 73949,
+        "stars": 73952,
         "forks": 4939,
         "language": "HTML",
         "source": "trending",
@@ -52,8 +52,8 @@
         "url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "stars_today": 854,
-        "stars": 327586,
-        "forks": 29062,
+        "stars": 327587,
+        "forks": 29063,
         "language": "Shell",
         "source": "trending",
         "trending_rank": 2,
@@ -66,7 +66,7 @@
         "url": "https://github.com/zhouxiaoka/autoclip",
         "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
         "stars_today": 774,
-        "stars": 17060,
+        "stars": 17063,
         "forks": 2392,
         "language": "Python",
         "source": "trending",
@@ -80,7 +80,7 @@
         "url": "https://github.com/mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "stars_today": 759,
-        "stars": 75860,
+        "stars": 75863,
         "forks": 6685,
         "language": "Python",
         "source": "trending",
@@ -94,7 +94,7 @@
         "url": "https://github.com/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "stars_today": 746,
-        "stars": 66463,
+        "stars": 66465,
         "forks": 6049,
         "language": "Python",
         "source": "trending",
@@ -108,7 +108,7 @@
         "url": "https://github.com/jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "stars_today": 702,
-        "stars": 71766,
+        "stars": 71769,
         "forks": 9315,
         "language": "Python",
         "source": "trending",
@@ -136,7 +136,7 @@
         "url": "https://github.com/Tracer-Cloud/opensre",
         "description": "The open-source agent for CI/CD reliability.",
         "stars_today": 327,
-        "stars": 15865,
+        "stars": 15866,
         "forks": 2068,
         "language": "Python",
         "source": "trending",
@@ -176,7 +176,7 @@
     "note": "今日 Star 为 GitHub 官方趋势页面口径；搜索兜底为中 Star AI 项目。"
   },
   "openrouter": {
-    "fetched_at": "2026-11-27T03:30:11+00:00",
+    "fetched_at": "2026-11-27T03:34:14+00:00",
     "url": "https://openrouter.ai/rankings",
     "items": [
       {
@@ -690,7 +690,7 @@
     "note": "OpenRouter 应用调用量来自公开榜单页面；仅覆盖通过 OpenRouter 路由的调用，不代表公司总营收。"
   },
   "producthunt": {
-    "fetched_at": "2026-11-27T03:30:11+00:00",
+    "fetched_at": "2026-11-27T03:34:15+00:00",
     "url": "https://www.producthunt.com/feed?category=artificial-intelligence",
     "items": [
       {
@@ -1147,7 +1147,7 @@
     "note": "Product Hunt 公共订阅源只提供发布信息，不提供票数；按发布时间排序。"
   },
   "huggingface": {
-    "fetched_at": "2026-11-27T03:30:11+00:00",
+    "fetched_at": "2026-11-27T03:34:15+00:00",
     "url": "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=24",
     "items": [
       {
@@ -1197,8 +1197,8 @@
         "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
         "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
         "downloads": 762491,
-        "likes": 940,
-        "trending_score": 510.99999999999994,
+        "likes": 941,
+        "trending_score": 511.7,
         "pipeline": "image-text-to-text",
         "library": null,
         "tags": [
@@ -1341,8 +1341,8 @@
         "name": "apple/DepthPro2",
         "url": "https://huggingface.co/apple/DepthPro2",
         "downloads": 0,
-        "likes": 1322,
-        "trending_score": 216.5,
+        "likes": 1323,
+        "trending_score": 217,
         "pipeline": "depth-estimation",
         "library": "depth-pro-2",
         "tags": [
@@ -1502,8 +1502,8 @@
         "name": "harness-hub/Qwen3.8-27B-pi-adapted",
         "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
         "downloads": 3844,
-        "likes": 1156,
-        "trending_score": 126.5,
+        "likes": 1157,
+        "trending_score": 127,
         "pipeline": "image-text-to-text",
         "library": "peft",
         "tags": [
@@ -1648,7 +1648,7 @@
     "note": "Hugging Face 热度分为平台热度信号，不等于商业收入。"
   },
   "lean": {
-    "fetched_at": "2026-11-27T03:30:12+00:00",
+    "fetched_at": "2026-11-27T03:34:15+00:00",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1vMlwTJ8_Lty161T73uwnMzVxb48XzHxz9aPNla5OgCjd2yJ0HMfxEHGSv1OsyGOarWUYDcsJZfmk/pub?gid=0&single=true&output=csv",
     "via": "google",
     "count": 72,
@@ -1656,7 +1656,7 @@
   },
   "lean_extra": {
     "opu": {
-      "fetched_at": "2026-11-27T03:30:12+00:00",
+      "fetched_at": "2026-11-27T03:34:16+00:00",
       "url": "https://www.onepersonunicorn.co/",
       "items": [
         {
@@ -1771,7 +1771,7 @@
       "note": "One Person Unicorn：团队 ≤10 人，ARR 主要为自报/创始人提交，非全部独立核实。"
     },
     "vv": {
-      "fetched_at": "2026-11-27T03:30:12+00:00",
+      "fetched_at": "2026-11-27T03:34:16+00:00",
       "url": "https://www.verticalvelocity.co/",
       "items": [
         {
